@@ -6,6 +6,28 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Weekend journal</title>
+        <description>&lt;p class=&quot;lead&quot;&gt;Rock climbing&lt;/p&gt;
+
+
+&lt;p&gt;My first time top roping in a long time. We went to Mission Cliffs where I &lt;em&gt;almost&lt;/em&gt; aced the belay test. I forgot how to check my double figure eight knot (look for 5 sets of parallel lines). I climbed some 5.10d's and a 5.11a. It was a good wake up call that bouldering focuses on very different strengths.&lt;/p&gt;
+
+&lt;p class=&quot;lead&quot;&gt;A walk&lt;/p&gt;
+
+
+&lt;p&gt;Megan and I walked 9 miles in one day. We hit Buena Vista, Corona Heights, and Sutro Open Space Preserve. I was fortunate enough to have Apple Pay set up on my phone so we could buy something to drink in Cole Valley, as I forgot my wallet.&lt;/p&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Reading Kafka&lt;/p&gt;
+
+
+&lt;p&gt;I borrowed &lt;em&gt;The Trial&lt;/em&gt;, by F. Kafka, from my friend George. I was surprised to have covered 70 pages in one day (the book is ~250). I've been mixing paperback (Hillbilly Elegy) and Kindle books (The Innovator's Dilemma) recently. Each format has different qualities to appreciate.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 12 Mar 2017 17:13:00 -0700</pubDate>
+				<link>http://localhost:4000/2017/03/12/weekend-journal.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2017/03/12/weekend-journal.html</guid>
+			</item>
+		
+			<item>
 				<title>Driving Death Valley</title>
         <description>&lt;p class=&quot;lead&quot;&gt;November, 2016&lt;/p&gt;
 
