@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Kyle James Kirwan</title>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Tilden Little Farm</title>
+        <description>&lt;p&gt;We went to a little farm in Berkeley called Tilden Little Farm. You can bring your own lettuce or celery and feed the animals.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/000052490031.jpg&quot; class=&quot;image-big&quot;&gt; These cows had long tongues which reach out to take the lettuce from your hands. I caught this one mid-chew. Obviously made a mistake with my depth-of-field. I think this was at f1.2 or f1.4, and should have been higher.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/000052490037.jpg&quot; class=&quot;image-big&quot;&gt; I underexposed here a bit...I think I spent too much time looking at the light-colored goose.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/000052490033.jpg&quot; class=&quot;image-big&quot;&gt; These piglets were fun. They run around like puppies, occasionally looking for a teat.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 26 Feb 2017 09:50:00 -0800</pubDate>
+				<link>http://localhost:4000/2017/02/26/tilden-little-farm.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2017/02/26/tilden-little-farm.html</guid>
+			</item>
+		
+	</channel>
+</rss>
