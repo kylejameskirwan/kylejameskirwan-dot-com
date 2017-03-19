@@ -19,7 +19,7 @@ I traded my desktop computer for the one way ticket, borrowed some money from a 
 
 <strong>I work at Uber.</strong>
 
-I'm a product manager in our data org, building internal data tools. Most of my work is focused on improving efficiency for folks who consume data in their own work. I moved to product from data science, which I did here between 2013 and 2016. I'm fortunate to be working with some talented and experience people who I learn from every day.
+I'm a product manager in our data org, building internal data tools. I moved to product from data science, which I did here between 2013 and 2016. I'm fortunate to be working with some talented and experience people who I learn from every day.
 
 Prior to Uber, I interned at Grooveshark, while completing undergrad in <a href="http://www.ise.ufl.edu">Industrial and Systems engineering</a> at the University of Florida.
 
