@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekend journal"
+title:  "Recap of a quiet weekend"
 date:   2017-03-13 00:13:00
 categories: journal
 ---
