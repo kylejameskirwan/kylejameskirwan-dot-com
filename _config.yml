@@ -12,7 +12,7 @@ markdown:           rdiscount
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kylejameskirwan.com/about/index.html"
+    href:           "/about"
 
 # Sass
 sass:
