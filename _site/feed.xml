@@ -6,185 +6,804 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Bear Trap Cabin</title>
-        <description>&lt;p&gt;Our adventure group got together for a little snowshoeing out to Bear Trap Cabin, north of Yosemite.&lt;/p&gt;
+				<title>What does it take to be a PM?</title>
+        <description>&lt;h1&gt;The question&lt;/h1&gt;
 
-&lt;p class=&quot;lead&quot;&gt;Trip stats&lt;/p&gt;
+&lt;p&gt;The following question has been posed to me several times over the last few years:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;How did you get started as a PM and how can I do it too?&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Quite a few of the people doing the asking have turned PM themselves, and some are probably better at it now than I am! I'd like to think my advice here helped someone get from 0 to 1 (if imperfectly) so I'm encouraged to put it out there for others to find, in case there are truly some nuggets of wisdom in here.&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;h1&gt;How did you start as pm?&lt;/h1&gt;
+
+&lt;p&gt;While working as a data scientist on Uber's Growth team, I wound up running the company's first AB tests. Fast forward a bit (many more tests and a lot of self-directed learning about experimentation theory and practice), I was offered the &quot;subject matter expert&quot; role on the newly formed team tasked with building the internal AB testing platform.&lt;/p&gt;
+
+&lt;p&gt;The PM and I wound up working famously well together: I knew the audience and what they needed from the product, and he knew how to take a team from 0 to cranking out a high quality and well-loved product. Two years later, our products had been adopted by hundreds of teams across the business to run thousands of concurrent experiments.&lt;/p&gt;
+
+&lt;p&gt;Here comes the sauce.&lt;/p&gt;
+
+&lt;p&gt;I moved to a new team but in a similar role: they had a PM and I was to be the data science expert. The new PM was juggling several projects at once and was stretched, presenting some opportunities to pick up work he wasn't able to do. I jumped on these opportunities, applying my best imitations of techniques I watched my former PM use to get my old team started.&lt;/p&gt;
+
+&lt;p&gt;Not long after, our new PM decided to move off our project to focus on some of his other demands. I was offered to step into the gap by our team's product director. Within a month I got offered to help out with a second team that wanted some product thinking to improve the coherency of the tools they were building. I tried replicating these techniques there as well.&lt;/p&gt;
+
+&lt;p&gt;Six months and some product and feature launches later, I presented my accomplishments in a round of internal interviews with senior product folks from around the company. Succeeding those interviews gave me the official title, though it was the six months of experiences that made me truly feel like a product manager (of course, with a lot to learn).&lt;/p&gt;
+
+&lt;h1&gt;How do I show my interviewers that I have the skills, talents, and desire to be a successful PM?&lt;/h1&gt;
+
+&lt;h2&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;I group PM skills generally into these categories…&lt;/p&gt;
+
+&lt;h3&gt;Product strategy&lt;/h3&gt;
+
+&lt;p&gt;This is the highest level thinking about the team’s raison d’etre and how they will succeed in 3 months, 1 year, 5 years.&lt;/p&gt;
+
+&lt;p&gt;What is the fundamental problem needing to be solved? Mess this up and you're wasting the company's money.&lt;/p&gt;
+
+&lt;p&gt;Building a picture of the customer(s). What are their needs, their goals, their limits, and their strengths?&lt;/p&gt;
+
+&lt;p&gt;How to go from 0 product to version 1? (very difficult)&lt;/p&gt;
+
+&lt;p&gt;How to iterate from 1 to 2 to N? (a little easier)&lt;/p&gt;
+
+&lt;p&gt;How to measure the product success, which metrics and why?&lt;/p&gt;
+
+&lt;p&gt;How to deal with competing solutions?&lt;/p&gt;
+
+&lt;p&gt;How to sell the product and get adoption from your target users?&lt;/p&gt;
+
+&lt;p&gt;How to prioritize the steps to solve this problem? You can do anything but you can’t do everything.&lt;/p&gt;
+
+&lt;p&gt;How to tell the story of your product: why does it deserve to exist, what matters in the next (or first) version and what can you save for later, what is the long term / magic-wand vision you’re ultimately aiming for? How will you make this simple enough, and sexy enough, to get people to understand your vision and feel excited about it?&lt;/p&gt;
+
+&lt;h3&gt;Product design&lt;/h3&gt;
+
+&lt;p&gt;This is solution thinking part 1, what should the solution do, look like, and feel like.&lt;/p&gt;
+
+&lt;p&gt;How to work with user researchers to clarify user needs and broad categories of solutions&lt;/p&gt;
+
+&lt;p&gt;How to work with designers to explore possible solutions, then refine one into a buildable product&lt;/p&gt;
+
+&lt;p&gt;Keeping up with modern design options, trends, etc.&lt;/p&gt;
+
+&lt;p&gt;Mobile vs. desktop vs. hardware vs. sales-materials/copy&lt;/p&gt;
+
+&lt;h3&gt;Technical knowledge&lt;/h3&gt;
+
+&lt;p&gt;This is solution thinking part 2, how will we build the designed solution feasibly.&lt;/p&gt;
+
+&lt;p&gt;Software architecture: how are your team's engineers proposing to build this product? What are the components and how do they work together?&lt;/p&gt;
+
+&lt;p&gt;How to work with the engineering manager to align the needs of the product with the strengths and desires of the engineers?&lt;/p&gt;
+
+&lt;p&gt;How will you get estimates for the engineering time? How much safety factor do you need to pad these estimates with?&lt;/p&gt;
+
+&lt;p&gt;Understanding the technical limitations and strengths of different approaches to the problem.&lt;/p&gt;
+
+&lt;p&gt;Staying on top of new technologies so your product strategy reflects what’s possible today and will be possible soon.&lt;/p&gt;
+
+&lt;h3&gt;People skills&lt;/h3&gt;
+
+&lt;p&gt;These are constantly and vitally important, making (all of) the humans do what needs to get done.&lt;/p&gt;
+
+&lt;p&gt;How to manage your own team keeping productivity and morale high, celebrating successes and recovering from failures?&lt;/p&gt;
+
+&lt;p&gt;How to manage sideways interacting with other teams to avoid dependency problems, align timelines, avoid duplicate work?&lt;/p&gt;
+
+&lt;p&gt;How to manage upwards interacting with your boss and other leaders to show successes and get resources for your team, get their support to prevent future problems with other teams?&lt;/p&gt;
+
+&lt;h3&gt;Your superpowers and your defense-zones&lt;/h3&gt;
+
+&lt;p&gt;You’ll need to do a really critical self evaluation to understand which of these areas is currently your “superpower” that makes you a special PM that kicks ass at a particular scenario.&lt;/p&gt;
+
+&lt;p&gt;You also need to know which areas are your defense-zones. Which areas do you want to strengthen, and which other areas will (consciously!) remain weak while you invest your time in strengthening them? Why are those the right investments for you to be making, based on what you want to do with your career (e.g. someone who wants to make the next iPhone may care more about product design, someone who wants to build the next Stripe may care more about strategy and technical, etc.)?&lt;/p&gt;
+
+&lt;h2&gt;Talents&lt;/h2&gt;
+
+&lt;p&gt;This idea is a bit funny because I believe &quot;talent&quot; really just means &quot;a skill I've stumbled into practicing without realizing it&quot;, but this is my closest answer for what &quot;talent&quot; a PM should have.&lt;/p&gt;
+
+&lt;p&gt;One of the unique strengths of a PM (stronger in a PM vs. any other role) is ability to take a vague question and distill it into a story that can both clarify AND inspire. A vague question like “tell me about your favorite product” might turn into: who is the audience for this product, what are their needs, where is the product strong, where does it need improvement, what are it’s major competitors or analogues?&lt;/p&gt;
+
+&lt;p&gt;Be prepared to break things down and create structure where there is none.&lt;/p&gt;
+
+&lt;h2&gt;Desire&lt;/h2&gt;
+
+&lt;p&gt;What’s a story you can tell about a situation where doing “PM” work really made you happy and energized? What motivates you and makes PM the right path for you vs. data science vs. design vs. engineering vs. …? (I’m bored of engineering is not a great answer to this, there are a thousand other things you could do that aren’t engineering…why this one?) What projects or research or other outputs have to done that actually showcase this desire? Even if you’re not the best PM yet, convince me that someday you will be, and that I want you on my team.&lt;/p&gt;
+
+&lt;h1&gt;Final thoughts&lt;/h1&gt;
+
+&lt;p&gt;To succeed in interviews you will need to have thought through, and excel at explaining how you embody the above concepts, clearly and concisely, to an interviewer.&lt;/p&gt;
+
+&lt;p&gt;Make a list of the questions you’re likely to face. Set a target amount of time you have to answer each question (2 minutes? 3?) and hone your answers (not word for word, but know the crux of your responses).&lt;/p&gt;
+
+&lt;p&gt;After feeling comfortable with your answers, actually sit down and say it to someone. For the best feedback, video your &quot;interview&quot; with that persion...your weaknesses will immediately become visible and you can work on them. You talk too fast, you jumble things and the story is hard to follow, you go blank and can’t answer, etc.&lt;/p&gt;
+
+&lt;h1&gt;Recommended readings&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The 7 Habits of Highly Effective People (you control your destiny, you are responsible for winning!)&lt;/li&gt;
+&lt;li&gt;SPRINT (how to do rapid product design explorations, I’ve done this, it works)&lt;/li&gt;
+&lt;li&gt;Cracking the PM Interview (cheat sheet for prepping for interviews, common questions asked)&lt;/li&gt;
+&lt;li&gt;Innovators Dilemma (how should the business effectively think about new product development)&lt;/li&gt;
+&lt;li&gt;Radical Focus (setting good goals &lt;em&gt;is&lt;/em&gt; important and &lt;em&gt;is&lt;/em&gt; difficult to do well)&lt;/li&gt;
+&lt;/ul&gt;
 
 
-&lt;p&gt;Out: 6.3 mi, 3hrs 11mins, 967ft gain&lt;/p&gt;
+&lt;h1&gt;Next up!&lt;/h1&gt;
 
-&lt;p&gt;Back: 4.5mi, 2hrs 1min, 737ft gain&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cvws.icloud-content.com/CAEQARoQx5J6lSitWkXpGWjnKLIPxA/0108ab8191372bce57dba18dc1fa34610de233770f/IMG_0012.jpg?v=0&amp;z=https://p48-content.icloud.com:443&amp;x=1&amp;a=BgDgZXOI7EY3vsFiaxu8vGyEY7mOA5iVOgEAAA%3D%3D&amp;e=1492666986000&amp;r=f33fdfe3-9744-4e8c-87c5-bdad3a717707-4&amp;c=&amp;s=EeNinCj9vzumxqjWGWY4tk21A78&quot; class=&quot;image-big&quot;&gt; We decided to bring a &quot;pulk&quot; along, which was a terrible idea. They probably work well for flat terrain, but dragging it up 1000ft of gain in a day was painful.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cvws.icloud-content.com/CAEQARoQx5J6lSitWkXpGWjnKLIPxA/0165d67680bf4c4691c6860fb929bcd686977c1676/IMG_0005.jpg?v=0&amp;z=https://p48-content.icloud.com:443&amp;x=1&amp;a=BmdmDVwxYA8YlWTg%2FHq6c9Gs8T3oA5iVOgEAAA%3D%3D&amp;e=1492666986000&amp;r=f33fdfe3-9744-4e8c-87c5-bdad3a717707-22&amp;c=&amp;s=tZre0CalZlycaazE8LFht_mnDQs&quot; class=&quot;image-big&quot;&gt; The cabin was mostly covered in snow. It's 2 stories tall, but this was all you could see sticking out.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cvws.icloud-content.com/CAEQARoQx5J6lSitWkXpGWjnKLIPxA/0157f0925d787a2c90813523a906bb3344f8c52609/IMG_0007.jpg?v=0&amp;z=https://p48-content.icloud.com:443&amp;x=1&amp;a=BhJDWXmyK9H%2FXUVz10sVTOQ%2BPRAGA5iVOgEAAA%3D%3D&amp;e=1492666986000&amp;r=f33fdfe3-9744-4e8c-87c5-bdad3a717707-18&amp;c=&amp;s=zpUhZ-EXPn2zoW_eSCiROavTq_I&quot; class=&quot;image-big&quot;&gt; The inside of the cabin was totally dark. Fortunately it was well stocked with firewood, candles, and canned food.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cvws.icloud-content.com/CAEQARoQx5J6lSitWkXpGWjnKLIPxA/016fabb239ddb4b4bc59d857c88c1a10c74245dab4/IMG_0006.jpg?v=0&amp;z=https://p48-content.icloud.com:443&amp;x=1&amp;a=BoA841npNhFTYPLxEOZtLy0bpi%2FtA5iVOgEAAA%3D%3D&amp;e=1492666986000&amp;r=f33fdfe3-9744-4e8c-87c5-bdad3a717707-12&amp;c=&amp;s=MHlkKqHFlYhwYPyU88EsYib-Njk&quot; class=&quot;image-big&quot;&gt; Once we dug out the cabin, Megan collected snow in a bucket that we could melt for drinking and cooking water.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cvws.icloud-content.com/CAEQARoQx5J6lSitWkXpGWjnKLIPxA/011f1ed623fa43e8df30c284b39c615a6403678111/IMG_0001.jpg?v=0&amp;z=https://p48-content.icloud.com:443&amp;x=1&amp;a=Bmyggp8RDRxoxKoNikX9Eq%2F%2Bsxr0A5iVOgEAAA%3D%3D&amp;e=1492666986000&amp;r=f33fdfe3-9744-4e8c-87c5-bdad3a717707-25&amp;c=&amp;s=V2kyK5sZekEfkNOVYxFuhDCbj_w&quot; class=&quot;image-big&quot;&gt; The hike back felt significantly shorter than the one out. Going downhill with the pulk was easier...but I still wouldn't have brought it.&lt;/p&gt;
+&lt;p&gt;This is really just my stream of thought while sitting in a Philz in La Jolla. To fill in the gaps and refine this further, I should contact some strong PMs I know and hear how they think about this question, and maybe even get their review of my answer.&lt;/p&gt;
 </description>
-				<pubDate>Wed, 19 Apr 2017 12:00:00 -0700</pubDate>
-				<link>http://localhost:4000/2017/04/19/bear-trap-cabin.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2017/04/19/bear-trap-cabin.html</guid>
+				<pubDate>Fri, 16 Nov 2018 07:00:00 -0800</pubDate>
+				<link>http://localhost:4000/2018/11/16/pm_skills.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/11/16/pm_skills.html</guid>
 			</item>
 		
 			<item>
-				<title>My recent reading list</title>
-        <description>&lt;p&gt;The books I've been reading in the last several months, roughly in reverse order of completion.&lt;/p&gt;
+				<title>Music for DJs</title>
+        <description>&lt;p&gt;This is a dump of the notes I took during a DJ seminar given by a well respected west coast DJ several years ago. I hope to come back and clean them up, but here they are as they were written.&lt;/p&gt;
 
-&lt;p class=&quot;lead&quot;&gt;Child of God&lt;/p&gt;
+&lt;h1&gt;Class One - Musical Quality&lt;/h1&gt;
 
+&lt;h3&gt;Positioning of the beat Emphasis&lt;/h3&gt;
 
-&lt;p&gt;By Cormac McCarthy. Relatively short but thoroughly enjoyable. The only other McCarthy book I've read was The Road, which was the first book I cried at. This was less crushing, but still felt like watching a car accident happen in slow motion. Themes and imagery are heavy.&lt;/p&gt;
+&lt;p&gt;End (like the bando) vs beginning (piano)
+Emphasis of the beat can be used to build families of tango sounds
+x = energy, y = rythm&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Child-Vintage-International-Cormac-McCarthy-ebook/dp/B003XT60I6/ref=sr_1_1?ie=UTF8&amp;qid=1489995825&amp;sr=8-1&amp;keywords=a+child+of+god&quot;&gt;Child of God on Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Street band&lt;/p&gt;
 
-&lt;p class=&quot;lead&quot;&gt;The Innovator's Dilemma&lt;/p&gt;
-
-
-&lt;p&gt;By Clayton Christenson. This was recommended to me by a mentor of mine, who I respect greatly, so it went to the top of my list. It was described to me as &quot;here is my theory, and 15 examples that prove it's true&quot;, which sounds like a common theme among business writing. While the description was accurate, the theory proposed was convincing. Even if it isn't correct, it seems like having a flawed framework for dealing with change is better than not having one.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-ebook/dp/B00E257S86/ref=sr_1_1?ie=UTF8&amp;qid=1489996527&amp;sr=8-1&amp;keywords=innovators+dilemma&quot;&gt;The Innovator's Dilemma on Amazon&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;lead&quot;&gt;Structures&lt;/p&gt;
-
-
-&lt;p&gt;By J.E. Gordon. A very approachable explanation of the basic forces behind buildings, bridges, and other structures that we live with daily. I loved the blending of history, physics concepts, simple-enough equations, and humor.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Structures-Things-Dont-Fall-Down/dp/0306812835/ref=sr_1_1?ie=UTF8&amp;qid=1489995451&amp;sr=8-1&amp;keywords=structures+or+why+things+don%27t+fall+down&quot;&gt;Structures on Amazon&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;lead&quot;&gt;Rework&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Centered emphasis&lt;/li&gt;
+&lt;li&gt;Loose, sweet feeling&lt;/li&gt;
+&lt;li&gt;Canaro, Victor, Lomuto&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;El Adios (Canaro) for example&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 
-&lt;p&gt;By Jason Fried. An ultra-concise detailing of the practices used at 37 Signals (now Basecamp) for becoming the multi-billion dollar startup they are to...ah nevermind, they're still a small business and like it that way. While the book has ideas that push startups to think about what really matters, and is worth the short read, I'm tired of the 37 Signals &quot;any business who prioritizes growth is stupid&quot; diatribe. The shadow of that bias hung over me while reading it.&lt;/p&gt;
+&lt;p&gt;Driving&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A/ref=sr_1_1?ie=UTF8&amp;qid=1489996389&amp;sr=8-1&amp;keywords=rework&quot;&gt;Rework on Amazon&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Forward emphasis&lt;/li&gt;
+&lt;li&gt;Feels pushy, tight, angry&lt;/li&gt;
+&lt;li&gt;DArienzo, Biagi, some Troilo&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Refined&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rear emphasis&lt;/li&gt;
+&lt;li&gt;Feels laggy, elegant, and melancholy&lt;/li&gt;
+&lt;li&gt;DAgostino, Di Sarli, Fresedo&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Exploratory&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Extremely late emphasis&lt;/li&gt;
+&lt;li&gt;Stretchy, virutosic, angsty&lt;/li&gt;
+&lt;li&gt;De Caro, Pugliese, some Laurenz&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h4&gt;The Backbone&lt;/h4&gt;
+
+&lt;p&gt;Calo: Refined&lt;br/&gt;
+DiSarli: Centered&lt;br/&gt;
+Troilo: Driving, Exploratory&lt;br/&gt;
+Pugliese: Exploratoy&lt;br/&gt;
+DArienzo: Driving&lt;br/&gt;
+Canaro: Street Band&lt;/p&gt;
+
+&lt;h4&gt;Side Players&lt;/h4&gt;
+
+&lt;p&gt;DAgostino&lt;br/&gt;
+De caro&lt;br/&gt;
+Biagi&lt;br/&gt;
+Rodriguez&lt;br/&gt;
+Lomuto&lt;br/&gt;
+Fresedo&lt;br/&gt;
+DAngelis: hard to place, sometimes multiple styles even in same song&lt;br/&gt;
+Demare: Refined, Exploratory&lt;/p&gt;
+
+&lt;h3&gt;Equipment&lt;/h3&gt;
+
+&lt;h4&gt;Speaker positioning&lt;/h4&gt;
+
+&lt;p&gt;Speakers should be above head height &lt;br/&gt;
+Should be along the long end of the floor so sound is distributed&lt;br/&gt;
+Pointed slightly in&lt;/p&gt;
+
+&lt;h4&gt;Mixer&lt;/h4&gt;
+
+&lt;p&gt;Keep your sound levels all below 75% (source? Research this)&lt;br/&gt;
+Make sure bass isn’t turned up&lt;/p&gt;
+
+&lt;h4&gt;Volume&lt;/h4&gt;
+
+&lt;p&gt;Check volume on floor frequently&lt;br/&gt;
+Before you start, check for loud or quiet areas&lt;br/&gt;
+Watch number of dancers, sound will be muffled if there are a lot of dancers&lt;/p&gt;
+
+&lt;h4&gt;Equalizer&lt;/h4&gt;
+
+&lt;p&gt;Many of the pops and scratches on are on the higher frequencies&lt;br/&gt;
+Most of the song data is in the midranges&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;Class Two - Music and Space&lt;/h1&gt;
+
+&lt;h3&gt;Last week's topics&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;where the emphasis lies on the beat&lt;/li&gt;
+&lt;li&gt;mapping the orchestras&lt;/li&gt;
+&lt;li&gt;talked about emotional content linked to type of sound&lt;/li&gt;
+&lt;li&gt;key instruments
+
+&lt;ul&gt;
+&lt;li&gt;streetband - bass, low tones of violins, focus on keeping the beat&lt;/li&gt;
+&lt;li&gt;exploratory - bando&lt;/li&gt;
+&lt;li&gt;refined - piano&lt;/li&gt;
+&lt;li&gt;driving - bando(?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;How to put these classifiers to work&lt;/h3&gt;
+
+&lt;p&gt;Group songs with a similar sound so dancers know what they can expect.
+Dancers can pair based on what emotion they want to express given the theme of the tanda.&lt;/p&gt;
+
+&lt;h3&gt;The Role of the DJ&lt;/h3&gt;
+
+&lt;p&gt;To help the dancers express the music.&lt;br/&gt;
+To have them leave the floor feeling confident.&lt;br/&gt;
+Keeping a balance so that everyone has something to dance to.&lt;br/&gt;
+Sequencing the songs in a way that flows and feels sensible.&lt;br/&gt;
+To bring them through key musical areas so they feel the entire range of &quot;the milonga experience&quot;. &lt;br/&gt;
+To keep the early dancers happy even while warming up the dancers who arrive later.&lt;/p&gt;
+
+&lt;h3&gt;Thinking about the tanda&lt;/h3&gt;
+
+&lt;p&gt;A song is the atomic unit.&lt;br/&gt;
+A tanda is the molecule.&lt;br/&gt;
+Each atom has a specific feeling to contribute to the molecule.&lt;br/&gt;
+The tanda should elicit a specific feeling which grows and progresses from song 1 to 4.&lt;br/&gt;
+Each tanda needs to fit the flow of the night, blending smoothly from the previous one and into the next.&lt;/p&gt;
+
+&lt;h3&gt;Tanda Skeleton&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Song 1&lt;/strong&gt;&lt;br/&gt;
+Very familiar / well known&lt;br/&gt;
+Draws dancers to the floor&lt;br/&gt;
+&lt;em&gt;El Cencerro&lt;/em&gt;&lt;br/&gt;
+&lt;em&gt;Pensalo Bien&lt;/em&gt;&lt;br/&gt;
+&lt;em&gt;Tristeza Marina&lt;/em&gt;&lt;br/&gt;
+&lt;em&gt;Vamos&lt;/em&gt;&lt;br/&gt;
+&lt;em&gt;Araca La Cana&lt;/em&gt;&lt;br/&gt;
+&lt;em&gt;Adios Buenos Aires&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Song 2&lt;/strong&gt;&lt;br/&gt;
+Well known, almost on par with song 1&lt;br/&gt;
+Danceable but not appropriate for beginning or ending&lt;br/&gt;
+&lt;em&gt;Gorriones&lt;/em&gt;&lt;br/&gt;
+&lt;em&gt;Caero Al As&lt;/em&gt;&lt;br/&gt;
+&lt;em&gt;Sencillo y Compadre&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Song 3&lt;/strong&gt;&lt;br/&gt;
+Less familiar, good place to experiment (slightly)&lt;br/&gt;
+Continues or revises direction&lt;br/&gt;
+Higher energy than song 2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Song 4&lt;/strong&gt;&lt;br/&gt;
+Also very familiar
+Highest energy&lt;br/&gt;
+Has a strong ending, can feature a varacion or a nice vocal&lt;br/&gt;
+Makes them feel confidence and lets them express their emotion  &lt;br/&gt;
+&lt;em&gt;El Recodo (might be a good opener, but too powerful, nothing could go up from here)&lt;/em&gt;&lt;br/&gt;
+&lt;em&gt;Dime Mi Amor (voice at the end is nice)&lt;/em&gt;&lt;br/&gt;
+&lt;em&gt;La Capilla Blanca (slow down at the end doesn't affect any &quot;next song&quot;)&lt;/em&gt;&lt;br/&gt;
+&lt;em&gt;Patetico (nice variacion)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;Things to think about&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The start and the end are the most important, people remember these
+
+&lt;ul&gt;
+&lt;li&gt;primacy and recency effect in psychology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Familiarity and variety should be balanced
+
+&lt;ul&gt;
+&lt;li&gt;too many familiar songs is boring and tired&lt;/li&gt;
+&lt;li&gt;too much variety is bothersome, even if all the songs are danceable&lt;/li&gt;
+&lt;li&gt;the middle of the set is a good place to introduce less known music&lt;/li&gt;
+&lt;li&gt;listening to your collection TOO MUCH may throw off your feeling of what is familiar within the community&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Guide the change in energy within the tanda
+
+&lt;ul&gt;
+&lt;li&gt;should travel in a specific direction - the goal of the tanda&lt;/li&gt;
+&lt;li&gt;the intensity of the direction should increase over the tanda, not fall&lt;/li&gt;
+&lt;li&gt;direction can be romance, intensity, virtuosity, etc&lt;/li&gt;
+&lt;li&gt;does not ALL need to be moving upward, but last two should&lt;/li&gt;
+&lt;li&gt;could go down on the second song (forms a checkmark shape)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Don't get in the way of the tanda being danceable just to explore as a DJ&lt;/li&gt;
+&lt;li&gt;Don't leave a slow ending on a song in the middle, it will interfere with the next song's energy&lt;/li&gt;
+&lt;li&gt;Same singer &amp;amp; orchestra is usually best
+
+&lt;ul&gt;
+&lt;li&gt;changing will alert some dancers, taking them out of the moment&lt;/li&gt;
+&lt;li&gt;can change orchestras if there's a very specific reason&lt;/li&gt;
+&lt;li&gt;can mix instrumental / vocal (vocal often has higher intensity)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Varacion usually in Song 4 but can be in others if they feel right&lt;/li&gt;
+&lt;li&gt;Watch out for songs involving soccor in the lyrics, can be distracting to spanish speakers&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;The SuperTanda&lt;/h2&gt;
+
+&lt;p&gt;The molecular chain&lt;br/&gt;
+TTM or TTV - As a unit, lower energy tango to higher energy tango&lt;/p&gt;
+
+&lt;h2&gt;Space - The Ronda&lt;/h2&gt;
+
+&lt;p&gt;Rectangle provides opportunity for different movement based on side length&lt;br/&gt;
+Square can feel more consistent to some dancers&lt;br/&gt;
+Permeate tables to allow more entry / exit points&lt;/p&gt;
+
+&lt;h2&gt;How to watch the room&lt;/h2&gt;
+
+&lt;p&gt;Blur your vision and perceive the flow, are there big gaps or concentrations?&lt;br/&gt;
+If people are focused on specific musical elements or movements too much, it suggests they aren't feeling the music and their partner enough.&lt;br/&gt;
+D'Arienzo: forces them to adhere to the beat&lt;br/&gt;
+Pugliese / Podesta: allows them to focus inward and on each other&lt;br/&gt;
+Watch for temperature&lt;br/&gt;
+&lt;em&gt;If the room is hot, don't make them move enough to heat it up more&lt;/em&gt;&lt;br/&gt;
+&lt;em&gt;If the room is cold, make them move around and warm it up&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Homework for Class 3&lt;/h2&gt;
+
+&lt;p&gt;Choose 3 songs that represent tandas
+Build a SuperTanda and justify it (TTM or TTV)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;Class Three - The Supertanda&lt;/h1&gt;
+
+&lt;p&gt;Example tanda - builds rythmic intensity&lt;br/&gt;
+&lt;em&gt;Dejame Ser Asi - Llorar por una mujer - Danza Maligna - En la buena y la mala&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Example tanda - builds melodic emotional intensity&lt;br/&gt;
+&lt;em&gt;Tristeza Marina - Decime que paso - Charlemos - Griseta&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Bad Example tanda - nice songs but doesn't feel like it progresses&lt;br/&gt;
+&lt;em&gt;A Quien La Puede Importar - Esta Noche en Buenos Aires - Gorriones - El Yacare&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Bad Example tanda - &quot;wakes up&quot; the dancers&lt;br/&gt;
+&lt;em&gt;Santa Milonguita - Trago Amargo - Infamia - Dime mi amor&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Switches singer, recodring quality, pianist&lt;/li&gt;
+&lt;li&gt;This is ok to do as long as the voices are similar&lt;/li&gt;
+&lt;li&gt;Tanturri, Troilo, Di Sarli should be left alone&lt;/li&gt;
+&lt;li&gt;Mixing Beron might be dicey&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Listen to the first and last song to check that there's a progression&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Listen to the entire song, they might get weird halfway in - A Pan y Agua&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2&gt;Role of the DJ - Revisted&lt;/h2&gt;
+
+&lt;p&gt;Facilitate the &quot;milonga experience&quot;&lt;br/&gt;
+Curating the experience through the music&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Drawing dancers to the floor - Grab a sitter and make them dance with you to break the ice&lt;/li&gt;
+&lt;li&gt;Helping the dancers express the music&lt;/li&gt;
+&lt;li&gt;Helping them navigate through the night, including the change in skill level as the night progresses - Easy / danceable early - gooey center - touching the musical corners toward the end&lt;/li&gt;
+&lt;li&gt;Help them feel the music deeply, focusing on an instrument or sound&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h4&gt;RULE: Don't get in the way of the dancers, you're a step ahead of them but not controlling them&lt;/h4&gt;
+
+&lt;p&gt;Having supertandas built is helpful&lt;br/&gt;
+Example: &lt;em&gt;Di Sarli / Rufino -&gt; Laurenz / Casas&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2&gt;Crafting the flow&lt;/h2&gt;
+
+&lt;h3&gt;The three flows&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Tanda&lt;/li&gt;
+&lt;li&gt;Supertanda&lt;/li&gt;
+&lt;li&gt;The entire night&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h3&gt;Tools&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Sequence of songs and orchestras&lt;/li&gt;
+&lt;li&gt;Energy reset&lt;/li&gt;
+&lt;li&gt;Pattern: TTVTTM TTVTM TTTVM
+
+&lt;ul&gt;
+&lt;li&gt;Use these to control partner change frequencies&lt;/li&gt;
+&lt;li&gt;TTVTM will encourage faster rotation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Palate cleanser: chacarrera / salsa / swing
+
+&lt;ul&gt;
+&lt;li&gt;Only a good idea if enough people will actually dance it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h3&gt;Energy level flow&lt;/h3&gt;
+
+&lt;p&gt;Compare a sawtooth energy pattern with a sinusoidal one&lt;br/&gt;
+Sawtooth: doesn't allow for pallate cleansers&lt;/p&gt;
+
+&lt;p&gt;T1 T3 V5 T2 T4 M6&lt;/p&gt;
+
+&lt;h4&gt;TT Pairs&lt;/h4&gt;
+
+&lt;p&gt;DiSarli/Rufino -&gt; Laurenz/Casas : Increasing strechiness&lt;br/&gt;
+Fresedo -&gt; Troilo : Rythmic playfulness (gentle to more gripping)&lt;/p&gt;
+
+&lt;p&gt;Crossing musical families between sets allows you to differentiate the adjacent sets&lt;br/&gt;
+Avoid repeating musical familes (Canaro -&gt; OTV would be too much)&lt;br/&gt;
+Alternating rythmic melodic within the supertanda covers your dancers tastes better&lt;/p&gt;
+
+&lt;p&gt;Think about the thread between tango 1,2 and 4,5&lt;/p&gt;
+
+&lt;h4&gt;Range of emotions&lt;/h4&gt;
+
+&lt;p&gt;Should be tighter in the beginning for newer dancers or people who just arrived&lt;br/&gt;
+Should get wider toward the end to fill more of the milonga experience&lt;/p&gt;
+
+&lt;p&gt;Notes:&lt;br/&gt;
+Canaro doesn't work pre-milonga, not enough build&lt;br/&gt;
+DiSarli/Podesta into a Biagi would be too abrupt&lt;br/&gt;
+No vals after a DiSarli/Podesta - they're too swirly and round (abrupt)&lt;/p&gt;
+
+&lt;h4&gt;Cortinas&lt;/h4&gt;
+
+&lt;p&gt;They should inspire motion, but in a vague way - Don't suggest swing / salsa&lt;br/&gt;
+Should follow the previous tanda to prevent ruining the embrace-feeling they had&lt;br/&gt;
+Length based on how long it will take the floor to clear (20s - 70s)C&lt;/p&gt;
+
+&lt;h4&gt;Changing the pattern&lt;/h4&gt;
+
+&lt;p&gt;Last 30 minutes, or some defining point, she stops playing milongas and valses, just varies the energy levels of tangos&lt;br/&gt;
+Reduces rotation and enhances flow&lt;/p&gt;
+
+&lt;h2&gt;Ending notes&lt;/h2&gt;
+
+&lt;p&gt;Disabling trackpad-touch-to-click or bringing a mouse&lt;br/&gt;
+Build double the sets you need for the time&lt;br/&gt;
+Mixing - Saca chispas only good decaro milonga, has to be mixed with others&lt;br/&gt;
+Tanda placards - nice but if you use them make sure you actually use them&lt;/p&gt;
 </description>
-				<pubDate>Sun, 19 Mar 2017 17:40:00 -0700</pubDate>
-				<link>http://localhost:4000/2017/03/19/recentReadingList.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2017/03/19/recentReadingList.html</guid>
+				<pubDate>Thu, 25 Oct 2018 09:00:00 -0700</pubDate>
+				<link>http://localhost:4000/2018/10/25/music-for-djs.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/10/25/music-for-djs.html</guid>
 			</item>
 		
 			<item>
-				<title>Recap of a quiet weekend</title>
-        <description>&lt;p class=&quot;lead&quot;&gt;Rock climbing&lt;/p&gt;
+				<title>Music for DJs</title>
+        <description>This is a dump of the notes I took during a DJ seminar given by a well respected west coast DJ several years ago. I hope to come back and clean them up, but here they are as they were written.
+
+# Class One - Musical Quality  
+
+### Positioning of the beat Emphasis
+End (like the bando) vs beginning (piano) 
+Emphasis of the beat can be used to build families of tango sounds 
+x = energy, y = rythm 
+
+Street band
+
+* Centered emphasis
+* Loose, sweet feeling 
+* Canaro, Victor, Lomuto 
+* *El Adios (Canaro) for example*
+
+Driving
+
+* Forward emphasis
+* Feels pushy, tight, angry
+* DArienzo, Biagi, some Troilo  
+
+Refined
+
+* Rear emphasis
+* Feels laggy, elegant, and melancholy
+* DAgostino, Di Sarli, Fresedo  
+
+Exploratory
+
+* Extremely late emphasis
+* Stretchy, virutosic, angsty
+* De Caro, Pugliese, some Laurenz
+
+#### The Backbone
+Calo: Refined  
+DiSarli: Centered  
+Troilo: Driving, Exploratory  
+Pugliese: Exploratoy  
+DArienzo: Driving  
+Canaro: Street Band  
+
+#### Side Players  
+DAgostino  
+De caro  
+Biagi  
+Rodriguez  
+Lomuto  
+Fresedo  
+DAngelis: hard to place, sometimes multiple styles even in same song  
+Demare: Refined, Exploratory  
+
+### Equipment
+#### Speaker positioning
+Speakers should be above head height   
+Should be along the long end of the floor so sound is distributed  
+Pointed slightly in  
+
+#### Mixer  
+Keep your sound levels all below 75% (source? Research this)  
+Make sure bass isn’t turned up  
+
+#### Volume  
+Check volume on floor frequently  
+Before you start, check for loud or quiet areas  
+Watch number of dancers, sound will be muffled if there are a lot of dancers   
+
+#### Equalizer  
+Many of the pops and scratches on are on the higher frequencies  
+Most of the song data is in the midranges  
+
+***
+
+# Class Two - Music and Space
+
+### Last week's topics  
+* where the emphasis lies on the beat
+* mapping the orchestras
+* talked about emotional content linked to type of sound
+* key instruments
+    + streetband - bass, low tones of violins, focus on keeping the beat
+    + exploratory - bando
+    + refined - piano
+    + driving - bando(?)
+
+### How to put these classifiers to work
+
+Group songs with a similar sound so dancers know what they can expect.
+Dancers can pair based on what emotion they want to express given the theme of the tanda.
+
+### The Role of the DJ
+
+To help the dancers express the music.  
+To have them leave the floor feeling confident.  
+Keeping a balance so that everyone has something to dance to.  
+Sequencing the songs in a way that flows and feels sensible.  
+To bring them through key musical areas so they feel the entire range of &quot;the milonga experience&quot;.   
+To keep the early dancers happy even while warming up the dancers who arrive later.  
+
+### Thinking about the tanda
+
+A song is the atomic unit.  
+A tanda is the molecule.  
+Each atom has a specific feeling to contribute to the molecule.  
+The tanda should elicit a specific feeling which grows and progresses from song 1 to 4.  
+Each tanda needs to fit the flow of the night, blending smoothly from the previous one and into the next.  
+
+### Tanda Skeleton
+
+**Song 1**  
+Very familiar / well known  
+Draws dancers to the floor  
+*El Cencerro*  
+*Pensalo Bien*  
+*Tristeza Marina*  
+*Vamos*  
+*Araca La Cana*  
+*Adios Buenos Aires*  
+
+**Song 2**  
+Well known, almost on par with song 1  
+Danceable but not appropriate for beginning or ending  
+*Gorriones*  
+*Caero Al As*  
+*Sencillo y Compadre*  
+
+**Song 3**  
+Less familiar, good place to experiment (slightly)  
+Continues or revises direction  
+Higher energy than song 2  
+
+**Song 4**  
+Also very familiar 
+Highest energy  
+Has a strong ending, can feature a varacion or a nice vocal  
+Makes them feel confidence and lets them express their emotion    
+*El Recodo (might be a good opener, but too powerful, nothing could go up from here)*  
+*Dime Mi Amor (voice at the end is nice)*  
+*La Capilla Blanca (slow down at the end doesn't affect any &quot;next song&quot;)*  
+*Patetico (nice variacion)*  
+
+### Things to think about
+* The start and the end are the most important, people remember these
+    + primacy and recency effect in psychology
+* Familiarity and variety should be balanced
+    + too many familiar songs is boring and tired
+    + too much variety is bothersome, even if all the songs are danceable
+    + the middle of the set is a good place to introduce less known music
+    + listening to your collection TOO MUCH may throw off your feeling of what is familiar within the community
+* Guide the change in energy within the tanda
+    + should travel in a specific direction - the goal of the tanda
+    + the intensity of the direction should increase over the tanda, not fall
+    + direction can be romance, intensity, virtuosity, etc
+    + does not ALL need to be moving upward, but last two should
+    + could go down on the second song (forms a checkmark shape)
+* Don't get in the way of the tanda being danceable just to explore as a DJ
+* Don't leave a slow ending on a song in the middle, it will interfere with the next song's energy
+* Same singer &amp; orchestra is usually best
+    + changing will alert some dancers, taking them out of the moment
+    + can change orchestras if there's a very specific reason
+    + can mix instrumental / vocal (vocal often has higher intensity)
+* Varacion usually in Song 4 but can be in others if they feel right
+* Watch out for songs involving soccor in the lyrics, can be distracting to spanish speakers
+
+## The SuperTanda
+The molecular chain  
+TTM or TTV - As a unit, lower energy tango to higher energy tango
+
+## Space - The Ronda
+Rectangle provides opportunity for different movement based on side length  
+Square can feel more consistent to some dancers  
+Permeate tables to allow more entry / exit points
 
 
-&lt;p&gt;My first time top roping in a long time. We went to Mission Cliffs where I &lt;em&gt;almost&lt;/em&gt; aced the belay test. I forgot how to check my double figure eight knot (look for 5 sets of parallel lines). I climbed some 5.10d's and a 5.11a. It was a good wake up call that bouldering focuses on very different strengths.&lt;/p&gt;
+## How to watch the room
+Blur your vision and perceive the flow, are there big gaps or concentrations?  
+If people are focused on specific musical elements or movements too much, it suggests they aren't feeling the music and their partner enough.  
+D'Arienzo: forces them to adhere to the beat  
+Pugliese / Podesta: allows them to focus inward and on each other  
+Watch for temperature  
+*If the room is hot, don't make them move enough to heat it up more*  
+*If the room is cold, make them move around and warm it up*  
 
-&lt;p class=&quot;lead&quot;&gt;A walk&lt;/p&gt;
+***
 
+## Homework for Class 3
+Choose 3 songs that represent tandas
+Build a SuperTanda and justify it (TTM or TTV)
 
-&lt;p&gt;Megan and I walked 9 miles in one day. We hit Buena Vista, Corona Heights, and Sutro Open Space Preserve. I was fortunate enough to have Apple Pay set up on my phone so we could buy something to drink in Cole Valley, as I forgot my wallet.&lt;/p&gt;
+***
 
-&lt;p class=&quot;lead&quot;&gt;Reading Kafka&lt;/p&gt;
+# Class Three - The Supertanda
 
+Example tanda - builds rythmic intensity  
+*Dejame Ser Asi - Llorar por una mujer - Danza Maligna - En la buena y la mala*
 
-&lt;p&gt;I borrowed &lt;em&gt;The Trial&lt;/em&gt;, by F. Kafka, from my friend George. I was surprised to have covered 70 pages in one day (the book is ~250). I've been mixing paperback (Hillbilly Elegy) and Kindle books (The Innovator's Dilemma) recently. Each format has different qualities to appreciate.&lt;/p&gt;
-</description>
-				<pubDate>Sun, 12 Mar 2017 17:13:00 -0700</pubDate>
-				<link>http://localhost:4000/2017/03/12/weekend-journal.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2017/03/12/weekend-journal.html</guid>
-			</item>
-		
-			<item>
-				<title>Driving Death Valley</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-11.jpg&quot;&gt;&lt;/p&gt;
+Example tanda - builds melodic emotional intensity  
+*Tristeza Marina - Decime que paso - Charlemos - Griseta*  
 
-&lt;p&gt;In November of 2016 we decided to go to Death Valley for Thanksgiving. For the past few years we had been going to a tango festival up in Oregon, but it was canceled. Good time to try something new.&lt;/p&gt;
+Bad Example tanda - nice songs but doesn't feel like it progresses  
+*A Quien La Puede Importar - Esta Noche en Buenos Aires - Gorriones - El Yacare*
 
-&lt;p class=&quot;lead&quot;&gt;First day - Hot Springs&lt;/p&gt;
+Bad Example tanda - &quot;wakes up&quot; the dancers  
+*Santa Milonguita - Trago Amargo - Infamia - Dime mi amor*  
 
+* Switches singer, recodring quality, pianist
+* This is ok to do as long as the voices are similar
+* Tanturri, Troilo, Di Sarli should be left alone
+* Mixing Beron might be dicey
 
-&lt;p&gt;We rented a rented Jeep, picked up two of our traveler friends, and met up with two more who were in their own truck (a Toyota FJ). We headed out of San Francisco towards Tahoe.&lt;/p&gt;
+**Listen to the first and last song to check that there's a progression**
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-1.jpg&quot;&gt;
-Megan kept us happy with her ukelele songs on the way up through Tahoe. From there we headed south, past Topaz and Mono Lakes and eventually into the valley.&lt;/p&gt;
+**Listen to the entire song, they might get weird halfway in - A Pan y Agua**
 
-&lt;p&gt;We slept near some hot springs that we enjoyed before bedtime. The air was probably in the upper 20s F by this point, but the water was perfectly warm. We made dinner as the temperature continued dropping. My bag is rated for 30F, so with a low of 7F that night, I was pretty uncomfortable.&lt;/p&gt;
+## Role of the DJ - Revisted
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-2.jpg&quot;&gt;
-The morning view from a pile of rocks near our campsite.&lt;/p&gt;
+Facilitate the &quot;milonga experience&quot;  
+Curating the experience through the music  
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-3.jpg&quot;&gt;
-Our two mules bearing their foodstuffs and gear.&lt;/p&gt;
+1.  Drawing dancers to the floor - Grab a sitter and make them dance with you to break the ice
+2. Helping the dancers express the music
+3. Helping them navigate through the night, including the change in skill level as the night progresses - Easy / danceable early - gooey center - touching the musical corners toward the end
+4. Help them feel the music deeply, focusing on an instrument or sound  
 
-&lt;p class=&quot;lead&quot;&gt;Second day - Into the Valley&lt;/p&gt;
+#### RULE: Don't get in the way of the dancers, you're a step ahead of them but not controlling them  
 
+Having supertandas built is helpful  
+Example: *Di Sarli / Rufino -&gt; Laurenz / Casas*
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-4.jpg&quot;&gt;
-As we entered the valley we had to air down our tires for better traction and a softer ride.&lt;/p&gt;
+## Crafting the flow
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-5.jpg&quot;&gt;
-Making our way into Saline Valley.&lt;/p&gt;
+### The three flows
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-6.jpg&quot;&gt;
-We stopped for lunch near a collection of other people's camping vehicles in Saline Valley. This one demanded its own picture.&lt;/p&gt;
+1. Tanda
+2. Supertanda
+3. The entire night
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-7.jpg&quot;&gt;
-As it was getting dark, we had to decide whether to make camp here, near a salt lake with some strange wood remnants of a cable-drawn bucket system, or head further up toward the Lippincott Mine road. We decided to press on.&lt;/p&gt;
+### Tools
 
-&lt;p class=&quot;lead&quot;&gt;Third day - Mines and the Racetrack&lt;/p&gt;
+1. Sequence of songs and orchestras
+2. Energy reset
+3. Pattern: TTVTTM TTVTM TTTVM
+    + Use these to control partner change frequencies
+    + TTVTM will encourage faster rotation
+4. Palate cleanser: chacarrera / salsa / swing
+    + Only a good idea if enough people will actually dance it
 
+### Energy level flow
 
-&lt;p&gt;The first thing to tackle today was Lippincott pass. It's a long stretch of uphill road wide enough for one vehicle. The road itself is a pile of tennis ball-sized rocks, so we made use of the 2-speed transfer case on our Jeep, keeping it in &quot;4-lo&quot;.&lt;/p&gt;
+Compare a sawtooth energy pattern with a sinusoidal one  
+Sawtooth: doesn't allow for pallate cleansers  
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-8.jpg&quot;&gt;
-After we cleared the pass, we had to document our achievement.&lt;/p&gt;
+T1 T3 V5 T2 T4 M6
 
-&lt;p&gt;From there, we went to examine some abandoned mines!&lt;/p&gt;
+#### TT Pairs  
+DiSarli/Rufino -&gt; Laurenz/Casas : Increasing strechiness  
+Fresedo -&gt; Troilo : Rythmic playfulness (gentle to more gripping)  
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-9.jpg&quot;&gt;
-We spent a lot of time after the trip identifying this vehicle. I think it was a 1930's Buick. The gear shifter still moved through each gear smoothly (given the condition anyway).&lt;/p&gt;
+Crossing musical families between sets allows you to differentiate the adjacent sets  
+Avoid repeating musical familes (Canaro -&gt; OTV would be too much)  
+Alternating rythmic melodic within the supertanda covers your dancers tastes better  
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-10.jpg&quot;&gt;
-A warning at the entrance to the King Lead mine, at the end of Lippincott Mine road. It reads about snakes, unfired explosives, cave-ins, and how the park rangers will not be saving you.&lt;/p&gt;
+Think about the thread between tango 1,2 and 4,5
 
-&lt;p&gt;From the mines, we progressed to Racetrack Playa, a common Death Valley point of interest.&lt;/p&gt;
+#### Range of emotions
+Should be tighter in the beginning for newer dancers or people who just arrived  
+Should get wider toward the end to fill more of the milonga experience   
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-11.jpg&quot;&gt;
-The Grandstand on the Racetrack Playa. It contrasts so heavily with the almost-white and sandless floor of the playa.&lt;/p&gt;
+Notes:  
+Canaro doesn't work pre-milonga, not enough build  
+DiSarli/Podesta into a Biagi would be too abrupt  
+No vals after a DiSarli/Podesta - they're too swirly and round (abrupt)
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-12.jpg&quot;&gt;
-Two friends leaning into the wind blowing on the playa floor.&lt;/p&gt;
+#### Cortinas
+They should inspire motion, but in a vague way - Don't suggest swing / salsa  
+Should follow the previous tanda to prevent ruining the embrace-feeling they had  
+Length based on how long it will take the floor to clear (20s - 70s)C
 
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-13.jpg&quot;&gt;
-The floor of the playa was almost leatherlike. Smooth but firm, with no sand on it at all. It would crack slightly under the pressure of your bare feet.&lt;/p&gt;
+#### Changing the pattern
+Last 30 minutes, or some defining point, she stops playing milongas and valses, just varies the energy levels of tangos  
+Reduces rotation and enhances flow
 
-&lt;p&gt;That night we slept at the most pedestrian site of the trip -- a plain campground near a gift shop and gas station in the valley. To preserve as much of the &quot;outdoorness&quot; as possible, we moved our tents far from the fire ring, in between bunches of shoulder-height sand dunes.&lt;/p&gt;
-
-&lt;p class=&quot;lead&quot;&gt;Last day - A hike before home&lt;/p&gt;
-
-
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-14.jpg&quot;&gt;
-We hiked in this canyon on the last day before heading out. We got back out just as rain started coming down -- something we didn't want to be in the canyon for.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/death_valley/death_valley-15.jpg&quot;&gt;
-We wanted to climb the Panamint dunes visble in the lower left of the background, but the detour would've put us back home later than we wanted. We settled for this picture instead.&lt;/p&gt;
-
-&lt;p&gt;Death Valley has cemented its place in my list of great locations in California. It's a rewarding trip, especially if you're willing to go down some of the many less traveled roads available.&lt;/p&gt;
-</description>
-				<pubDate>Sun, 12 Mar 2017 14:55:00 -0700</pubDate>
-				<link>http://localhost:4000/2017/03/12/death-valley.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2017/03/12/death-valley.html</guid>
-			</item>
-		
-			<item>
-				<title>Tilden Little Farm</title>
-        <description>&lt;p&gt;We went to a little farm in Berkeley called Tilden Little Farm. You can bring your own lettuce or celery and feed the animals.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/000052490031.jpg&quot; class=&quot;image-big&quot;&gt; These cows had long tongues which reach out to take the lettuce from your hands.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/000052490037.jpg&quot; class=&quot;image-big&quot;&gt; Geese...&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/83326/kylejameskirwan.com_rsources/photography/000052490033.jpg&quot; class=&quot;image-big&quot;&gt; These piglets were fun. They run around like puppies, occasionally looking for a teat.&lt;/p&gt;
-</description>
-				<pubDate>Sun, 26 Feb 2017 09:50:00 -0800</pubDate>
-				<link>http://localhost:4000/2017/02/26/tilden-little-farm.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2017/02/26/tilden-little-farm.html</guid>
+## Ending notes
+Disabling trackpad-touch-to-click or bringing a mouse  
+Build double the sets you need for the time  
+Mixing - Saca chispas only good decaro milonga, has to be mixed with others  
+Tanda placards - nice but if you use them make sure you actually use them</description>
+				<pubDate>Thu, 25 Oct 2018 09:00:00 -0700</pubDate>
+				<link>http://localhost:4000/2018/10/25/music-for-djs.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/10/25/music-for-djs.html</guid>
 			</item>
 		
 	</channel>

@@ -1,0 +1,125 @@
+---
+layout: post
+title:  "What does it take to be a PM?"
+date:   2018-11-16 15:00:00
+categories: business
+---
+
+# The question
+The following question has been posed to me several times over the last few years:
+
+> How did you get started as a PM and how can I do it too?
+
+Quite a few of the people doing the asking have turned PM themselves, and some are probably better at it now than I am! I'd like to think my advice here helped someone get from 0 to 1 (if imperfectly) so I'm encouraged to put it out there for others to find, in case there are truly some nuggets of wisdom in here.
+
+Cheers!
+
+# How did you start as pm?
+While working as a data scientist on Uber's Growth team, I wound up running the company's first AB tests. Fast forward a bit (many more tests and a lot of self-directed learning about experimentation theory and practice), I was offered the "subject matter expert" role on the newly formed team tasked with building the internal AB testing platform.
+
+The PM and I wound up working famously well together: I knew the audience and what they needed from the product, and he knew how to take a team from 0 to cranking out a high quality and well-loved product. Two years later, our products had been adopted by hundreds of teams across the business to run thousands of concurrent experiments.
+
+Here comes the sauce.
+
+I moved to a new team but in a similar role: they had a PM and I was to be the data science expert. The new PM was juggling several projects at once and was stretched, presenting some opportunities to pick up work he wasn't able to do. I jumped on these opportunities, applying my best imitations of techniques I watched my former PM use to get my old team started.
+
+Not long after, our new PM decided to move off our project to focus on some of his other demands. I was offered to step into the gap by our team's product director. Within a month I got offered to help out with a second team that wanted some product thinking to improve the coherency of the tools they were building. I tried replicating these techniques there as well.
+
+Six months and some product and feature launches later, I presented my accomplishments in a round of internal interviews with senior product folks from around the company. Succeeding those interviews gave me the official title, though it was the six months of experiences that made me truly feel like a product manager (of course, with a lot to learn).
+
+# How do I show my interviewers that I have the skills, talents, and desire to be a successful PM?  
+
+## Skills  
+
+I group PM skills generally into these categories… 
+
+### Product strategy  
+
+This is the highest level thinking about the team’s raison d’etre and how they will succeed in 3 months, 1 year, 5 years.
+
+What is the fundamental problem needing to be solved? Mess this up and you're wasting the company's money.
+
+Building a picture of the customer(s). What are their needs, their goals, their limits, and their strengths?
+
+How to go from 0 product to version 1? (very difficult)
+
+How to iterate from 1 to 2 to N? (a little easier)
+
+How to measure the product success, which metrics and why?
+
+How to deal with competing solutions?
+
+How to sell the product and get adoption from your target users?
+
+How to prioritize the steps to solve this problem? You can do anything but you can’t do everything.
+
+How to tell the story of your product: why does it deserve to exist, what matters in the next (or first) version and what can you save for later, what is the long term / magic-wand vision you’re ultimately aiming for? How will you make this simple enough, and sexy enough, to get people to understand your vision and feel excited about it?
+
+### Product design
+
+This is solution thinking part 1, what should the solution do, look like, and feel like. 
+
+How to work with user researchers to clarify user needs and broad categories of solutions
+
+How to work with designers to explore possible solutions, then refine one into a buildable product
+
+Keeping up with modern design options, trends, etc.
+
+Mobile vs. desktop vs. hardware vs. sales-materials/copy
+
+### Technical knowledge
+
+This is solution thinking part 2, how will we build the designed solution feasibly.
+
+Software architecture: how are your team's engineers proposing to build this product? What are the components and how do they work together?
+
+How to work with the engineering manager to align the needs of the product with the strengths and desires of the engineers?
+
+How will you get estimates for the engineering time? How much safety factor do you need to pad these estimates with?
+
+Understanding the technical limitations and strengths of different approaches to the problem.
+
+Staying on top of new technologies so your product strategy reflects what’s possible today and will be possible soon.
+
+### People skills
+
+These are constantly and vitally important, making (all of) the humans do what needs to get done.
+
+How to manage your own team keeping productivity and morale high, celebrating successes and recovering from failures?
+
+How to manage sideways interacting with other teams to avoid dependency problems, align timelines, avoid duplicate work?
+
+How to manage upwards interacting with your boss and other leaders to show successes and get resources for your team, get their support to prevent future problems with other teams?
+
+### Your superpowers and your defense-zones
+
+You’ll need to do a really critical self evaluation to understand which of these areas is currently your “superpower” that makes you a special PM that kicks ass at a particular scenario.
+
+You also need to know which areas are your defense-zones. Which areas do you want to strengthen, and which other areas will (consciously!) remain weak while you invest your time in strengthening them? Why are those the right investments for you to be making, based on what you want to do with your career (e.g. someone who wants to make the next iPhone may care more about product design, someone who wants to build the next Stripe may care more about strategy and technical, etc.)?
+
+## Talents
+This idea is a bit funny because I believe "talent" really just means "a skill I've stumbled into practicing without realizing it", but this is my closest answer for what "talent" a PM should have.
+
+One of the unique strengths of a PM (stronger in a PM vs. any other role) is ability to take a vague question and distill it into a story that can both clarify AND inspire. A vague question like “tell me about your favorite product” might turn into: who is the audience for this product, what are their needs, where is the product strong, where does it need improvement, what are it’s major competitors or analogues?
+
+Be prepared to break things down and create structure where there is none.
+
+## Desire
+What’s a story you can tell about a situation where doing “PM” work really made you happy and energized? What motivates you and makes PM the right path for you vs. data science vs. design vs. engineering vs. …? (I’m bored of engineering is not a great answer to this, there are a thousand other things you could do that aren’t engineering…why this one?) What projects or research or other outputs have to done that actually showcase this desire? Even if you’re not the best PM yet, convince me that someday you will be, and that I want you on my team.
+
+# Final thoughts
+To succeed in interviews you will need to have thought through, and excel at explaining how you embody the above concepts, clearly and concisely, to an interviewer.
+
+Make a list of the questions you’re likely to face. Set a target amount of time you have to answer each question (2 minutes? 3?) and hone your answers (not word for word, but know the crux of your responses).
+
+After feeling comfortable with your answers, actually sit down and say it to someone. For the best feedback, video your "interview" with that persion...your weaknesses will immediately become visible and you can work on them. You talk too fast, you jumble things and the story is hard to follow, you go blank and can’t answer, etc.
+
+# Recommended readings
+* The 7 Habits of Highly Effective People (you control your destiny, you are responsible for winning!)
+* SPRINT (how to do rapid product design explorations, I’ve done this, it works)
+* Cracking the PM Interview (cheat sheet for prepping for interviews, common questions asked)
+* Innovators Dilemma (how should the business effectively think about new product development)
+* Radical Focus (setting good goals *is* important and *is* difficult to do well)
+
+# Next up!
+This is really just my stream of thought while sitting in a Philz in La Jolla. To fill in the gaps and refine this further, I should contact some strong PMs I know and hear how they think about this question, and maybe even get their review of my answer.
