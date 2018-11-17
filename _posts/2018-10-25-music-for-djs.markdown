@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Music for DJs"
+title:  "Notes: Music for Tango DJ's Seminar"
 date:   2018-10-25 16:00:00
 categories: tango
 ---
