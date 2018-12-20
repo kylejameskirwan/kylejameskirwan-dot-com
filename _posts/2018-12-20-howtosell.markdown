@@ -11,6 +11,18 @@ This is the process Clever used to get to first $1M in revenue
 
 ---
 
+## TL;DR
+1. When talking to a customer (ever): shut up and listen to them
+2. Founders do sales, ideally it's 1 person's full time job
+3. Expect to hear "no" a lot, prepare for a 2.5% conversion rate
+4. Use your network for your first few sales
+5. Go to conferences, use them as a sales channel
+6. Follow up religiously, can take months to close a deal 
+7. Watch out for 3 hangups when closing the deal
+8. Your sales model and pricing model are intertwined
+
+---
+
 ## Who does sales
 You do! The Don Draper imagery is bullshit…you can sell, you need to learn.
 
@@ -40,44 +52,48 @@ You must understand your users in order to sell to them. Your goal is to learn a
 ---
 
 ## Part 1: Prospecting
-You’ll hear no a lot
-Technology adoption curve: innovators, early adopt, majority, late, laggards
-Innovators segment is like 2.5% of the population…
-It’s a numbers game, you need  to find100 companies to get 2-3 sales
-Expect early sales not to be 2-4-10 companies, expect grinding
+
+You’ll hear no a lot, this is ok. Here's why:
+
+The technology adoption curve describes 5 stages: innovators, early adopt, majority, late, and laggards. The innovators segment is estimated to be only 2.5% of the "population" you're selling to. This means you need to find 100 companies to get 2-3 sales. Expect that you'll need to grind hard to get those early sales, you can't get by with 2-4 contacts, you'll need 100s.
 
 ---
 
 ## Part 2: Conversations
 
 ### Use your network
-Almost always the earliest deals, these are the best.
+Founder's personal networks are almost always the earliest deals, these are the best and the easiest.
 
-### Conferences
-Small ones not big, usually a few days in a hotel room, you have to go where your users are, your users may be going to meet their peers at these. 
+### Go to conferences
+Small ones not the big ones. These are usually only a few days in a hotel meeting room. 
 
-Ask people what they go to. Pick a few to attend, can be a few $k sometimes.
+You have to go where your users are, and your users may be going to meet their peers at these. Ask your customers what conferences they go to and pick a few to attend.
 
-Get the list (IMPORTANT) know who’s gonna be there, write to organizer if necessary, don’t just show up. Email people in advance, ask if they’ll have time to chat. Do this with as many people as possible. Aim for entire day booked in 30 minute increments. 
+These can be a few $k each ticket, so...
+
+**Get the list of attendees and know who’s gonna be there**, write to organizer if necessary, don’t just show up. Email these people in advance, ask if they’ll have time to chat. Do this with as many people as possible. Aim for entire day booked in 30 minute increments. 
 
 ### Cold emails
-Most common, but many people don’t know how to do this well.
+These are the highest volume method, but many people don’t know how to do it well.
 
-Bad: Long, not personalized, not actionable, boring, irrelevant.
+**Bad** Long, not personalized, not actionable, boring, irrelevant.
 
-Good: Short, concise, personalized, actionable, this might be relevant to you because of some personalized reasons, even if you’re not looking I’d love to talk to you about it, if you have time this week or next please let me know.
+**Good** Short, concise, personalized, actionable.
+
+Format: this might be relevant to you because of some personalized reasons, even if you’re not looking I’d love to talk to you about it, if you have time this week or next please let me know.
 
 ### You’re on the phone
-**SHUT UP AND LISTEN TO THEM!!!**
-Should be 70% them talking (this is the most important thing ever)
-Sales is about listening
-Battering ram approach does not work
-Build a relationship and understand their problems
-Find out how you can help them
-Talking: Don’t practice points, practice questions for them #protips
-Uber-conference: see how much time you each spent talking #tools
+**SHUT UP AND LISTEN!** They should be doing 70% of the talking (this is the most important thing ever).
 
-### Actual steps from a real deal at Clever (2 months, $100k/yr cust.)
+Sales is about listening. The battering ram approach does not work. Build a relationship and understand their problems, find out how you can help them.
+
+**When talking:** Don’t practice points, practice questions for them.
+
+Uber-conference: a tool to see how much time you each spent talking during the call.
+
+### Actual steps from a real deal at Clever
+This took 2 months, and landed a $100k/yr customer.
+
 1. Introduced
 2. Met in person
 3. Email (no response)
@@ -150,33 +166,16 @@ But assume the best and that they’re busy, you’re not the top priority
 Keep the emails thoughtful and personalized <<<— important
 
 ### When you’re getting early no’s, how to tell product-market-fit issue?
-You don’t discover it from the no’s, only from jesses
-Too many reasons you could be getting a no
-The states reason is often not honest, so ignore this, they’re being polite
-Your signal is if you can’t get any yesses ever
+You don’t discover it from the no’s, only from jesses. Too many reasons you could be getting a no. The states reason is often not honest, so ignore this, they’re being polite. Your signal is if you can’t get any yesses ever.
 
 ### When prospecting, better for big names or easier closes?
-YC gives advice of breadth-first search
-Optimize for speed, a customer is better than nothing
-Talk to the big ones though, might be surprised
-Who needs it the most, they’ll be fastest
-In early days don’t need big logos, just need validation
+YC gives advice of breadth-first search. Optimize for speed, a customer is better than nothing. Talk to the big ones though, might be surprised. Who needs it the most, they’ll be fastest. In early days don’t need big logos, just need validation.
 
 ### How did you learn your pricing?
-We guessed…
-We got feedback quickly from the market
-Most startup founders go too low
-Pick a number, try to close a sale, try doubling it next time!
-Why was the first sale $100k? We picked a number…
-“THIS IS THE RIGHT PRICE! NO OTHER PRICE WOULD BE FAIR!”
-…but be willing to quickly iterate
+We guessed…but we got feedback quickly from the market. Most startup founders go too low. Pick a number, try to close a sale, try doubling it next time! Why was the first sale $100k? We picked a number…“THIS IS THE RIGHT PRICE! NO OTHER PRICE WOULD BE FAIR!”…but be willing to quickly iterate
 
 ### How do you bootstrap sales with $50/mo?
-You basically shouldn’t do any of these things
-You need marketing, not sales
-Email campaigns, self-service signup, etc.
-OR: raise the price where sales makes sense
+You basically shouldn’t do any of these things. You need marketing, not sales. Email campaigns, self-service signup, etc. OR: raise the price where sales makes sense
 
 ### What if there aren’t enough case studies to show off?
-Many founders think they never have enough to convince people
-If you 
+Many founders think they never have enough to convince people. We didn't have them early on, it's fine, just sell.
