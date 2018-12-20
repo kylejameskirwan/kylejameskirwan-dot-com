@@ -2,8 +2,232 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Kyle James Kirwan</title>
-		<link>http://localhost:4000</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Startup School Notes: How to Sell</title>
+        <description>&lt;p&gt;My notes from &lt;a href=&quot;https://www.youtube.com/watch?v=xZi4kTJG-LE&quot;&gt;this talk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the process Clever used to get to first $1M in revenue&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Who does sales&lt;/h2&gt;
+
+&lt;p&gt;You do! The Don Draper imagery is bullshit…you can sell, you need to learn.&lt;/p&gt;
+
+&lt;p&gt;Clever had 3 cofounders and decided that 1 person had to own sales every day. The other two spent all their time building the product. He started selling before the product was actually built.&lt;/p&gt;
+
+&lt;p&gt;It should be as much of a full-time job as you can make it.&lt;/p&gt;
+
+&lt;h3&gt;As a founder you should always be doing 1 of 2 things:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;building the product&lt;/li&gt;
+&lt;li&gt;talking to users&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;h3&gt;Understanding your users is core to sales.&lt;/h3&gt;
+
+&lt;p&gt;You must understand your users in order to sell to them. Your goal is to learn and solve their problems.&lt;/p&gt;
+
+&lt;h3&gt;As a founder you have unique advantages for sales.&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Passion for the product and business, more than anyone else.&lt;/li&gt;
+&lt;li&gt;Industry expertise, you know this problem in and out.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2&gt;The funnel&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Prospecting: finding leads, who is interested&lt;/li&gt;
+&lt;li&gt;Conversations: is this right for them or not&lt;/li&gt;
+&lt;li&gt;Closing: completing the actual transaction&lt;/li&gt;
+&lt;li&gt;Promised land: revenue comes in&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Part 1: Prospecting&lt;/h2&gt;
+
+&lt;p&gt;You’ll hear no a lot
+Technology adoption curve: innovators, early adopt, majority, late, laggards
+Innovators segment is like 2.5% of the population…
+It’s a numbers game, you need  to find100 companies to get 2-3 sales
+Expect early sales not to be 2-4-10 companies, expect grinding&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Part 2: Conversations&lt;/h2&gt;
+
+&lt;h3&gt;Use your network&lt;/h3&gt;
+
+&lt;p&gt;Almost always the earliest deals, these are the best.&lt;/p&gt;
+
+&lt;h3&gt;Conferences&lt;/h3&gt;
+
+&lt;p&gt;Small ones not big, usually a few days in a hotel room, you have to go where your users are, your users may be going to meet their peers at these.&lt;/p&gt;
+
+&lt;p&gt;Ask people what they go to. Pick a few to attend, can be a few $k sometimes.&lt;/p&gt;
+
+&lt;p&gt;Get the list (IMPORTANT) know who’s gonna be there, write to organizer if necessary, don’t just show up. Email people in advance, ask if they’ll have time to chat. Do this with as many people as possible. Aim for entire day booked in 30 minute increments.&lt;/p&gt;
+
+&lt;h3&gt;Cold emails&lt;/h3&gt;
+
+&lt;p&gt;Most common, but many people don’t know how to do this well.&lt;/p&gt;
+
+&lt;p&gt;Bad: Long, not personalized, not actionable, boring, irrelevant.&lt;/p&gt;
+
+&lt;p&gt;Good: Short, concise, personalized, actionable, this might be relevant to you because of some personalized reasons, even if you’re not looking I’d love to talk to you about it, if you have time this week or next please let me know.&lt;/p&gt;
+
+&lt;h3&gt;You’re on the phone&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;SHUT UP AND LISTEN TO THEM!!!&lt;/strong&gt;
+Should be 70% them talking (this is the most important thing ever)
+Sales is about listening
+Battering ram approach does not work
+Build a relationship and understand their problems
+Find out how you can help them
+Talking: Don’t practice points, practice questions for them #protips
+Uber-conference: see how much time you each spent talking #tools&lt;/p&gt;
+
+&lt;h3&gt;Actual steps from a real deal at Clever (2 months, $100k/yr cust.)&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Introduced&lt;/li&gt;
+&lt;li&gt;Met in person&lt;/li&gt;
+&lt;li&gt;Email (no response)&lt;/li&gt;
+&lt;li&gt;Email (no response)&lt;/li&gt;
+&lt;li&gt;Email&lt;/li&gt;
+&lt;li&gt;Schedule a call&lt;/li&gt;
+&lt;li&gt;Have a call&lt;/li&gt;
+&lt;li&gt;Flow 2&lt;/li&gt;
+&lt;li&gt;Email (no response), email (no response), email&lt;/li&gt;
+&lt;li&gt;Schedule next call&lt;/li&gt;
+&lt;li&gt;Pricing call #1&lt;/li&gt;
+&lt;li&gt;Pricing call #2&lt;/li&gt;
+&lt;li&gt;Sent a quote&lt;/li&gt;
+&lt;li&gt;Answer questions via email&lt;/li&gt;
+&lt;li&gt;Send contract&lt;/li&gt;
+&lt;li&gt;Send references&lt;/li&gt;
+&lt;li&gt;Send financials&lt;/li&gt;
+&lt;li&gt;Email (no response)&lt;/li&gt;
+&lt;li&gt;Redlines #1&lt;/li&gt;
+&lt;li&gt;Email nudge&lt;/li&gt;
+&lt;li&gt;Redline #2&lt;/li&gt;
+&lt;li&gt;Redline #3&lt;/li&gt;
+&lt;li&gt;Redline #4&lt;/li&gt;
+&lt;li&gt;Call with CEO&lt;/li&gt;
+&lt;li&gt;Redline #5&lt;/li&gt;
+&lt;li&gt;Done&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;It’s not over until they actually say “no”
+Being persistent isn’t rude, they’re busy&lt;/p&gt;
+
+&lt;h3&gt;Getting a “no”&lt;/h3&gt;
+
+&lt;p&gt;A quick no is a blessing in disguise
+Worst thing is dragging it out and wasting time&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Part 3: Closing (enterprise)&lt;/h2&gt;
+
+&lt;p&gt;They said they wanna buy, great.&lt;br/&gt;
+Many deals get messed up here though.&lt;/p&gt;
+
+&lt;h3&gt;3 things to watch out for:&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Redlining: They will want to change the agreement, redlining. Be ready to send the agreement immediately. Don’t fight over dumb shit, get it done: early customers are mana from heaven, don’t quibble, they will want some weird random shit.&lt;/li&gt;
+&lt;li&gt;Avoid one-more-feature closing trap, unless it’s customer 1 or 2, this is most often a pass (there is usually actually more than 1 more thing). Can offer that we will build if we hear multiple customers need it, sometimes they will still take this.&lt;/li&gt;
+&lt;li&gt;Free trials. You need commitment, validation, and revenue. Free trials are the opposite of this. We spent a lot of time building the product and doing the sale, cannot afford to give it for free. But we know there is risk and we understand. We only do annual agreements but if you cancel in the first 30 days, we’ll let you go. This creates a default-yes situation.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Sales method is intertwined with your pricing model&lt;/h2&gt;
+
+&lt;h3&gt;Five ways to get to $1M in sales&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;$1,000,000 customer, only need 1!&lt;/li&gt;
+&lt;li&gt;$100,000 customers, only need  10!&lt;/li&gt;
+&lt;li&gt;$10,000 customers, only need 100!&lt;/li&gt;
+&lt;li&gt;$1,000 customers, need 1000.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;Is your sales pipeline appropriate relative to your pricing?
+If 1-2 then great, high-touch sales makes sense
+If 3-4 then need to find more standard, low friction, maybe self-serve&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Q&amp;amp;A&lt;/h2&gt;
+
+&lt;h3&gt;What’s the right time between email follow ups?&lt;/h3&gt;
+
+&lt;p&gt;A little under a week, 5-6-7 days later is polite and not over-eager&lt;/p&gt;
+
+&lt;h3&gt;When do you feel like you’re pestering?&lt;/h3&gt;
+
+&lt;p&gt;I like to think, if they haven’t said no, you’re right to follow up
+If you’ve followed up 8 times…take the hint
+But assume the best and that they’re busy, you’re not the top priority
+Keep the emails thoughtful and personalized &amp;lt;&amp;lt;&amp;lt;— important&lt;/p&gt;
+
+&lt;h3&gt;When you’re getting early no’s, how to tell product-market-fit issue?&lt;/h3&gt;
+
+&lt;p&gt;You don’t discover it from the no’s, only from jesses
+Too many reasons you could be getting a no
+The states reason is often not honest, so ignore this, they’re being polite
+Your signal is if you can’t get any yesses ever&lt;/p&gt;
+
+&lt;h3&gt;When prospecting, better for big names or easier closes?&lt;/h3&gt;
+
+&lt;p&gt;YC gives advice of breadth-first search
+Optimize for speed, a customer is better than nothing
+Talk to the big ones though, might be surprised
+Who needs it the most, they’ll be fastest
+In early days don’t need big logos, just need validation&lt;/p&gt;
+
+&lt;h3&gt;How did you learn your pricing?&lt;/h3&gt;
+
+&lt;p&gt;We guessed…
+We got feedback quickly from the market
+Most startup founders go too low
+Pick a number, try to close a sale, try doubling it next time!
+Why was the first sale $100k? We picked a number…
+“THIS IS THE RIGHT PRICE! NO OTHER PRICE WOULD BE FAIR!”
+…but be willing to quickly iterate&lt;/p&gt;
+
+&lt;h3&gt;How do you bootstrap sales with $50/mo?&lt;/h3&gt;
+
+&lt;p&gt;You basically shouldn’t do any of these things
+You need marketing, not sales
+Email campaigns, self-service signup, etc.
+OR: raise the price where sales makes sense&lt;/p&gt;
+
+&lt;h3&gt;What if there aren’t enough case studies to show off?&lt;/h3&gt;
+
+&lt;p&gt;Many founders think they never have enough to convince people
+If you&lt;/p&gt;
+</description>
+				<pubDate>Thu, 20 Dec 2018 00:00:00 -0500</pubDate>
+				<link>/2018/12/20/howtosell.html</link>
+				<guid isPermaLink="true">/2018/12/20/howtosell.html</guid>
+			</item>
 		
 			<item>
 				<title>What does it take to be a PM?</title>
@@ -148,9 +372,9 @@
 
 &lt;p&gt;This is really just my stream of thought while sitting in a Philz in La Jolla. To fill in the gaps and refine this further, I should contact some strong PMs I know and hear how they think about this question, and maybe even get their review of my answer.&lt;/p&gt;
 </description>
-				<pubDate>Fri, 16 Nov 2018 07:00:00 -0800</pubDate>
-				<link>http://localhost:4000/2018/11/16/pm_skills.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/11/16/pm_skills.html</guid>
+				<pubDate>Fri, 16 Nov 2018 10:00:00 -0500</pubDate>
+				<link>/2018/11/16/pm_skills.html</link>
+				<guid isPermaLink="true">/2018/11/16/pm_skills.html</guid>
 			</item>
 		
 			<item>
@@ -519,9 +743,9 @@ Build double the sets you need for the time&lt;br/&gt;
 Mixing - Saca chispas only good decaro milonga, has to be mixed with others&lt;br/&gt;
 Tanda placards - nice but if you use them make sure you actually use them&lt;/p&gt;
 </description>
-				<pubDate>Thu, 25 Oct 2018 09:00:00 -0700</pubDate>
-				<link>http://localhost:4000/2018/10/25/music-for-djs.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/10/25/music-for-djs.html</guid>
+				<pubDate>Thu, 25 Oct 2018 12:00:00 -0400</pubDate>
+				<link>/2018/10/25/music-for-djs.html</link>
+				<guid isPermaLink="true">/2018/10/25/music-for-djs.html</guid>
 			</item>
 		
 	</channel>
