@@ -6,6 +6,153 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Data Quality Tests You Should Know</title>
+        <description>&lt;p&gt;It seems like there isn’t a data scientist out there who hasn’t stumbled over a data quality issue at some point. Sometimes they’re temporary and obvious, other times subtle and undetected for weeks (or months). In most cases I’ve observed, the issue &lt;del&gt;could&lt;/del&gt; should have easily been caught with simple testing — not for some esoteric edge case, but just simple test coverage.&lt;/p&gt;
+
+&lt;p&gt;When I was working on the internal data quality product at Uber, I often saw customer teams got bogged down not by using the tool itself, but thinking through what tests to write. Once we reviewed their data with them and went through seemingly-stupidly-simple test cases, they got going on their own and achieved strong test coverage afterward.&lt;/p&gt;
+
+&lt;p&gt;This post provides a list of some data quality tests inspired by these stories, some that I’ve witnessed myself, and others relayed to me by former colleagues and industry friends. At the end we discuss briefly how to implement these, as well as plug our own product, Toro Data Quality, which makes it easy to spin these up and run them in your own analytics warehouse.&lt;/p&gt;
+
+&lt;p&gt;All of these can all be written without knowing anything about the relationship between this table an any other — you simply need to know business logic for the product or process represented by the analytics data in the table.&lt;/p&gt;
+
+&lt;p&gt;In future posts we plan to cover more advanced tests like between-table tests to check for ETL-job mistakes, cross-datacenter tests, and more.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Too many or too few rows&lt;/h3&gt;
+
+&lt;p&gt;The simplest case is to check that any rows exist — which may not be necessary for commonly accessed tables, but might be helpful to use on lookup tables that ETLs use but that humans don’t. More commonly useful would be checking that each partition in a partitioned table has a sane number of rows (e.g. in a time-partitioned table compare today’s count to the trailing N-day average count) to guard against missing or partially-loaded partitions.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;WITH
+date_counts AS (
+  SELECT
+    date_partition,
+    COUNT(*) AS cnt_rows
+  FROM my_table
+  WHERE date_partition &amp;gt;= NOW()::DATE - INTERVAL '6 days'
+  GROUP BY date_partition),
+
+lst_date_stats AS (
+  SELECT cnt_rows
+  FROM date_counts
+  WHERE date_partition = NOW()::DATE - INTERVAL '1 days'),
+
+prev_5day_stats AS (
+  SELECT
+    AVERAGE(cnt_rows) + (3 * STDDEV(cnt_rows)) AS cnt_rows_upper_bound,
+    AVERAGE(cnt_rows) - (3 * STDDEV(cnt_rows)) AS cnt_rows_lower_bound
+  FROM date_counts
+  WHERE date_partition &amp;lt; NOW()::DATE - INTERVAL '1 day')
+
+SELECT cnt_rows BETWEEN cnt_rows_lower_bound AND cnt_rows_upper_bound AS cnt_rows_out_of_range
+FROM lst_date_stats JOIN prev_5day_stats ON TRUE
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;NOTE: If you're willing to trade higher querying load for more detail in your alert, the above test can easily be written as two tests, one for upper and one for lower bound deviations. This way your alert provides more granular information.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Unexpected NULLs&lt;/h3&gt;
+
+&lt;p&gt;It’s always wise to check for any nulls in columns that are meant to never have them (e.g. a user_uuid) as this can wreak serious havoc on ETLs, queries, etc.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;SELECT COUNT(*)
+FROM my_table
+WHERE my_column IS NULL
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;For data which is expected to be null occasionally (e.g. a field that didn’t exist several app versions ago) another test can make sense — &lt;em&gt;but beware&lt;/em&gt; — you are now doing crude anomaly detection. Your alert may no longer indicate bad data, but unexpected user behavior.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;SELECT ROUND(COUNT(CASE WHEN my_column IS NULL) / COUNT(*), 2) * 100 AS pct_null
+FROM my_table
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Implied types&lt;/h3&gt;
+
+&lt;p&gt;Sometimes (often for historical reasons) you may find yourself with one &lt;em&gt;implied&lt;/em&gt; type (say an integer) stored in a column that has a different &lt;em&gt;actual&lt;/em&gt; type (say a string). Testing that the data is actually an integer, as you expect it to be, can save you if some unexpectedly typed values start appearing — especially if this column is fed into a model or application that can break if there’s a deviation.&lt;/p&gt;
+
+&lt;p&gt;TODO: Here’s a cheatsheet for the relevant regexes / LIKE statements….&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Formatted strings&lt;/h3&gt;
+
+&lt;p&gt;A cousin of the &lt;em&gt;Implied Types&lt;/em&gt; check, ensure that email addresses, phone numbers, etc. that are stored in string fields are in their respective formats properly by using regexes.&lt;/p&gt;
+
+&lt;p&gt;TODO: Here’s a cheatsheet for the relevant regexes / LIKE statements….&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Enums&lt;/h3&gt;
+
+&lt;p&gt;If you know all values that should be allowed in the field, you may want to be alerted when something new shows up.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;SELECT COUNT(*)
+FROM my_table
+WHERE my_column NOT IN (enum_1, enum_2, enum_3)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Timestamps&lt;/h3&gt;
+
+&lt;p&gt;If some timestamps should always occur before others (e.g. created-at and updated-at) you can check their sequence. You can also check for timestamps created in the future, or too far in the past.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;SELECT COUNT(*)
+FROM my_table
+WHERE timestamp_2 &amp;lt; timestamp_1
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;SELECT COUNT(*)
+FROM my_table
+WHERE timestamp &amp;gt;= NOW() + INTERVAL '1 minute'
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Numerics&lt;/h3&gt;
+
+&lt;p&gt;Writing these sometimes requires more granular knowledge of your product/business logic, but can alert you when reality deviates from that theoretical logic. Check that non-zero numbers are positive, that mins and maxes are correct.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;SELECT COUNT(*)
+FROM my_table
+WHERE my_column &amp;lt; min_value
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;SELECT COUNT(*)
+FROM my_table
+WHERE my_column &amp;gt; max_value
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;NOTE: It’s easy to start using these as crude anomaly detection tools — if you do this be sure to indicate clearly for your teammates which respond to business behavior and which respond to damaged data.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Ok cool, so how do I do this?&lt;/h2&gt;
+
+&lt;p&gt;If you want to do it all yourself, set up queries yourself on a schedule using Airflow, Luigi, or another scheduler/orchestrator. TODO: DETAILS ON HOW TO ACTUALLY DO THIS?&lt;/p&gt;
+
+&lt;p&gt;If you want to get going faster and with less overhead, sign up for Toro Data Quality. All you need is a read-only account and you can start writing and deploying tests on your analytics data.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;Other posts you may enjoy&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Between-table tests (coming soon!)&lt;/li&gt;
+&lt;li&gt;Cross-datacenter testing (coming soon!)&lt;/li&gt;
+&lt;li&gt;Anomaly detection vs. data-damage detection (coming soon!)&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Mon, 07 Jan 2019 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/2019/01/07/data_quality_tests_you_should_know.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/01/07/data_quality_tests_you_should_know.html</guid>
+			</item>
+		
+			<item>
 				<title>Startup School Notes: How to Sell</title>
         <description>&lt;p&gt;My notes from &lt;a href=&quot;https://www.youtube.com/watch?v=xZi4kTJG-LE&quot;&gt;this talk&lt;/a&gt;&lt;/p&gt;
 
@@ -226,7 +373,7 @@ Keep the emails thoughtful and personalized &amp;lt;&amp;lt;&amp;lt;— importan
 
 &lt;p&gt;Many founders think they never have enough to convince people. We didn't have them early on, it's fine, just sell.&lt;/p&gt;
 </description>
-				<pubDate>Thu, 20 Dec 2018 00:00:00 -0500</pubDate>
+				<pubDate>Thu, 20 Dec 2018 00:00:00 -0800</pubDate>
 				<link>http://localhost:4000/2018/12/20/howtosell.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2018/12/20/howtosell.html</guid>
 			</item>
@@ -374,7 +521,7 @@ Keep the emails thoughtful and personalized &amp;lt;&amp;lt;&amp;lt;— importan
 
 &lt;p&gt;This is really just my stream of thought while sitting in a Philz in La Jolla. To fill in the gaps and refine this further, I should contact some strong PMs I know and hear how they think about this question, and maybe even get their review of my answer.&lt;/p&gt;
 </description>
-				<pubDate>Fri, 16 Nov 2018 10:00:00 -0500</pubDate>
+				<pubDate>Fri, 16 Nov 2018 07:00:00 -0800</pubDate>
 				<link>http://localhost:4000/2018/11/16/pm_skills.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2018/11/16/pm_skills.html</guid>
 			</item>
@@ -745,7 +892,7 @@ Build double the sets you need for the time&lt;br/&gt;
 Mixing - Saca chispas only good decaro milonga, has to be mixed with others&lt;br/&gt;
 Tanda placards - nice but if you use them make sure you actually use them&lt;/p&gt;
 </description>
-				<pubDate>Thu, 25 Oct 2018 12:00:00 -0400</pubDate>
+				<pubDate>Thu, 25 Oct 2018 09:00:00 -0700</pubDate>
 				<link>http://localhost:4000/2018/10/25/music-for-djs.html</link>
 				<guid isPermaLink="true">http://localhost:4000/2018/10/25/music-for-djs.html</guid>
 			</item>
