@@ -10,12 +10,12 @@ Anyone who's spent much time working with analytics data has run into a data qua
 
 This topic was inpsired by two observations I made while leading product on Uber's internal data quality platform:
 
-1. the lion's share of quality problems discovered by hand (usually triggering a fire for the discoverer) could have been caught with fairly simple and boring tests
-2. most teams blanked when we gave the data quality tool in a blank-slate state
+1. the lion's share of quality problems discovered by hand (usually triggering a fire for the discoverer) could be caught with simple and boring tests
+2. most teams blanked when they opened up the data quality tool for the first time
 
-Usually we found that a short consultation where we reviewed one of the teams table, identifying simple tests that they could write, would break the writer's block -- so I've compiled eight common test categories that anyone can use to get started covering their analytics data with test coverage.
+We often broke the write's block with a simple review of their table and basic tests that they could  -- so I've compiled some common test categories that anyone can use to get started covering their analytics data with test coverage.
 
-In future posts I plan cover some more complex tests, including between-table tests, and cross-datacenter comparisons.
+*In future posts I plan cover some more complex tests, including between-table tests, and cross-datacenter comparisons.*
 
 ---
 
@@ -104,6 +104,15 @@ SELECT
 FROM my_table
 ```
 
+**UUIDs**  
+<sup><sub>Regex credited to [this Stack thread](https://stackoverflow.com/questions/136505/searching-for-uuids-in-text-with-regex#6640851)</sub></sup>
+
+```
+SELECT
+  COUNT(CASE WHEN REGEXP_INSTR(user_uuid, '^(\+\d{1,2}\s)?\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}$') = 0 THEN 1 END) AS cnt_invalid_email
+FROM my_table
+```
+
 ---
 
 ### Formatted strings
@@ -119,7 +128,7 @@ FROM my_table
 ```
 
 **Phone numbers**  
-<sub><sup>Regex credited to [this Stack thread](https://stackoverflow.com/questions/16699007/regular-expression-to-match-standard-10-digit-phone-number#16699507)</sub></sup>
+<sub><sup>Regex credited to [this Stack thread](https://stackoverflow.com/questions/16699007/regular-expression-to-match-standard-10-digit-phone-number#16699507)</sup></sub>
 
 ```
 SELECT
@@ -127,12 +136,22 @@ SELECT
 FROM my_table
 ```
 
-**UUIDs**  
-<sup><sub>Regex credited to [this Stack thread](https://stackoverflow.com/questions/136505/searching-for-uuids-in-text-with-regex#6640851)</sub></sup>
+**US ZIP Codes**  
+<sub><sup>Regex credited to [this Stack thread](https://stackoverflow.com/a/7185241/1709587)</sup></sub>
 
 ```
 SELECT
-  COUNT(CASE WHEN REGEXP_INSTR(user_uuid, '^(\+\d{1,2}\s)?\(?\d{3}\)?[\s.-]\d{3}[\s.-]\d{4}$') = 0 THEN 1 END) AS cnt_invalid_email
+  COUNT(CASE WHEN REGEXP_INSTR(zip_code, '\d{5}([ \-]\d{4})?') = 0 THEN 1 END) AS cnt_invalid_zip
+FROM my_table
+```
+
+**Credit Card Numbers**  
+<sub><sup>NOTE: Looks for continuous numbers with no spaces or delimiters between.
+Regex credited to [this Stack thread](https://stackoverflow.com/a/7185241/1709587)</sup></sub>
+
+```
+SELECT
+  COUNT(CASE WHEN REGEXP_INSTR(cc_number, '^(?:4[0-9]{12}(?:[0-9]{3})?|[25][1-7][0-9]{14}|6(?:011|5[0-9][0-9])[0-9]{12}|3[47][0-9]{13}|3(?:0[0-5]|[68][0-9])[0-9]{11}|(?:2131|1800|35\d{3})\d{11})$') = 0 THEN 1 END) AS cnt_cc_number
 FROM my_table
 ```
 
@@ -189,10 +208,10 @@ WHERE my_column > max_value
 
 ---
 
-## Ok cool, so how do I do this?
-If you want to do it all yourself, set up queries yourself on a schedule using Airflow, Luigi, or another scheduler/orchestrator. TODO: DETAILS ON HOW TO ACTUALLY DO THIS?
+## How to get started
+If you want to do it all yourself, set up the queries as jobs on a DAG orchestrator (such as [Airflow](https://airflow.apache.org/) or [Luigi](https://luigi.readthedocs.io/en/stable/)), then connect that to your notification channels (Slack, Pagerduty, etc.). Easy!
 
-If you want to get going faster and with less overhead, sign up for Toro Data Quality. All you need is a read-only account and you can start writing and deploying tests on your analytics data.
+**If you want to get going faster, sign up for [Toro Data Quality](https://torodata.io/)**. Toro makes it easy to deploy tests in minutes, and saves your data engineering team the overhead of maintaining a reliable test orchestrator. All you need to start is a read-only account on your database or warehouse.
 
 ---
 
