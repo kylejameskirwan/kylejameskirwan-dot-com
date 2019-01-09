@@ -6,6 +6,53 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Hello world, from Toro Data Labs</title>
+        <description>&lt;h3&gt;Scaling your data ecosystem without good data management is like training for an Iron Man without eating any vegetables: you can beast-mode for a while, but nutritional reality catches up with you eventually.&lt;/h3&gt;
+
+&lt;p&gt;Of course, not everyone &lt;em&gt;likes&lt;/em&gt; eating their vegetables. It feels better to move fast, constantly turning data into the insights your team needs to crush your business goals. But as your body of queries, dashboards, ML models, and ETL pipelines grows…so does the chance for things to go wrong, and in more places at once.&lt;/p&gt;
+
+&lt;p&gt;Many of the businesses we interviewed in our 2018 market research have tried quick-and-dirty solutions, like making table schemas discoverable by documenting them in their company wiki. But inevitably these are half-baked, because they’re spending their real energy supporting the business’ growth, not these side projects. As a result, these solutions are usually unsatisfying, the limited functionality doesn’t justify the accompanying overhead, and they get abandoned.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Toro Data Labs is a small team of data enthusiasts inspired by this problem:&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;How to make it easy for any company to manage their data ecosystem as it scales with their business.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We’ve seen it done well, (disastrously) poorly, and a few stops in between — we know there's a path to achieving the well-oiled data environment that all analytics teams really want. We believe this ultimately requires best practices by the involved humans, but we also believe that best practices come easily when you have access to great tools.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;We’re taking our first step towards solving this problem by tackling data quality control.&lt;/h3&gt;
+
+&lt;p&gt;One of the critical advances in software engineering has been the use of testing. Unit and integration tests gives engineers confidence that their applications work as intended.&lt;/p&gt;
+
+&lt;p&gt;The same should be true for your analytics data: you should have evidence that your data is ultimately working as intended. If not, you should know what’s wrong so you can root-cause and fix the problem, before you do anything with it.&lt;/p&gt;
+
+&lt;p&gt;Our team has first-hand experience building and using the internal data quality control system at a Company You’ve Heard of — we want to bring the benefits of this type of tool to companies that don’t want the huge investment needed to build and maintain one themselves.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Toro Data’s DataMonitor makes it easy to deploy the basic tests you should be running on your analytics data warehouse.&lt;/h3&gt;
+
+&lt;p&gt;With just &lt;a href=&quot;http://torodata.io/blog/8-tests&quot;&gt;8 types of tests&lt;/a&gt; you can start catching unexpected schema changes, ETL and ingestion failures, off-by-one-column errors, and other annoyances too often discovered by hand (or by query). It sets up quickly with just a read-only account, and tests are easy to write in plain old SQL.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;center&gt;&lt;h3&gt;&lt;a href=&quot;https://torodata.io/&quot;&gt;Sign up here to be notified when our beta is available.&lt;/a&gt;&lt;/h3&gt;&lt;/center&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;Good luck 🤞&lt;br/&gt;
+Team Toro&lt;/p&gt;
+</description>
+				<pubDate>Wed, 09 Jan 2019 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/2019/01/09/toro_hello_world.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/01/09/toro_hello_world.html</guid>
+			</item>
+		
+			<item>
 				<title>8 Simple Data Quality Checks</title>
         <description>&lt;p&gt;Anyone who's spent much time working with analytics data has run into a data quality issue at some point -- sometimes obvious and temporary, other times subtle and undetected for weeks or months. This post reviews some basic data quality failure cases and the SQL-based tests you can run to monitor for them.&lt;/p&gt;
 
