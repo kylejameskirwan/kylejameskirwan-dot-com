@@ -53,6 +53,53 @@ Team Toro&lt;/p&gt;
 			</item>
 		
 			<item>
+				<title>Data Quality Horror Stories</title>
+        <description>&lt;p&gt;Names, genders, timestamps, and column names have all been modified to protect the identities of the victims. The storylines are, sadly, very real.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Noncents&lt;/h2&gt;
+
+&lt;p&gt;An analyst was developing a dashboard. For some reason all the USD numbers on the dashboard were whole: none of them had any cent values. After much upstream-sleuthing, he discovered that the column the transaction amounts were coming from had type set to INTEGER.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Down and to the right&lt;/h2&gt;
+
+&lt;p&gt;The product analytics manager was woken at 2:00AM by his team’s product manager. The dashboard tracking growth in India showed a precipitous drop in their key engagement metric.&lt;/p&gt;
+
+&lt;p&gt;The analytics manager woke his team mate who had built the dashboard. While debugging over Slack (now at 3:00-something AM) they realized that an upstream ETL was failing, and their aggregate table had only partially populated, simulating a sudden drop in business.&lt;/p&gt;
+
+&lt;p&gt;They kicked the ETL job and went back to bed.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2&gt;Append-icitus&lt;/h2&gt;
+
+&lt;p&gt;The ETL that ingested the source CSV adds an additional &lt;code&gt;etl_timestamp&lt;/code&gt; column when writing to its destination table. An analyst had added a &lt;code&gt;config_type&lt;/code&gt; column to the schema of the CSV at some point, pushing this &lt;code&gt;etl_timestamp&lt;/code&gt; column further to the right. The next ETL in the pipeline was not resilient to schema changes, and was now using the new &lt;code&gt;config_type&lt;/code&gt; column as if it were a timestamp.&lt;/p&gt;
+
+&lt;p&gt;Right data, wrong column.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Have your own data quality horrors? Toro Data’s DataMonitor makes it easy to deploy the basic tests you should be running on your analytics data warehouse.&lt;/p&gt;
+
+&lt;p&gt;With just &lt;a href=&quot;http://torodata.io/blog/8-tests&quot;&gt;8 types of tests&lt;/a&gt; you can start catching unexpected schema changes, ETL and ingestion failures, off-by-one-column errors, and other annoyances too often discovered by hand (or by query). It sets up quickly with just a read-only account, and tests are easy to write in plain old SQL.&lt;/p&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://torodata.io/&quot;&gt;Sign up here to be notified when our beta is available.&lt;/a&gt;&lt;/center&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;Good luck 🤞&lt;br/&gt;
+Team Toro&lt;/p&gt;
+</description>
+				<pubDate>Wed, 09 Jan 2019 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/2019/01/09/data_quality_horrors.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/01/09/data_quality_horrors.html</guid>
+			</item>
+		
+			<item>
 				<title>8 Simple Data Quality Checks</title>
         <description>&lt;p&gt;Anyone who's spent much time working with analytics data has run into a data quality issue at some point -- sometimes obvious and temporary, other times subtle and undetected for weeks or months. This post reviews some basic data quality failure cases and the SQL-based tests you can run to monitor for them.&lt;/p&gt;
 
