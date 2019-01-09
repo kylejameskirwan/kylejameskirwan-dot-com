@@ -6,6 +6,6 @@ permalink: /about/
 ![Kyle](https://s.gravatar.com/avatar/30c9436e34eb3336dab97dccda7061d8?s=80)
 This site is written by Kyle Kirwan.
 
-I'm currently working at a startup focused on the next generation of data tooling called [Toro Data Labs](https://torodata.io). Previously I was a data scientist and product manager at Uber.
+I'm currently working at a startup focused on the next generation of data tooling called [Toro Data Labs](https://torodata.io). Previously I was a data scientist and product manager at Uber, where I helped launch teams like [Experimentation Platform](https://eng.uber.com/xp/), and products like [Databook](https://eng.uber.com/databook/).
 
 I'm using the <a href="http://github.com/gfjaru/Kiko">Kiko</a> theme for Jekyll.
