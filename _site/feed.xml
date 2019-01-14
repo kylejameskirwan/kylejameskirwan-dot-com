@@ -2,8 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Kyle James Kirwan</title>
-		<link>http://localhost:4000</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>My Seattle shortlist</title>
+        <description>&lt;p&gt;A list of nice things I discovered in my one year living in Seattle.&lt;/p&gt;
+
+&lt;h3&gt;Coffee/tea&lt;/h3&gt;
+
+&lt;p&gt;KEXP (just down the hill) is wonderful
+Vivace in Capital Hill, great espresso, old-school feel
+Stumptown in southern Capital Hill
+Miro in Ballard for great tea
+Milstead &amp;amp; Co. in Fremont, new-school feel
+Storyville…read  about “Mars Hill Church” before going (or not going)
+Starbucks Reserve Tasting Room in Capital Hill is unique&lt;/p&gt;
+
+&lt;h3&gt;Bars&lt;/h3&gt;
+
+&lt;p&gt;Canon, over the top in presentation but so well done
+Zigzag, Seattle classic (bartender moved to Canon)
+Rob Roy,  great spot while waiting for seat at Shiro’s
+Navy Strength, solid Tiki&lt;/p&gt;
+
+&lt;h3&gt;Pizza&lt;/h3&gt;
+
+&lt;p&gt;Masonry (just down the hill) has great pizza and greater beer
+Patxi’s in Ballard for deep dish from SF
+Sizzle Pie in Capital Hill&lt;/p&gt;
+
+&lt;h3&gt;Ramen&lt;/h3&gt;
+
+&lt;p&gt;Danbo in Capital Hill
+Arashi in Ballard&lt;/p&gt;
+
+&lt;h3&gt;Tacos&lt;/h3&gt;
+
+&lt;p&gt;Chukis in Capital Hill (superior to SLU location)
+Neon Taco in Capital Hill&lt;/p&gt;
+
+&lt;h3&gt;Sushi&lt;/h3&gt;
+
+&lt;p&gt;Musashi’s in Wallingford, cheap, good
+Shiro’s in Belltown, pricey but nice omakase
+Kashiba in Belltown, very-pricey but very-nice omakase
+Menaki  in ID/Chinatown (not sushi) great family-run Japanese, cheap!&lt;/p&gt;
+
+&lt;h3&gt;Farmers markets&lt;/h3&gt;
+
+&lt;p&gt;Queen Anne Thursdays (June-Oct only)
+U-District on Saturdays
+Ballard on Sundays&lt;/p&gt;
+
+&lt;h3&gt;Misc&lt;/h3&gt;
+
+&lt;p&gt;Kerry Park, famous view, 2 blocks away
+SIFF Cinema (down the hill) is fun
+Panda Lab (down the hill) for developing film
+Volunteer Park in Capital Hill has a Noguchi sculpture (which inspired a Soundgarden song)
+Elliott Bay Book Co. in Capital Hill
+Cafe Presse in Capital Hill
+Uneeda Burger in Fremont
+No Bones Beach Club, vegetarian, fun, beach/tiki themed
+Shake Shack is downtown (Dick’s is…not good)
+Jade Garden in ID/Chinatown for dim sum
+Tune Hi-fi in Belltown, nice people, care about audio&lt;/p&gt;
+</description>
+				<pubDate>Mon, 14 Jan 2019 00:00:00 -0800</pubDate>
+				<link>/2019/01/14/seattle-shortlist.html</link>
+				<guid isPermaLink="true">/2019/01/14/seattle-shortlist.html</guid>
+			</item>
 		
 			<item>
 				<title>Hello world, from Toro Data Labs</title>
@@ -48,8 +117,8 @@
 Team Toro&lt;/p&gt;
 </description>
 				<pubDate>Wed, 09 Jan 2019 00:00:00 -0800</pubDate>
-				<link>http://localhost:4000/2019/01/09/toro_hello_world.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2019/01/09/toro_hello_world.html</guid>
+				<link>/2019/01/09/toro_hello_world.html</link>
+				<guid isPermaLink="true">/2019/01/09/toro_hello_world.html</guid>
 			</item>
 		
 			<item>
@@ -95,8 +164,8 @@ Team Toro&lt;/p&gt;
 Team Toro&lt;/p&gt;
 </description>
 				<pubDate>Wed, 09 Jan 2019 00:00:00 -0800</pubDate>
-				<link>http://localhost:4000/2019/01/09/data_quality_horrors.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2019/01/09/data_quality_horrors.html</guid>
+				<link>/2019/01/09/data_quality_horrors.html</link>
+				<guid isPermaLink="true">/2019/01/09/data_quality_horrors.html</guid>
 			</item>
 		
 			<item>
@@ -317,8 +386,8 @@ WHERE my_column &amp;gt; max_value
 
 </description>
 				<pubDate>Mon, 07 Jan 2019 00:00:00 -0800</pubDate>
-				<link>http://localhost:4000/2019/01/07/data_quality_tests_you_should_know.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2019/01/07/data_quality_tests_you_should_know.html</guid>
+				<link>/2019/01/07/data_quality_tests_you_should_know.html</link>
+				<guid isPermaLink="true">/2019/01/07/data_quality_tests_you_should_know.html</guid>
 			</item>
 		
 			<item>
@@ -543,8 +612,8 @@ Keep the emails thoughtful and personalized &amp;lt;&amp;lt;&amp;lt;— importan
 &lt;p&gt;Many founders think they never have enough to convince people. We didn't have them early on, it's fine, just sell.&lt;/p&gt;
 </description>
 				<pubDate>Thu, 20 Dec 2018 00:00:00 -0800</pubDate>
-				<link>http://localhost:4000/2018/12/20/howtosell.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/12/20/howtosell.html</guid>
+				<link>/2018/12/20/howtosell.html</link>
+				<guid isPermaLink="true">/2018/12/20/howtosell.html</guid>
 			</item>
 		
 			<item>
@@ -691,8 +760,8 @@ Keep the emails thoughtful and personalized &amp;lt;&amp;lt;&amp;lt;— importan
 &lt;p&gt;This is really just my stream of thought while sitting in a Philz in La Jolla. To fill in the gaps and refine this further, I should contact some strong PMs I know and hear how they think about this question, and maybe even get their review of my answer.&lt;/p&gt;
 </description>
 				<pubDate>Fri, 16 Nov 2018 07:00:00 -0800</pubDate>
-				<link>http://localhost:4000/2018/11/16/pm_skills.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/11/16/pm_skills.html</guid>
+				<link>/2018/11/16/pm_skills.html</link>
+				<guid isPermaLink="true">/2018/11/16/pm_skills.html</guid>
 			</item>
 		
 			<item>
@@ -1062,8 +1131,8 @@ Mixing - Saca chispas only good decaro milonga, has to be mixed with others&lt;b
 Tanda placards - nice but if you use them make sure you actually use them&lt;/p&gt;
 </description>
 				<pubDate>Thu, 25 Oct 2018 09:00:00 -0700</pubDate>
-				<link>http://localhost:4000/2018/10/25/music-for-djs.html</link>
-				<guid isPermaLink="true">http://localhost:4000/2018/10/25/music-for-djs.html</guid>
+				<link>/2018/10/25/music-for-djs.html</link>
+				<guid isPermaLink="true">/2018/10/25/music-for-djs.html</guid>
 			</item>
 		
 	</channel>
