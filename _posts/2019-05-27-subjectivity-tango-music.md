@@ -17,20 +17,20 @@ I’m now bored by the very simple and clear music I loved as a fresh beginner, 
 # Criteria
 Here are some aspects of music that, in my mind, help separate the non-danceable from the danceable:
 
-- Intro… how long do we stand there before naturally wanting to embrace and move?
-- Clarity of rhythm… is it clearly present most or all of the time? No rhythm at all and get the wale sounds. Only rhythm and we have a solo metronome.
-- Clarity of emotion… we generally want to feel something, but not everything, in a single song.
-- Abundance of jarring pauses or breaks… the more there are in the song, the more you have to memorize in order to not fall on your ass.
-- Lack of weird structural changes… “A Pan y Agua” makes this clear.
-- Speed… just like walking on the sidewalk, we have natural range of movement speeds as humans. Too slow and we get exhausted from dragging out every moments. Too fast and we struggle to keep up with even the shortest and quickest steps.
-- Ending… long fade-outs suck for moving because we have to gradually diminish our movement. Too sharp and we either miss them and feel stupid, or have to crash into them too hard. A solid bando “thump” note, or a brief pause before a set of sweet piano increasing notes are reasonable bounds for most dancers.
+**Intro…** how long do we stand there before naturally wanting to embrace and move?
+**Clarity of rhythm…** is it clearly present most or all of the time? No rhythm at all and get the wale sounds. Only rhythm and we have a solo metronome.  
+**Clarity of emotion…** we generally want to feel something, but not everything, in a single song.
+**Jarring pauses or breaks…** the more there are in the song, the more you have to memorize in order to not fall on your ass.  
+**Lack of weird structural changes…** “A Pan y Agua” makes this clear.
+**Speed…** just like walking on the sidewalk, we have natural range of movement speeds as humans. Too slow and we get exhausted from dragging out every moments. Too fast and we struggle to keep up with even the shortest and quickest steps.  
+**Ending…** long fade-outs suck for moving because we have to gradually diminish our movement. Too sharp and we either miss them and feel stupid, or have to crash into them too hard. A solid bando “thump” note, or a brief pause before a set of sweet piano increasing notes are reasonable bounds for most dancers.  
 
 Once we’ve cleared a song on the above criteria, now it’s a question of taste, which I might describe with some of the following:
 
-- Category… Tango, Milonga, Vals. Some like some, some like others, some like all. Hard to argue that there aren’t danceable songs in all categories.
-- Mood… angry, dramatic, sorrowful, silly, happy. Tango contains all of these and we might want one or the other depending on time of day, what’s happening in our lives, and other factors. Again, great songs in all of these categories.
-- Speed… as long as we’re in the acceptable range, it becomes a matter of how tired you are, how fast your partner can or wants to move, etc. and is often correlated with an emotion (sweet = slow, angry = fast).
-- Instruments and vocals… I like the oboe in some Canaro songs, you prefer the shrill scream of Di Sarli violins. Sometimes a guitar is nice, sometimes not. This seems clearly subjective to me. Different instruments are and are-not present across the whole range of danceable to un-danceable.
+**Category…** Tango, Milonga, Vals. Some like some, some like others, some like all. Hard to argue that there aren’t danceable songs in all categories.  
+**Mood…** angry, dramatic, sorrowful, silly, happy. Tango contains all of these and we might want one or the other depending on time of day, what’s happening in our lives, and other factors. Again, great songs in all of these categories.  
+**Speed…** as long as we’re in the acceptable range, it becomes a matter of how tired you are, how fast your partner can or wants to move, etc. and is often correlated with an emotion (sweet = slow, angry = fast).  
+**Instruments and vocals…** I like the oboe in some Canaro songs, you prefer the shrill scream of Di Sarli violins. Sometimes a guitar is nice, sometimes not. This seems clearly subjective to me. Different instruments are and are-not present across the whole range of danceable to un-danceable.  
 
 
 # An example
