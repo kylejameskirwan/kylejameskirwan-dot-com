@@ -19,9 +19,9 @@ Here are some aspects of music that, in my mind, help separate the non-danceable
 
 **Intro…** how long do we stand there before naturally wanting to embrace and move?
 **Clarity of rhythm…** is it clearly present most or all of the time? No rhythm at all and get the wale sounds. Only rhythm and we have a solo metronome.  
-**Clarity of emotion…** we generally want to feel something, but not everything, in a single song.
+**Clarity of emotion…** we generally want to feel something, but not everything, in a single song.  
 **Jarring pauses or breaks…** the more there are in the song, the more you have to memorize in order to not fall on your ass.  
-**Lack of weird structural changes…** “A Pan y Agua” makes this clear.
+**Lack of weird structural changes…** “A Pan y Agua” makes this clear.  
 **Speed…** just like walking on the sidewalk, we have natural range of movement speeds as humans. Too slow and we get exhausted from dragging out every moments. Too fast and we struggle to keep up with even the shortest and quickest steps.  
 **Ending…** long fade-outs suck for moving because we have to gradually diminish our movement. Too sharp and we either miss them and feel stupid, or have to crash into them too hard. A solid bando “thump” note, or a brief pause before a set of sweet piano increasing notes are reasonable bounds for most dancers.  
 
@@ -39,15 +39,15 @@ Below I’ve found 14 songs by D'Arienzo, to fit spots on a 4x4 grid (danceable 
 ---
 
 ### Pensalo Bien (danceable: 4, enjoyable: 4)
-Rhythm/structure is clear and appears quickly, nice drive, energetic but not too fast for majority of dancers, can often dance on 2 or even 3 layers (beat, strings, vocals), builds in intensity but not abruptly, nothing weird happens, clean/simple ending.
+Rhythm/structure is clear and appears quickly, nice drive, energetic but not too fast for majority of dancers, can often dance on 2 or even 3 layers (beat, strings, vocals), builds in intensity but not abruptly, nothing weird happens, clean/simple ending.  
 [Juan D’Arienzo - 1938 - Pensalo bien - YouTube](https://www.youtube.com/watch?v=8PntJlcscGU)
 
 ### La Morocha (danceable: 4, enjoyable: 3)
-Rhythm is clear and appears quickly, some nice decorative piano things, slightly plodding, generally a solid song. But: generally not incredibly exciting for advanced dancers, has some phrases that could be slightly jarring, has an almost-false ending 60% into the song, and a weird piano build-up at the end.
+Rhythm is clear and appears quickly, some nice decorative piano things, slightly plodding, generally a solid song. But: generally not incredibly exciting for advanced dancers, has some phrases that could be slightly jarring, has an almost-false ending 60% into the song, and a weird piano build-up at the end.  
 [Juan D’Arienzo - La Morocha - Tango - YouTube](https://www.youtube.com/watch?v=ekqQg8x1ezQ)
 
 ### Re Fa Si (danceable: 4, enjoyable: 2)
-Clear rhythm and structure is easy to follow. Generally kinda plodding, has weird dragging strings, weird phrase starts around 1:10, song doesn’t seem to know what emption it wants from the dancers so they leave feeling confused…
+Clear rhythm and structure is easy to follow. Generally kinda plodding, has weird dragging strings, weird phrase starts around 1:10, song doesn’t seem to know what emption it wants from the dancers so they leave feeling confused…  
 [Juan D’Arienzo - 1935 - Re Fa Si - YouTube](https://www.youtube.com/watch?v=vBsq3KL7pfA)
 
 ### ??? (danceable: 4, enjoyable: 1)
@@ -56,37 +56,37 @@ Couldn’t find an example here. If it isn’t danceable at all then I’m not s
 ---
 
 ### Milonga del 83 (danceable: 3, enjoyable: 4)
-Strong rhythm, great driving energy, but too fast for many dancers, lots of weird breaks and modifications to the phrases (tons of fun if you know where they are but really break your flow if you don’t).
+Strong rhythm, great driving energy, but too fast for many dancers, lots of weird breaks and modifications to the phrases (tons of fun if you know where they are but really break your flow if you don’t).  
 [Juan D’Arienzo - 1940 - Alberto Reynal - Milonga del 83 - YouTube](https://www.youtube.com/watch?v=-3BT13532fY)
 
 ### A Una Mujer (danceable: 3, enjoyable: 3)
-Might be too fast for some to dance comfortably, has some breaks, beat hides under the vocals sometimes.
+Might be too fast for some to dance comfortably, has some breaks, beat hides under the vocals sometimes.  
 [A UNA MUJER  - JUAN D’ARIENZO REYNAL - YouTube](https://www.youtube.com/watch?v=X_LBODPtzw0)
 
 ### Rodriguez Pena (danceable: 3, enjoyable: 2)
-<Add a description>
+TODO: Add a description.
 [Juan D’Arienzo - 1938 - Rodriguez Peña - YouTube](https://www.youtube.com/watch?v=s9t4F79d0sM)
 
 ### Meta Fiero (danceable: 3, enjoyable: 1)
-Really long weird intro, dancing doesn’t start until almost 20s in, then becomes quite fast with a very present singer, lots of sudden stops.
+Really long weird intro, dancing doesn’t start until almost 20s in, then becomes quite fast with a very present singer, lots of sudden stops.  
 [Juan D’Arienzo - 1939 - Alberto Echague - Meta Fierro - YouTube](https://www.youtube.com/watch?v=rSk5Johb1Vg)
 
 ---
 
 ### Este Es El Rey (danceable: 2, enjoyable: 4)
-Strong rhythm remains clear even when strings come in, piano sections fun to follow. But: too virtuosic for all but the most expressive dancers to dance gracefully, tense and dramatic breaks (even moments of silence) can be challenging. Gustavo and Giselle dance an amazing dramatic and acrobatic choreography to this but it’s too much for almost any social dance floor.
+Strong rhythm remains clear even when strings come in, piano sections fun to follow. But: too virtuosic for all but the most expressive dancers to dance gracefully, tense and dramatic breaks (even moments of silence) can be challenging. Gustavo and Giselle dance an amazing dramatic and acrobatic choreography to this but it’s too much for almost any social dance floor.  
 [Juan D’Arienzo - Este Es El Rey - YouTube](https://www.youtube.com/watch?v=pjBIKeIPovo)
 
 ### Sueno Florida (danceable: 2, enjoyable: 3)
-Rhythm is present, phrasing clear, fine up until 0:26, but then pattern gets difficult to follow, which can unseat people who can’t follow it, breaking their confidence.
+Rhythm is present, phrasing clear, fine up until 0:26, but then pattern gets difficult to follow, which can unseat people who can’t follow it, breaking their confidence.  
 [Juan D’Arienzo - 1936 - Sueño Florido - YouTube](https://www.youtube.com/watch?v=94jl6DJRGXE)
 
 ### Don Pacifico (danceable: 2, enjoyable: 2)
-Rhythm generally easy to hear, but weird building patterns with pauses at the end can be difficult or annoying, emotionally a bit over the place to my ears (bounces between moody and dopey/happy).
+Rhythm generally easy to hear, but weird building patterns with pauses at the end can be difficult or annoying, emotionally a bit over the place to my ears (bounces between moody and dopey/happy).  
 [Juan D’Arienzo - 1939 - Don Pacifico - YouTube](https://www.youtube.com/watch?v=4HawjQZNTFU)
 
 ### Pura Trampa (danceable: 2, enjoyable: 1)
-I don’t think I know anyone who would rank this as highly pleasing to listen to. Pretty virtuosic, there’s often enough rhythm to move to, but then things fade out or suddenly stop leaving the dancers feeling like they missed the boat, then suddenly gets intense again. Difficult to follow with very little payoff for my taste.
+I don’t think I know anyone who would rank this as highly pleasing to listen to. Pretty virtuosic, there’s often enough rhythm to move to, but then things fade out or suddenly stop leaving the dancers feeling like they missed the boat, then suddenly gets intense again. Difficult to follow with very little payoff for my taste.  
 [Juan D’arienzo - 1964 - Pura trampa - YouTube](https://www.youtube.com/watch?v=TjJK1Bj7W8I)
 
 ---
@@ -95,13 +95,13 @@ I don’t think I know anyone who would rank this as highly pleasing to listen t
 Couldn’t find an example of something that I really enjoy, but which isn’t at all danceable… seems obvious these would be correlated for me.
 
 ### Mi Dolor (1973) (danceable: 1, enjoyable: 3)
-Clearly a singer-focused song…way too fore, huge contrast between punchy bando and long strength vocal notes, rhythm gets too distant at several points, huge range in level of drama.
+Clearly a singer-focused song…way too fore, huge contrast between punchy bando and long strength vocal notes, rhythm gets too distant at several points, huge range in level of drama.  
 [Mi dolor - Juan D’Arienzo - YouTube](https://www.youtube.com/watch?v=ZK5oTm8VZGQ)
 
 ### Baldosa Floja (danceable: 1, enjoyable: 2)
-Too virtuosic for most dancers, beat disappears often, weird jarring sounds throughout (drum hits, da-du-dum at 1:56), vocals not pleasing to my ears (too fore and the exchange is jarring).
+Too virtuosic for most dancers, beat disappears often, weird jarring sounds throughout (drum hits, da-du-dum at 1:56), vocals not pleasing to my ears (too fore and the exchange is jarring).  
 [Baldosa floja - Jorge Valdez y Mario Bustos con la Orquesta de Juan D’Arienzo - YouTube](https://www.youtube.com/watch?v=1CgxfygW6bo)
 
 ### Don Goyo (danceable: 1, enjoyable: 1)
-How do you even start dancing? Weird patterns? Suddenly slows down and there’s a piano solo… What emotion is trying to be conveyed here?
+How do you even start dancing? Weird patterns? Suddenly slows down and there’s a piano solo… What emotion is trying to be conveyed here?  
 [Juan D’arienzo - 1946 - Don Goyo - YouTube](https://www.youtube.com/watch?v=Cv538F6L_Zk)
