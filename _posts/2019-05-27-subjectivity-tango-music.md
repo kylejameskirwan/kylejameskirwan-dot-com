@@ -19,7 +19,7 @@ This seem less a spectrum and more a field filled by all the orchestras and thei
 # Objective danceability might be described by...
 
 **Intro…** how long do we stand there before naturally wanting to embrace and move?
-**Clarity of rhythm…** is it clearly present most or all of the time? No rhythm at all and get the wale sounds. Only rhythm and we have a solo metronome.  
+**Clarity of rhythm…** is it clearly present most or all of the time? No rhythm at all and get the whale sounds. Only rhythm and we have a solo metronome.  
 **Clarity of emotion…** we generally want to feel something, but not everything, in a single song.  
 **Jarring pauses or breaks…** the more there are in the song, the more you have to memorize in order to not fall on your ass.  
 **Lack of weird structural changes…** “A Pan y Agua” makes this clear.  
@@ -31,8 +31,8 @@ This seem less a spectrum and more a field filled by all the orchestras and thei
 **Category…** Tango, Milonga, Vals. Some like some, some like others, some like all. Hard to argue that there aren’t danceable songs in all categories.  
 **Mood…** angry, dramatic, sorrowful, silly, happy. Tango contains all of these and we might want one or the other depending on time of day, what’s happening in our lives, and other factors. Again, great songs in all of these categories.  
 **Speed…** as long as we’re in the acceptable range, it becomes a matter of how tired you are, how fast your partner can or wants to move, etc. and is often correlated with an emotion (sweet = slow, angry = fast).  
-**Complexity...** how many instruments are in the song, how different are the phrases, presence of accent sounds like single piano notes.
-**Instruments and vocals…** I like the oboe in some Canaro songs, you prefer the shrill scream of Di Sarli violins. Sometimes a guitar is nice, sometimes not. This seems clearly subjective to me. Different instruments are and are-not present across the whole range of danceable to un-danceable.  
+**Complexity...** how many instruments are in the song, how different are the phrases, presence of accent sounds like single piano notes.  
+**Instruments and vocals…** I like the oboe in some Canaro songs, you prefer the shrill scream of Di Sarli violins. Sometimes a guitar is nice, sometimes not. Different instruments are and are-not present across the whole range of danceable to un-danceable.  
 
 # An example
 Here some songs from just D'Arienzo (to keep it simple) to fill 14 of the 16 spots on a 4x4 grid: danceable 1-4, my taste 1-4 (the 2 extremes seem hard to find).
