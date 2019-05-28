@@ -23,7 +23,7 @@ This seem less a spectrum and more a field filled by all the orchestras and thei
 **Clarity of emotion…** we generally want to feel something, but not everything, in a single song.  
 **Jarring pauses or breaks…** the more there are in the song, the more you have to memorize in order to not fall on your ass.  
 **Lack of weird structural changes…** “A Pan y Agua” makes this clear.  
-**Speed…** too slow and we're exhausted from dragging out every moment...too fast and anyone struggles to keep up.
+**Speed…** too slow and we're exhausted from dragging out every moment...too fast and anyone struggles to keep up.  
 **Ending…** long fade-outs suck because we have to gradually diminish our movement. Too sharp and we either miss them and feel stupid, or have to crash into them too hard.  
 
 # Taste might be described by...
