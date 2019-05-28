@@ -6,35 +6,36 @@ categories: tango
 ---
 
 # A theory
-Whether you like a song or not is a matter of personal taste,  but whether that song works well for dancing is much less subjective.
+Whether I like a particular song depends on my personal taste. But whether that song works well for dancing, is something most dancers will agree on, and is closer to objective.
 
-When I say “objectively danceable”, I mean you could put together songs into a few buckets, have many dancers try to move to it, and *generally* get a similar reaction in terms of whether they felt like they could move successfully with their partner to the song. A song might be “un-danceable” if it leaves them feeling lost or unsure what movements to make, roller-coasters their emotions making them confused, feel jarring, or simply be too fast or complex for them to move with confidence.
+By “objectively danceable”, I mean you could put together songs into a few buckets, have many dancers try to move to it, and *generally* get a similar opinion afterward. A song might be “un-danceable” if it leaves them feeling lost or unsure what movements to make, roller-coasters their emotions making them confused, feel jarring, or simply be too fast or complex for them to move with confidence.
 
-At one end of the spectrum might be a popular D’Arienzo, played at marathons and festivals to thousands of dancers around the world every year. At the other extreme are recordings of whale sounds from the pacific, or a construction site. Bad tango and good dubstep are somewhere in between. :)
+At one end of the spectrum might be a popular D’Arienzo, played at marathons and festivals to thousands of dancers around the world every year. At the other extreme are recordings of whale sounds from the pacific, or a construction site. I expect most to agree easily on these extremes, and for things to be more contested in the center, as with many things.
 
-I’m now bored by the very simple and clear music I loved as a fresh beginner, who could only move to the most clear and unchanging patterns I found in electro-tango alternative music — but it will always be *danceable* music, even if I’m no longer excited by it. As for “taste”… even at the same marathon, I might prefer Tanturi/Campos on Friday night, and a Rodriguez Foxtrot in the afternoon.
+By "suits my taste", I mean whether or not I personally like the song. This might depend on how long I've been dancing, how I'm feeling right now, and who I'm dancing with. I expect this to change for many dancers over time (prefering intense rythmic for a few months or years, then later "discovering" some gooey relaxing tandas from another orchestra, then swinging back again).
 
-# Criteria
-Here are some aspects of music that, in my mind, help separate the non-danceable from the danceable:
+This seem less a spectrum and more a field filled by all the orchestras and their different time periods. I'd expect a great DJ to keep the danceability high at all times, but to explore the field of taste throughout the night, even if some of it isn't to my (or their) liking.
+
+# Objective danceability might be described by...
 
 **Intro…** how long do we stand there before naturally wanting to embrace and move?
 **Clarity of rhythm…** is it clearly present most or all of the time? No rhythm at all and get the wale sounds. Only rhythm and we have a solo metronome.  
 **Clarity of emotion…** we generally want to feel something, but not everything, in a single song.  
 **Jarring pauses or breaks…** the more there are in the song, the more you have to memorize in order to not fall on your ass.  
 **Lack of weird structural changes…** “A Pan y Agua” makes this clear.  
-**Speed…** just like walking on the sidewalk, we have natural range of movement speeds as humans. Too slow and we get exhausted from dragging out every moments. Too fast and we struggle to keep up with even the shortest and quickest steps.  
-**Ending…** long fade-outs suck for moving because we have to gradually diminish our movement. Too sharp and we either miss them and feel stupid, or have to crash into them too hard. A solid bando “thump” note, or a brief pause before a set of sweet piano increasing notes are reasonable bounds for most dancers.  
+**Speed…** too slow and we're exhausted from dragging out every moment...too fast and anyone struggles to keep up.
+**Ending…** long fade-outs suck because we have to gradually diminish our movement. Too sharp and we either miss them and feel stupid, or have to crash into them too hard.  
 
-Once we’ve cleared a song on the above criteria, now it’s a question of taste, which I might describe with some of the following:
+# Taste might be described by...
 
 **Category…** Tango, Milonga, Vals. Some like some, some like others, some like all. Hard to argue that there aren’t danceable songs in all categories.  
 **Mood…** angry, dramatic, sorrowful, silly, happy. Tango contains all of these and we might want one or the other depending on time of day, what’s happening in our lives, and other factors. Again, great songs in all of these categories.  
 **Speed…** as long as we’re in the acceptable range, it becomes a matter of how tired you are, how fast your partner can or wants to move, etc. and is often correlated with an emotion (sweet = slow, angry = fast).  
+**Complexity...** how many instruments are in the song, how different are the phrases, presence of accent sounds like single piano notes.
 **Instruments and vocals…** I like the oboe in some Canaro songs, you prefer the shrill scream of Di Sarli violins. Sometimes a guitar is nice, sometimes not. This seems clearly subjective to me. Different instruments are and are-not present across the whole range of danceable to un-danceable.  
 
-
 # An example
-Below I’ve found 14 songs by D'Arienzo, to fit spots on a 4x4 grid (danceable 1-4, enjoyable 1-4). The 2 songs belonging at the extremes (enjoyable but not danceable, and danceable but not enjoyable) don’t seem to exist in my collection. These are quick notes from a single listen or maybe two, and aren’t perfect. I think they give a general illustration of the differences between what makes something “danceable” or not, independently of whether I enjoy it personally.
+Here some songs from just D'Arienzo (to keep it simple) to fill 14 of the 16 spots on a 4x4 grid: danceable 1-4, my taste 1-4 (the 2 extremes seem hard to find).
 
 ---
 
