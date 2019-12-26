@@ -2,76 +2,230 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Kyle James Kirwan</title>
-		<link></link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Kyle's List: San Diego</title>
+        <description>&lt;p&gt;Another list of things I’d recommend to others (with a few extras from Amy that I haven’t been to myself). This one is overdue: I lived in San Diego from February to June this year and am only getting around to writing about it now.&lt;/p&gt;
+
+&lt;h3 id=&quot;fish&quot;&gt;Fish&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Musashi’s (UTC)&lt;/strong&gt; (shout out to Jackson, who made every meal feel like visiting family): changed our lives for five months. So so thankful this spot exists. An extension of Musashi’s Seattle with generous portions of delicious fish for very reasonable prices.&lt;br /&gt;
+&lt;strong&gt;El Pescador (La Jolla)&lt;/strong&gt;: delicious fishes served by people who look like they’d rather be surfing.&lt;br /&gt;
+&lt;strong&gt;Suhsi Ota&lt;/strong&gt;: very traditional atmosphere and food, well done.&lt;br /&gt;
+&lt;strong&gt;Himitsu&lt;/strong&gt;: non-traditional! Interesting preparations and a nice foil to Ota. Pricey. No tamago ☹️&lt;/p&gt;
+
+&lt;h3 id=&quot;coffee-and-tea&quot;&gt;Coffee and tea&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Bird Rock (La Jolla) (and downtown)&lt;/strong&gt;: A fantastic coffee roaster. Great place to sit and slow down.&lt;br /&gt;
+&lt;strong&gt;Philz (UTC)&lt;/strong&gt;: full of students studying. A Mint Mojito in the afternoon is a good thing. No espresso here.&lt;br /&gt;
+&lt;strong&gt;Copa Vida (Wesley what up!)&lt;/strong&gt;: quieter than Philz, but still mostly students studying.&lt;br /&gt;
+&lt;strong&gt;Caffe Calabria (North Park)&lt;/strong&gt;: Amy went here all the time with Avi for coffee. Pizza good too!&lt;br /&gt;
+&lt;strong&gt;Cafe Bassam (Balboa Park)&lt;/strong&gt;: old world feel&lt;/p&gt;
+
+&lt;h3 id=&quot;breweries&quot;&gt;Breweries&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Stone&lt;/strong&gt;: the Disneyland of beer. Seminal location for the craft beer industry.&lt;br /&gt;
+&lt;strong&gt;Ballast Point&lt;/strong&gt;: home of Sculpin, one of my favorite IPAs (as well as some notably delicious stouts).&lt;br /&gt;
+&lt;strong&gt;Border X Brewing (Barrio Logan)&lt;/strong&gt;: nice brews but come for the fantastic tacos in the back. Enjoyed this on an art night when the street was crowded.&lt;br /&gt;
+&lt;strong&gt;Modern Times&lt;/strong&gt;: bustling brewery on weekends with solid beer.&lt;/p&gt;
+
+&lt;h3 id=&quot;bars&quot;&gt;Bars&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Tiger Tiger! (North Park)&lt;/strong&gt;: Slightly grungy. Home of the famous Man Hour. Get a beer and a brat (and Raj’s phone number).&lt;br /&gt;
+&lt;strong&gt;False Idol (this is Amy’s suggestion. I never got to go! 😤)&lt;/strong&gt;: because any tiki bar with any relation to Martin Cate is a must-do in my book.&lt;br /&gt;
+&lt;strong&gt;Panama 66 (Balboa Park)&lt;/strong&gt;: Outdoor seating, beer and cocktails. There was live jazz just within earshot. Perfect.&lt;br /&gt;
+&lt;strong&gt;Prohibition&lt;/strong&gt;: speakeasy style bar. Because it’s in the bar/club district, the clientele can be uncivilized (only speakeasy I’ve been to where I overheard someone &lt;em&gt;try&lt;/em&gt; to order an appletini), but can be worth a visit.&lt;/p&gt;
+
+&lt;h3 id=&quot;tacos-ceveche-and-the-like&quot;&gt;Tacos, Ceveche, and the like&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Taco Stand (several locations)&lt;/strong&gt;: amazing quality given that it’s a local chain. Loved by locals.&lt;br /&gt;
+&lt;strong&gt;Karina’s ceviche&lt;/strong&gt;: I was so sad we discovered this late in the game…only got to go once. Gelato around the corner!&lt;/p&gt;
+
+&lt;h3 id=&quot;convoy-because-it-is-its-own-section&quot;&gt;Convoy (because it is its own section)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Koon Thai&lt;/strong&gt;: Amy went with Tess for noodle soups. I got to come along once…&lt;br /&gt;
+&lt;strong&gt;Boiling Passion&lt;/strong&gt;: Hot pot, on a stick! We got “regular” and I am ashamed to say, it was in fact too spicy.&lt;br /&gt;
+&lt;strong&gt;Little Sheep hot pot&lt;/strong&gt;: Simple chain restaurant but good.&lt;br /&gt;
+&lt;strong&gt;Raki Raki Ramen&lt;/strong&gt;: Ok but not as memorable as you might think from the reviews. Oxtail soup was good.&lt;br /&gt;
+&lt;strong&gt;Cauldron Ice cream&lt;/strong&gt;: Fun, gimmicky ice cream (liquid nitrogen).&lt;br /&gt;
+&lt;strong&gt;Shan Xi Magic Kitchen&lt;/strong&gt;: Noods and dumps!&lt;br /&gt;
+&lt;strong&gt;Manna Korean BBQ&lt;/strong&gt;: If you’re coming with Turkish people, be ready: it’s a competitive sport and they play to win.&lt;/p&gt;
+
+&lt;h3 id=&quot;other&quot;&gt;Other&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Regent’s Pizza (UTC)&lt;/strong&gt;: Excellent beer selection, delicious pizza, often busy.&lt;br /&gt;
+&lt;strong&gt;International Market (UTC)&lt;/strong&gt;: the most charming old man works the grill. Kebabs, salads, and Persian groceries.&lt;br /&gt;
+&lt;strong&gt;Red Sea Ethiopian&lt;/strong&gt;: Hole in the wall with slow service and inconsistent food. But charming and delicious! Amy, Avi, and   Rie’s regular spot when I was out of town. Recommend sticking to the vegetarian items.&lt;br /&gt;
+&lt;strong&gt;Phil’s BBQ&lt;/strong&gt;: Brett (our resident BBQ professor) insists this is the best thing ever. Delicious ribs, family friendly.&lt;/p&gt;
+</description>
+				<pubDate>Wed, 25 Dec 2019 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/2019/12/25/kyles-list-san-diego.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/12/25/kyles-list-san-diego.html</guid>
+			</item>
+		
+			<item>
+				<title>Subjectivity and taste in tango music</title>
+        <description>&lt;h1 id=&quot;a-theory&quot;&gt;A theory&lt;/h1&gt;
+&lt;p&gt;Whether I like a particular song depends on my personal taste. But whether that song works well for dancing, is something most dancers will agree on, and is closer to objective.&lt;/p&gt;
+
+&lt;p&gt;By “objectively danceable”, I mean you could put together songs into a few buckets, have many dancers try to move to it, and &lt;em&gt;generally&lt;/em&gt; get a similar opinion afterward. A song might be “un-danceable” if it leaves them feeling lost or unsure what movements to make, roller-coasters their emotions making them confused, feel jarring, or simply be too fast or complex for them to move with confidence.&lt;/p&gt;
+
+&lt;p&gt;At one end of the spectrum might be a popular D’Arienzo, played at marathons and festivals to thousands of dancers around the world every year. At the other extreme are recordings of whale sounds from the pacific, or a construction site. I expect most to agree easily on these extremes, and for things to be more contested in the center, as with many things.&lt;/p&gt;
+
+&lt;p&gt;By “suits my taste”, I mean whether or not I personally like the song. This might depend on how long I’ve been dancing, how I’m feeling right now, and who I’m dancing with. I expect this to change for many dancers over time (prefering intense rythmic for a few months or years, then later “discovering” some gooey relaxing tandas from another orchestra, then swinging back again).&lt;/p&gt;
+
+&lt;p&gt;This seem less a spectrum and more a field filled by all the orchestras and their different time periods. I’d expect a great DJ to keep the danceability high at all times, but to explore the field of taste throughout the night, even if some of it isn’t to my (or their) liking.&lt;/p&gt;
+
+&lt;h1 id=&quot;objective-danceability-might-be-described-by&quot;&gt;Objective danceability might be described by…&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Intro…&lt;/strong&gt; how long do we stand there before naturally wanting to embrace and move?
+&lt;strong&gt;Clarity of rhythm…&lt;/strong&gt; is it clearly present most or all of the time? No rhythm at all and get the whale sounds. Only rhythm and we have a solo metronome.&lt;br /&gt;
+&lt;strong&gt;Clarity of emotion…&lt;/strong&gt; we generally want to feel something, but not everything, in a single song.&lt;br /&gt;
+&lt;strong&gt;Jarring pauses or breaks…&lt;/strong&gt; the more there are in the song, the more you have to memorize in order to not fall on your ass.&lt;br /&gt;
+&lt;strong&gt;Lack of weird structural changes…&lt;/strong&gt; “A Pan y Agua” makes this clear.&lt;br /&gt;
+&lt;strong&gt;Speed…&lt;/strong&gt; too slow and we’re exhausted from dragging out every moment…too fast and anyone struggles to keep up.&lt;br /&gt;
+&lt;strong&gt;Ending…&lt;/strong&gt; long fade-outs suck because we have to gradually diminish our movement. Too sharp and we either miss them and feel stupid, or have to crash into them too hard.&lt;/p&gt;
+
+&lt;h1 id=&quot;taste-might-be-described-by&quot;&gt;Taste might be described by…&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Category…&lt;/strong&gt; Tango, Milonga, Vals. Some like some, some like others, some like all. Hard to argue that there aren’t danceable songs in all categories.&lt;br /&gt;
+&lt;strong&gt;Mood…&lt;/strong&gt; angry, dramatic, sorrowful, silly, happy. Tango contains all of these and we might want one or the other depending on time of day, what’s happening in our lives, and other factors. Again, great songs in all of these categories.&lt;br /&gt;
+&lt;strong&gt;Speed…&lt;/strong&gt; as long as we’re in the acceptable range, it becomes a matter of how tired you are, how fast your partner can or wants to move, etc. and is often correlated with an emotion (sweet = slow, angry = fast).&lt;br /&gt;
+&lt;strong&gt;Complexity…&lt;/strong&gt; how many instruments are in the song, how different are the phrases, presence of accent sounds like single piano notes.&lt;br /&gt;
+&lt;strong&gt;Instruments and vocals…&lt;/strong&gt; I like the oboe in some Canaro songs, you prefer the shrill scream of Di Sarli violins. Sometimes a guitar is nice, sometimes not. Different instruments are and are-not present across the whole range of danceable to un-danceable.&lt;/p&gt;
+
+&lt;h1 id=&quot;an-example&quot;&gt;An example&lt;/h1&gt;
+&lt;p&gt;Here some songs from just D’Arienzo (to keep it simple) to fill 14 of the 16 spots on a 4x4 grid: danceable 1-4, my taste 1-4 (the 2 extremes seem hard to find).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;pensalo-bien-danceable-4-enjoyable-4&quot;&gt;Pensalo Bien (danceable: 4, enjoyable: 4)&lt;/h3&gt;
+&lt;p&gt;Rhythm/structure is clear and appears quickly, nice drive, energetic but not too fast for majority of dancers, can often dance on 2 or even 3 layers (beat, strings, vocals), builds in intensity but not abruptly, nothing weird happens, clean/simple ending.&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=8PntJlcscGU&quot;&gt;Juan D’Arienzo - 1938 - Pensalo bien - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;la-morocha-danceable-4-enjoyable-3&quot;&gt;La Morocha (danceable: 4, enjoyable: 3)&lt;/h3&gt;
+&lt;p&gt;Rhythm is clear and appears quickly, some nice decorative piano things, slightly plodding, generally a solid song. But: generally not incredibly exciting for advanced dancers, has some phrases that could be slightly jarring, has an almost-false ending 60% into the song, and a weird piano build-up at the end.&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=ekqQg8x1ezQ&quot;&gt;Juan D’Arienzo - La Morocha - Tango - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;re-fa-si-danceable-4-enjoyable-2&quot;&gt;Re Fa Si (danceable: 4, enjoyable: 2)&lt;/h3&gt;
+&lt;p&gt;Clear rhythm and structure is easy to follow. Generally kinda plodding, has weird dragging strings, weird phrase starts around 1:10, song doesn’t seem to know what emption it wants from the dancers so they leave feeling confused…&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=vBsq3KL7pfA&quot;&gt;Juan D’Arienzo - 1935 - Re Fa Si - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-danceable-4-enjoyable-1&quot;&gt;??? (danceable: 4, enjoyable: 1)&lt;/h3&gt;
+&lt;p&gt;Couldn’t find an example here. If it isn’t danceable at all then I’m not sure I could also find something enjoyable.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;milonga-del-83-danceable-3-enjoyable-4&quot;&gt;Milonga del 83 (danceable: 3, enjoyable: 4)&lt;/h3&gt;
+&lt;p&gt;Strong rhythm, great driving energy, but too fast for many dancers, lots of weird breaks and modifications to the phrases (tons of fun if you know where they are but really break your flow if you don’t).&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=-3BT13532fY&quot;&gt;Juan D’Arienzo - 1940 - Alberto Reynal - Milonga del 83 - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-una-mujer-danceable-3-enjoyable-3&quot;&gt;A Una Mujer (danceable: 3, enjoyable: 3)&lt;/h3&gt;
+&lt;p&gt;Might be too fast for some to dance comfortably, has some breaks, beat hides under the vocals sometimes.&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=X_LBODPtzw0&quot;&gt;A UNA MUJER  - JUAN D’ARIENZO REYNAL - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;rodriguez-pena-danceable-3-enjoyable-2&quot;&gt;Rodriguez Pena (danceable: 3, enjoyable: 2)&lt;/h3&gt;
+&lt;p&gt;TODO: Add a description.
+&lt;a href=&quot;https://www.youtube.com/watch?v=s9t4F79d0sM&quot;&gt;Juan D’Arienzo - 1938 - Rodriguez Peña - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;meta-fiero-danceable-3-enjoyable-1&quot;&gt;Meta Fiero (danceable: 3, enjoyable: 1)&lt;/h3&gt;
+&lt;p&gt;Really long weird intro, dancing doesn’t start until almost 20s in, then becomes quite fast with a very present singer, lots of sudden stops.&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=rSk5Johb1Vg&quot;&gt;Juan D’Arienzo - 1939 - Alberto Echague - Meta Fierro - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;este-es-el-rey-danceable-2-enjoyable-4&quot;&gt;Este Es El Rey (danceable: 2, enjoyable: 4)&lt;/h3&gt;
+&lt;p&gt;Strong rhythm remains clear even when strings come in, piano sections fun to follow. But: too virtuosic for all but the most expressive dancers to dance gracefully, tense and dramatic breaks (even moments of silence) can be challenging. Gustavo and Giselle dance an amazing dramatic and acrobatic choreography to this but it’s too much for almost any social dance floor.&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=pjBIKeIPovo&quot;&gt;Juan D’Arienzo - Este Es El Rey - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sueno-florida-danceable-2-enjoyable-3&quot;&gt;Sueno Florida (danceable: 2, enjoyable: 3)&lt;/h3&gt;
+&lt;p&gt;Rhythm is present, phrasing clear, fine up until 0:26, but then pattern gets difficult to follow, which can unseat people who can’t follow it, breaking their confidence.&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=94jl6DJRGXE&quot;&gt;Juan D’Arienzo - 1936 - Sueño Florido - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;don-pacifico-danceable-2-enjoyable-2&quot;&gt;Don Pacifico (danceable: 2, enjoyable: 2)&lt;/h3&gt;
+&lt;p&gt;Rhythm generally easy to hear, but weird building patterns with pauses at the end can be difficult or annoying, emotionally a bit over the place to my ears (bounces between moody and dopey/happy).&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=4HawjQZNTFU&quot;&gt;Juan D’Arienzo - 1939 - Don Pacifico - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;pura-trampa-danceable-2-enjoyable-1&quot;&gt;Pura Trampa (danceable: 2, enjoyable: 1)&lt;/h3&gt;
+&lt;p&gt;I don’t think I know anyone who would rank this as highly pleasing to listen to. Pretty virtuosic, there’s often enough rhythm to move to, but then things fade out or suddenly stop leaving the dancers feeling like they missed the boat, then suddenly gets intense again. Difficult to follow with very little payoff for my taste.&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=TjJK1Bj7W8I&quot;&gt;Juan D’arienzo - 1964 - Pura trampa - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;-danceable-1-enjoyable-4&quot;&gt;??? (danceable: 1, enjoyable: 4)&lt;/h3&gt;
+&lt;p&gt;Couldn’t find an example of something that I really enjoy, but which isn’t at all danceable… seems obvious these would be correlated for me.&lt;/p&gt;
+
+&lt;h3 id=&quot;mi-dolor-1973-danceable-1-enjoyable-3&quot;&gt;Mi Dolor (1973) (danceable: 1, enjoyable: 3)&lt;/h3&gt;
+&lt;p&gt;Clearly a singer-focused song…way too fore, huge contrast between punchy bando and long strength vocal notes, rhythm gets too distant at several points, huge range in level of drama.&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=ZK5oTm8VZGQ&quot;&gt;Mi dolor - Juan D’Arienzo - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;baldosa-floja-danceable-1-enjoyable-2&quot;&gt;Baldosa Floja (danceable: 1, enjoyable: 2)&lt;/h3&gt;
+&lt;p&gt;Too virtuosic for most dancers, beat disappears often, weird jarring sounds throughout (drum hits, da-du-dum at 1:56), vocals not pleasing to my ears (too fore and the exchange is jarring).&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=1CgxfygW6bo&quot;&gt;Baldosa floja - Jorge Valdez y Mario Bustos con la Orquesta de Juan D’Arienzo - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;don-goyo-danceable-1-enjoyable-1&quot;&gt;Don Goyo (danceable: 1, enjoyable: 1)&lt;/h3&gt;
+&lt;p&gt;How do you even start dancing? Weird patterns? Suddenly slows down and there’s a piano solo… What emotion is trying to be conveyed here?&lt;br /&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Cv538F6L_Zk&quot;&gt;Juan D’arienzo - 1946 - Don Goyo - YouTube&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 27 May 2019 03:00:00 -0700</pubDate>
+				<link>http://localhost:4000/2019/05/27/subjectivity-tango-music.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/05/27/subjectivity-tango-music.html</guid>
+			</item>
 		
 			<item>
 				<title>My Seattle shortlist</title>
         <description>&lt;p&gt;A list of nice things I discovered in my one year living in Seattle.&lt;/p&gt;
 
-&lt;h3&gt;Coffee/tea&lt;/h3&gt;
-
-&lt;p&gt;KEXP (just down the hill) is wonderful&lt;br/&gt;
-Vivace in Capital Hill, great espresso, old-school feel&lt;br/&gt;
-Stumptown in southern Capital Hill&lt;br/&gt;
-Miro in Ballard for great tea&lt;br/&gt;
-Milstead &amp;amp; Co. in Fremont, new-school feel&lt;br/&gt;
-Storyville…read  about “Mars Hill Church” before going (or not going)&lt;br/&gt;
+&lt;h3 id=&quot;coffeetea&quot;&gt;Coffee/tea&lt;/h3&gt;
+&lt;p&gt;KEXP (just down the hill) is wonderful&lt;br /&gt;
+Vivace in Capital Hill, great espresso, old-school feel&lt;br /&gt;
+Stumptown in southern Capital Hill&lt;br /&gt;
+Miro in Ballard for great tea&lt;br /&gt;
+Milstead &amp;amp; Co. in Fremont, new-school feel&lt;br /&gt;
+Storyville…read  about “Mars Hill Church” before going (or not going)&lt;br /&gt;
 Starbucks Reserve Tasting Room in Capital Hill is unique&lt;/p&gt;
 
-&lt;h3&gt;Bars&lt;/h3&gt;
-
-&lt;p&gt;Canon, over the top in presentation but so well done
-Zigzag, Seattle classic (bartender moved to Canon)
-Rob Roy,  great spot while waiting for seat at Shiro’s
+&lt;h3 id=&quot;bars&quot;&gt;Bars&lt;/h3&gt;
+&lt;p&gt;Canon, over the top in presentation but so well done 
+Zigzag, Seattle classic (bartender moved to Canon) 
+Rob Roy,  great spot while waiting for seat at Shiro’s 
 Navy Strength, solid Tiki&lt;/p&gt;
 
-&lt;h3&gt;Pizza&lt;/h3&gt;
-
-&lt;p&gt;Masonry (just down the hill) has great pizza and greater beer&lt;br/&gt;
-Patxi’s in Ballard for deep dish from SF&lt;br/&gt;
+&lt;h3 id=&quot;pizza&quot;&gt;Pizza&lt;/h3&gt;
+&lt;p&gt;Masonry (just down the hill) has great pizza and greater beer&lt;br /&gt;
+Patxi’s in Ballard for deep dish from SF&lt;br /&gt;
 Sizzle Pie in Capital Hill&lt;/p&gt;
 
-&lt;h3&gt;Ramen&lt;/h3&gt;
-
-&lt;p&gt;Danbo in Capital Hill&lt;br/&gt;
+&lt;h3 id=&quot;ramen&quot;&gt;Ramen&lt;/h3&gt;
+&lt;p&gt;Danbo in Capital Hill&lt;br /&gt;
 Arashi in Ballard&lt;/p&gt;
 
-&lt;h3&gt;Tacos&lt;/h3&gt;
-
-&lt;p&gt;Chukis in Capital Hill (superior to SLU location)&lt;br/&gt;
+&lt;h3 id=&quot;tacos&quot;&gt;Tacos&lt;/h3&gt;
+&lt;p&gt;Chukis in Capital Hill (superior to SLU location)&lt;br /&gt;
 Neon Taco in Capital Hill&lt;/p&gt;
 
-&lt;h3&gt;Sushi&lt;/h3&gt;
-
-&lt;p&gt;Musashi’s in Wallingford, cheap, good&lt;br/&gt;
-Shiro’s in Belltown, pricey but nice omakase&lt;br/&gt;
-Kashiba in Belltown, very-pricey but very-nice omakase&lt;br/&gt;
+&lt;h3 id=&quot;sushi&quot;&gt;Sushi&lt;/h3&gt;
+&lt;p&gt;Musashi’s in Wallingford, cheap, good&lt;br /&gt;
+Shiro’s in Belltown, pricey but nice omakase&lt;br /&gt;
+Kashiba in Belltown, very-pricey but very-nice omakase&lt;br /&gt;
 Menaki  in ID/Chinatown (not sushi) great family-run Japanese, cheap!&lt;/p&gt;
 
-&lt;h3&gt;Farmers markets&lt;/h3&gt;
-
-&lt;p&gt;Queen Anne Thursdays (June-Oct only)&lt;br/&gt;
-U-District on Saturdays&lt;br/&gt;
+&lt;h3 id=&quot;farmers-markets&quot;&gt;Farmers markets&lt;/h3&gt;
+&lt;p&gt;Queen Anne Thursdays (June-Oct only)&lt;br /&gt;
+U-District on Saturdays&lt;br /&gt;
 Ballard on Sundays&lt;/p&gt;
 
-&lt;h3&gt;Misc&lt;/h3&gt;
-
-&lt;p&gt;Kerry Park, famous view, 2 blocks away &lt;br/&gt;
-SIFF Cinema (down the hill) is fun&lt;br/&gt;
-Panda Lab (down the hill) for developing film&lt;br/&gt;
-Volunteer Park in Capital Hill has a Noguchi sculpture (which inspired a Soundgarden song)&lt;br/&gt;
-Elliott Bay Book Co. in Capital Hill&lt;br/&gt;
-Cafe Presse in Capital Hill&lt;br/&gt;
-Uneeda Burger in Fremont&lt;br/&gt;
-No Bones Beach Club, vegetarian, fun, beach/tiki themed&lt;br/&gt;
-Shake Shack is downtown (Dick’s is…not good)&lt;br/&gt;
-Jade Garden in ID/Chinatown for dim sum&lt;br/&gt;
+&lt;h3 id=&quot;misc&quot;&gt;Misc&lt;/h3&gt;
+&lt;p&gt;Kerry Park, famous view, 2 blocks away &lt;br /&gt;
+SIFF Cinema (down the hill) is fun&lt;br /&gt;
+Panda Lab (down the hill) for developing film&lt;br /&gt;
+Volunteer Park in Capital Hill has a Noguchi sculpture (which inspired a Soundgarden song)&lt;br /&gt;
+Elliott Bay Book Co. in Capital Hill&lt;br /&gt;
+Cafe Presse in Capital Hill&lt;br /&gt;
+Uneeda Burger in Fremont&lt;br /&gt;
+No Bones Beach Club, vegetarian, fun, beach/tiki themed&lt;br /&gt;
+Shake Shack is downtown (Dick’s is…not good)&lt;br /&gt;
+Jade Garden in ID/Chinatown for dim sum&lt;br /&gt;
 Tune Hi-fi in Belltown, nice people, care about audio&lt;/p&gt;
 </description>
 				<pubDate>Mon, 14 Jan 2019 00:00:00 -0800</pubDate>
-				<link>/2019/01/14/seattle-shortlist.html</link>
-				<guid isPermaLink="true">/2019/01/14/seattle-shortlist.html</guid>
+				<link>http://localhost:4000/2019/01/14/seattle-shortlist.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2019/01/14/seattle-shortlist.html</guid>
 			</item>
 		
 			<item>
@@ -82,90 +236,77 @@ Tune Hi-fi in Belltown, nice people, care about audio&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2&gt;TL;DR&lt;/h2&gt;
-
+&lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;When talking to a customer (ever): shut up and listen to them&lt;/li&gt;
-&lt;li&gt;Founders do sales, ideally it's 1 person's full time job&lt;/li&gt;
-&lt;li&gt;Expect to hear &quot;no&quot; a lot, prepare for a 2.5% conversion rate&lt;/li&gt;
-&lt;li&gt;Use your network for your first few sales&lt;/li&gt;
-&lt;li&gt;Go to conferences, use them as a sales channel&lt;/li&gt;
-&lt;li&gt;Follow up religiously, can take months to close a deal&lt;/li&gt;
-&lt;li&gt;Watch out for 3 hangups when closing the deal&lt;/li&gt;
-&lt;li&gt;Your sales model and pricing model are intertwined&lt;/li&gt;
+  &lt;li&gt;When talking to a customer (ever): shut up and listen to them&lt;/li&gt;
+  &lt;li&gt;Founders do sales, ideally it’s 1 person’s full time job&lt;/li&gt;
+  &lt;li&gt;Expect to hear “no” a lot, prepare for a 2.5% conversion rate&lt;/li&gt;
+  &lt;li&gt;Use your network for your first few sales&lt;/li&gt;
+  &lt;li&gt;Go to conferences, use them as a sales channel&lt;/li&gt;
+  &lt;li&gt;Follow up religiously, can take months to close a deal&lt;/li&gt;
+  &lt;li&gt;Watch out for 3 hangups when closing the deal&lt;/li&gt;
+  &lt;li&gt;Your sales model and pricing model are intertwined&lt;/li&gt;
 &lt;/ol&gt;
-
 
 &lt;hr /&gt;
 
-&lt;h2&gt;Who does sales&lt;/h2&gt;
-
+&lt;h2 id=&quot;who-does-sales&quot;&gt;Who does sales&lt;/h2&gt;
 &lt;p&gt;You do! The Don Draper imagery is bullshit…you can sell, you need to learn.&lt;/p&gt;
 
 &lt;p&gt;Clever had 3 cofounders and decided that 1 person had to own sales every day. The other two spent all their time building the product. He started selling before the product was actually built.&lt;/p&gt;
 
 &lt;p&gt;It should be as much of a full-time job as you can make it.&lt;/p&gt;
 
-&lt;h3&gt;As a founder you should always be doing 1 of 2 things:&lt;/h3&gt;
-
+&lt;h3 id=&quot;as-a-founder-you-should-always-be-doing-1-of-2-things&quot;&gt;As a founder you should always be doing 1 of 2 things:&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;building the product&lt;/li&gt;
-&lt;li&gt;talking to users&lt;/li&gt;
+  &lt;li&gt;building the product&lt;/li&gt;
+  &lt;li&gt;talking to users&lt;/li&gt;
 &lt;/ol&gt;
 
-
-&lt;h3&gt;Understanding your users is core to sales.&lt;/h3&gt;
-
+&lt;h3 id=&quot;understanding-your-users-is-core-to-sales&quot;&gt;Understanding your users is core to sales.&lt;/h3&gt;
 &lt;p&gt;You must understand your users in order to sell to them. Your goal is to learn and solve their problems.&lt;/p&gt;
 
-&lt;h3&gt;As a founder you have unique advantages for sales.&lt;/h3&gt;
-
+&lt;h3 id=&quot;as-a-founder-you-have-unique-advantages-for-sales&quot;&gt;As a founder you have unique advantages for sales.&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Passion for the product and business, more than anyone else.&lt;/li&gt;
-&lt;li&gt;Industry expertise, you know this problem in and out.&lt;/li&gt;
+  &lt;li&gt;Passion for the product and business, more than anyone else.&lt;/li&gt;
+  &lt;li&gt;Industry expertise, you know this problem in and out.&lt;/li&gt;
 &lt;/ul&gt;
 
-
 &lt;hr /&gt;
 
-&lt;h2&gt;The funnel&lt;/h2&gt;
-
+&lt;h2 id=&quot;the-funnel&quot;&gt;The funnel&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Prospecting: finding leads, who is interested&lt;/li&gt;
-&lt;li&gt;Conversations: is this right for them or not&lt;/li&gt;
-&lt;li&gt;Closing: completing the actual transaction&lt;/li&gt;
-&lt;li&gt;Promised land: revenue comes in&lt;/li&gt;
+  &lt;li&gt;Prospecting: finding leads, who is interested&lt;/li&gt;
+  &lt;li&gt;Conversations: is this right for them or not&lt;/li&gt;
+  &lt;li&gt;Closing: completing the actual transaction&lt;/li&gt;
+  &lt;li&gt;Promised land: revenue comes in&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;part-1-prospecting&quot;&gt;Part 1: Prospecting&lt;/h2&gt;
+
+&lt;p&gt;You’ll hear no a lot, this is ok. Here’s why:&lt;/p&gt;
+
+&lt;p&gt;The technology adoption curve describes 5 stages: innovators, early adopt, majority, late, and laggards. The innovators segment is estimated to be only 2.5% of the “population” you’re selling to. This means you need to find 100 companies to get 2-3 sales. Expect that you’ll need to grind hard to get those early sales, you can’t get by with 2-4 contacts, you’ll need 100s.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2&gt;Part 1: Prospecting&lt;/h2&gt;
+&lt;h2 id=&quot;part-2-conversations&quot;&gt;Part 2: Conversations&lt;/h2&gt;
 
-&lt;p&gt;You’ll hear no a lot, this is ok. Here's why:&lt;/p&gt;
+&lt;h3 id=&quot;use-your-network&quot;&gt;Use your network&lt;/h3&gt;
+&lt;p&gt;Founder’s personal networks are almost always the earliest deals, these are the best and the easiest.&lt;/p&gt;
 
-&lt;p&gt;The technology adoption curve describes 5 stages: innovators, early adopt, majority, late, and laggards. The innovators segment is estimated to be only 2.5% of the &quot;population&quot; you're selling to. This means you need to find 100 companies to get 2-3 sales. Expect that you'll need to grind hard to get those early sales, you can't get by with 2-4 contacts, you'll need 100s.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2&gt;Part 2: Conversations&lt;/h2&gt;
-
-&lt;h3&gt;Use your network&lt;/h3&gt;
-
-&lt;p&gt;Founder's personal networks are almost always the earliest deals, these are the best and the easiest.&lt;/p&gt;
-
-&lt;h3&gt;Go to conferences&lt;/h3&gt;
-
+&lt;h3 id=&quot;go-to-conferences&quot;&gt;Go to conferences&lt;/h3&gt;
 &lt;p&gt;Small ones not the big ones. These are usually only a few days in a hotel meeting room.&lt;/p&gt;
 
 &lt;p&gt;You have to go where your users are, and your users may be going to meet their peers at these. Ask your customers what conferences they go to and pick a few to attend.&lt;/p&gt;
 
-&lt;p&gt;These can be a few $k each ticket, so...&lt;/p&gt;
+&lt;p&gt;These can be a few $k each ticket, so…&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Get the list of attendees and know who’s gonna be there&lt;/strong&gt;, write to organizer if necessary, don’t just show up. Email these people in advance, ask if they’ll have time to chat. Do this with as many people as possible. Aim for entire day booked in 30 minute increments.&lt;/p&gt;
 
-&lt;h3&gt;Cold emails&lt;/h3&gt;
-
+&lt;h3 id=&quot;cold-emails&quot;&gt;Cold emails&lt;/h3&gt;
 &lt;p&gt;These are the highest volume method, but many people don’t know how to do it well.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Bad&lt;/strong&gt; Long, not personalized, not actionable, boring, irrelevant.&lt;/p&gt;
@@ -174,8 +315,7 @@ Tune Hi-fi in Belltown, nice people, care about audio&lt;/p&gt;
 
 &lt;p&gt;Format: this might be relevant to you because of some personalized reasons, even if you’re not looking I’d love to talk to you about it, if you have time this week or next please let me know.&lt;/p&gt;
 
-&lt;h3&gt;You’re on the phone&lt;/h3&gt;
-
+&lt;h3 id=&quot;youre-on-the-phone&quot;&gt;You’re on the phone&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;SHUT UP AND LISTEN!&lt;/strong&gt; They should be doing 70% of the talking (this is the most important thing ever).&lt;/p&gt;
 
 &lt;p&gt;Sales is about listening. The battering ram approach does not work. Build a relationship and understand their problems, find out how you can help them.&lt;/p&gt;
@@ -184,77 +324,69 @@ Tune Hi-fi in Belltown, nice people, care about audio&lt;/p&gt;
 
 &lt;p&gt;Uber-conference: a tool to see how much time you each spent talking during the call.&lt;/p&gt;
 
-&lt;h3&gt;Actual steps from a real deal at Clever&lt;/h3&gt;
-
+&lt;h3 id=&quot;actual-steps-from-a-real-deal-at-clever&quot;&gt;Actual steps from a real deal at Clever&lt;/h3&gt;
 &lt;p&gt;This took 2 months, and landed a $100k/yr customer.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Introduced&lt;/li&gt;
-&lt;li&gt;Met in person&lt;/li&gt;
-&lt;li&gt;Email (no response)&lt;/li&gt;
-&lt;li&gt;Email (no response)&lt;/li&gt;
-&lt;li&gt;Email&lt;/li&gt;
-&lt;li&gt;Schedule a call&lt;/li&gt;
-&lt;li&gt;Have a call&lt;/li&gt;
-&lt;li&gt;Flow 2&lt;/li&gt;
-&lt;li&gt;Email (no response), email (no response), email&lt;/li&gt;
-&lt;li&gt;Schedule next call&lt;/li&gt;
-&lt;li&gt;Pricing call #1&lt;/li&gt;
-&lt;li&gt;Pricing call #2&lt;/li&gt;
-&lt;li&gt;Sent a quote&lt;/li&gt;
-&lt;li&gt;Answer questions via email&lt;/li&gt;
-&lt;li&gt;Send contract&lt;/li&gt;
-&lt;li&gt;Send references&lt;/li&gt;
-&lt;li&gt;Send financials&lt;/li&gt;
-&lt;li&gt;Email (no response)&lt;/li&gt;
-&lt;li&gt;Redlines #1&lt;/li&gt;
-&lt;li&gt;Email nudge&lt;/li&gt;
-&lt;li&gt;Redline #2&lt;/li&gt;
-&lt;li&gt;Redline #3&lt;/li&gt;
-&lt;li&gt;Redline #4&lt;/li&gt;
-&lt;li&gt;Call with CEO&lt;/li&gt;
-&lt;li&gt;Redline #5&lt;/li&gt;
-&lt;li&gt;Done&lt;/li&gt;
+  &lt;li&gt;Introduced&lt;/li&gt;
+  &lt;li&gt;Met in person&lt;/li&gt;
+  &lt;li&gt;Email (no response)&lt;/li&gt;
+  &lt;li&gt;Email (no response)&lt;/li&gt;
+  &lt;li&gt;Email&lt;/li&gt;
+  &lt;li&gt;Schedule a call&lt;/li&gt;
+  &lt;li&gt;Have a call&lt;/li&gt;
+  &lt;li&gt;Flow 2&lt;/li&gt;
+  &lt;li&gt;Email (no response), email (no response), email&lt;/li&gt;
+  &lt;li&gt;Schedule next call&lt;/li&gt;
+  &lt;li&gt;Pricing call #1&lt;/li&gt;
+  &lt;li&gt;Pricing call #2&lt;/li&gt;
+  &lt;li&gt;Sent a quote&lt;/li&gt;
+  &lt;li&gt;Answer questions via email&lt;/li&gt;
+  &lt;li&gt;Send contract&lt;/li&gt;
+  &lt;li&gt;Send references&lt;/li&gt;
+  &lt;li&gt;Send financials&lt;/li&gt;
+  &lt;li&gt;Email (no response)&lt;/li&gt;
+  &lt;li&gt;Redlines #1&lt;/li&gt;
+  &lt;li&gt;Email nudge&lt;/li&gt;
+  &lt;li&gt;Redline #2&lt;/li&gt;
+  &lt;li&gt;Redline #3&lt;/li&gt;
+  &lt;li&gt;Redline #4&lt;/li&gt;
+  &lt;li&gt;Call with CEO&lt;/li&gt;
+  &lt;li&gt;Redline #5&lt;/li&gt;
+  &lt;li&gt;Done&lt;/li&gt;
 &lt;/ol&gt;
-
 
 &lt;p&gt;It’s not over until they actually say “no”
 Being persistent isn’t rude, they’re busy&lt;/p&gt;
 
-&lt;h3&gt;Getting a “no”&lt;/h3&gt;
-
+&lt;h3 id=&quot;getting-a-no&quot;&gt;Getting a “no”&lt;/h3&gt;
 &lt;p&gt;A quick no is a blessing in disguise
 Worst thing is dragging it out and wasting time&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2&gt;Part 3: Closing (enterprise)&lt;/h2&gt;
-
-&lt;p&gt;They said they wanna buy, great.&lt;br/&gt;
+&lt;h2 id=&quot;part-3-closing-enterprise&quot;&gt;Part 3: Closing (enterprise)&lt;/h2&gt;
+&lt;p&gt;They said they wanna buy, great.&lt;br /&gt;
 Many deals get messed up here though.&lt;/p&gt;
 
-&lt;h3&gt;3 things to watch out for:&lt;/h3&gt;
-
+&lt;h3 id=&quot;3-things-to-watch-out-for&quot;&gt;3 things to watch out for:&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;Redlining: They will want to change the agreement, redlining. Be ready to send the agreement immediately. Don’t fight over dumb shit, get it done: early customers are mana from heaven, don’t quibble, they will want some weird random shit.&lt;/li&gt;
-&lt;li&gt;Avoid one-more-feature closing trap, unless it’s customer 1 or 2, this is most often a pass (there is usually actually more than 1 more thing). Can offer that we will build if we hear multiple customers need it, sometimes they will still take this.&lt;/li&gt;
-&lt;li&gt;Free trials. You need commitment, validation, and revenue. Free trials are the opposite of this. We spent a lot of time building the product and doing the sale, cannot afford to give it for free. But we know there is risk and we understand. We only do annual agreements but if you cancel in the first 30 days, we’ll let you go. This creates a default-yes situation.&lt;/li&gt;
+  &lt;li&gt;Redlining: They will want to change the agreement, redlining. Be ready to send the agreement immediately. Don’t fight over dumb shit, get it done: early customers are mana from heaven, don’t quibble, they will want some weird random shit.&lt;/li&gt;
+  &lt;li&gt;Avoid one-more-feature closing trap, unless it’s customer 1 or 2, this is most often a pass (there is usually actually more than 1 more thing). Can offer that we will build if we hear multiple customers need it, sometimes they will still take this.&lt;/li&gt;
+  &lt;li&gt;Free trials. You need commitment, validation, and revenue. Free trials are the opposite of this. We spent a lot of time building the product and doing the sale, cannot afford to give it for free. But we know there is risk and we understand. We only do annual agreements but if you cancel in the first 30 days, we’ll let you go. This creates a default-yes situation.&lt;/li&gt;
 &lt;/ol&gt;
-
 
 &lt;hr /&gt;
 
-&lt;h2&gt;Sales method is intertwined with your pricing model&lt;/h2&gt;
+&lt;h2 id=&quot;sales-method-is-intertwined-with-your-pricing-model&quot;&gt;Sales method is intertwined with your pricing model&lt;/h2&gt;
 
-&lt;h3&gt;Five ways to get to $1M in sales&lt;/h3&gt;
-
+&lt;h3 id=&quot;five-ways-to-get-to-1m-in-sales&quot;&gt;Five ways to get to $1M in sales&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;$1,000,000 customer, only need 1!&lt;/li&gt;
-&lt;li&gt;$100,000 customers, only need  10!&lt;/li&gt;
-&lt;li&gt;$10,000 customers, only need 100!&lt;/li&gt;
-&lt;li&gt;$1,000 customers, need 1000.&lt;/li&gt;
+  &lt;li&gt;$1,000,000 customer, only need 1!&lt;/li&gt;
+  &lt;li&gt;$100,000 customers, only need  10!&lt;/li&gt;
+  &lt;li&gt;$10,000 customers, only need 100!&lt;/li&gt;
+  &lt;li&gt;$1,000 customers, need 1000.&lt;/li&gt;
 &lt;/ol&gt;
-
 
 &lt;p&gt;Is your sales pipeline appropriate relative to your pricing?
 If 1-2 then great, high-touch sales makes sense
@@ -262,88 +394,78 @@ If 3-4 then need to find more standard, low friction, maybe self-serve&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2&gt;Q&amp;amp;A&lt;/h2&gt;
-
-&lt;h3&gt;What’s the right time between email follow ups?&lt;/h3&gt;
-
+&lt;h2 id=&quot;qa&quot;&gt;Q&amp;amp;A&lt;/h2&gt;
+&lt;h3 id=&quot;whats-the-right-time-between-email-follow-ups&quot;&gt;What’s the right time between email follow ups?&lt;/h3&gt;
 &lt;p&gt;A little under a week, 5-6-7 days later is polite and not over-eager&lt;/p&gt;
 
-&lt;h3&gt;When do you feel like you’re pestering?&lt;/h3&gt;
-
+&lt;h3 id=&quot;when-do-you-feel-like-youre-pestering&quot;&gt;When do you feel like you’re pestering?&lt;/h3&gt;
 &lt;p&gt;I like to think, if they haven’t said no, you’re right to follow up
 If you’ve followed up 8 times…take the hint
 But assume the best and that they’re busy, you’re not the top priority
-Keep the emails thoughtful and personalized &amp;lt;&amp;lt;&amp;lt;— important&lt;/p&gt;
+Keep the emails thoughtful and personalized «&amp;lt;— important&lt;/p&gt;
 
-&lt;h3&gt;When you’re getting early no’s, how to tell product-market-fit issue?&lt;/h3&gt;
-
+&lt;h3 id=&quot;when-youre-getting-early-nos-how-to-tell-product-market-fit-issue&quot;&gt;When you’re getting early no’s, how to tell product-market-fit issue?&lt;/h3&gt;
 &lt;p&gt;You don’t discover it from the no’s, only from jesses. Too many reasons you could be getting a no. The states reason is often not honest, so ignore this, they’re being polite. Your signal is if you can’t get any yesses ever.&lt;/p&gt;
 
-&lt;h3&gt;When prospecting, better for big names or easier closes?&lt;/h3&gt;
-
+&lt;h3 id=&quot;when-prospecting-better-for-big-names-or-easier-closes&quot;&gt;When prospecting, better for big names or easier closes?&lt;/h3&gt;
 &lt;p&gt;YC gives advice of breadth-first search. Optimize for speed, a customer is better than nothing. Talk to the big ones though, might be surprised. Who needs it the most, they’ll be fastest. In early days don’t need big logos, just need validation.&lt;/p&gt;
 
-&lt;h3&gt;How did you learn your pricing?&lt;/h3&gt;
-
+&lt;h3 id=&quot;how-did-you-learn-your-pricing&quot;&gt;How did you learn your pricing?&lt;/h3&gt;
 &lt;p&gt;We guessed…but we got feedback quickly from the market. Most startup founders go too low. Pick a number, try to close a sale, try doubling it next time! Why was the first sale $100k? We picked a number…“THIS IS THE RIGHT PRICE! NO OTHER PRICE WOULD BE FAIR!”…but be willing to quickly iterate&lt;/p&gt;
 
-&lt;h3&gt;How do you bootstrap sales with $50/mo?&lt;/h3&gt;
-
+&lt;h3 id=&quot;how-do-you-bootstrap-sales-with-50mo&quot;&gt;How do you bootstrap sales with $50/mo?&lt;/h3&gt;
 &lt;p&gt;You basically shouldn’t do any of these things. You need marketing, not sales. Email campaigns, self-service signup, etc. OR: raise the price where sales makes sense&lt;/p&gt;
 
-&lt;h3&gt;What if there aren’t enough case studies to show off?&lt;/h3&gt;
-
-&lt;p&gt;Many founders think they never have enough to convince people. We didn't have them early on, it's fine, just sell.&lt;/p&gt;
+&lt;h3 id=&quot;what-if-there-arent-enough-case-studies-to-show-off&quot;&gt;What if there aren’t enough case studies to show off?&lt;/h3&gt;
+&lt;p&gt;Many founders think they never have enough to convince people. We didn’t have them early on, it’s fine, just sell.&lt;/p&gt;
 </description>
 				<pubDate>Thu, 20 Dec 2018 00:00:00 -0800</pubDate>
-				<link>/2018/12/20/howtosell.html</link>
-				<guid isPermaLink="true">/2018/12/20/howtosell.html</guid>
+				<link>http://localhost:4000/2018/12/20/howtosell.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/12/20/howtosell.html</guid>
 			</item>
 		
 			<item>
 				<title>What does it take to be a PM?</title>
-        <description>&lt;h1&gt;The question&lt;/h1&gt;
-
+        <description>&lt;h1 id=&quot;the-question&quot;&gt;The question&lt;/h1&gt;
 &lt;p&gt;The following question has been posed to me several times over the last few years:&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;p&gt;How did you get started as a PM and how can I do it too?&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;How did you get started as a PM and how can I do it too?&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Quite a few of the people doing the asking have turned PM themselves, and some are probably better at it now than I am! I'd like to think my advice here helped someone get from 0 to 1 (if imperfectly) so I'm encouraged to put it out there for others to find, in case there are truly some nuggets of wisdom in here.&lt;/p&gt;
+&lt;p&gt;Quite a few of the people doing the asking have turned PM themselves, and some are probably better at it now than I am! I’d like to think my advice here helped someone get from 0 to 1 (if imperfectly) so I’m encouraged to put it out there for others to find, in case there are truly some nuggets of wisdom in here.&lt;/p&gt;
 
 &lt;p&gt;Cheers!&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt; Article breakdown&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;** Article breakdown**&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;How did you start as a PM?&lt;/li&gt;
-&lt;li&gt;How do I show the skills, talents, and desire to be a successful PM?&lt;/li&gt;
-&lt;li&gt;Recommended reading&lt;/li&gt;
+  &lt;li&gt;How did you start as a PM?&lt;/li&gt;
+  &lt;li&gt;How do I show the skills, talents, and desire to be a successful PM?&lt;/li&gt;
+  &lt;li&gt;Recommended reading&lt;/li&gt;
 &lt;/ol&gt;
 
-
-&lt;h1&gt;1. How did you start as pm?&lt;/h1&gt;
-
-&lt;p&gt;While working as a data scientist on Uber's Growth team, I wound up running the company's first AB tests. Fast forward a bit (many more tests and a lot of self-directed learning about experimentation theory and practice), I was offered the &quot;subject matter expert&quot; role on the newly formed team tasked with building the internal AB testing platform.&lt;/p&gt;
+&lt;h1 id=&quot;1-how-did-you-start-as-pm&quot;&gt;1. How did you start as pm?&lt;/h1&gt;
+&lt;p&gt;While working as a data scientist on Uber’s Growth team, I wound up running the company’s first AB tests. Fast forward a bit (many more tests and a lot of self-directed learning about experimentation theory and practice), I was offered the “subject matter expert” role on the newly formed team tasked with building the internal AB testing platform.&lt;/p&gt;
 
 &lt;p&gt;The PM and I wound up working famously well together: I knew the audience and what they needed from the product, and he knew how to take a team from 0 to cranking out a high quality and well-loved product. Two years later, our products had been adopted by hundreds of teams across the business to run thousands of concurrent experiments.&lt;/p&gt;
 
 &lt;p&gt;Here comes the sauce.&lt;/p&gt;
 
-&lt;p&gt;I moved to a new team but in a similar role: they had a PM and I was to be the data science expert. The new PM was juggling several projects at once and was stretched, presenting some opportunities to pick up work he wasn't able to do. I jumped on these opportunities, applying my best imitations of techniques I watched my former PM use to get my old team started.&lt;/p&gt;
+&lt;p&gt;I moved to a new team but in a similar role: they had a PM and I was to be the data science expert. The new PM was juggling several projects at once and was stretched, presenting some opportunities to pick up work he wasn’t able to do. I jumped on these opportunities, applying my best imitations of techniques I watched my former PM use to get my old team started.&lt;/p&gt;
 
-&lt;p&gt;Not long after, our new PM decided to move off our project to focus on some of his other demands. I was offered to step into the gap by our team's product director. Within a month I got offered to help out with a second team that wanted some product thinking to improve the coherency of the tools they were building. I tried replicating these techniques there as well.&lt;/p&gt;
+&lt;p&gt;Not long after, our new PM decided to move off our project to focus on some of his other demands. I was offered to step into the gap by our team’s product director. Within a month I got offered to help out with a second team that wanted some product thinking to improve the coherency of the tools they were building. I tried replicating these techniques there as well.&lt;/p&gt;
 
 &lt;p&gt;Six months and some product and feature launches later, I presented my accomplishments in a round of internal interviews with senior product folks from around the company. Succeeding those interviews gave me the official title, though it was the six months of experiences that made me truly feel like a product manager (of course, with a lot to learn).&lt;/p&gt;
 
-&lt;h1&gt;2. How do I show the skills, talents, and desire to be a successful PM?&lt;/h1&gt;
+&lt;h1 id=&quot;2-how-do-i-show-the-skills-talents-and-desire-to-be-a-successful-pm&quot;&gt;2. How do I show the skills, talents, and desire to be a successful PM?&lt;/h1&gt;
 
-&lt;p&gt;First we'll go through 4 categories of skills, then talk talent and desire, then summarize how to think through interview prep.&lt;/p&gt;
+&lt;p&gt;First we’ll go through 4 categories of skills, then talk talent and desire, then summarize how to think through interview prep.&lt;/p&gt;
 
-&lt;h2&gt;Skill 1: Product strategy&lt;/h2&gt;
-
+&lt;h2 id=&quot;skill-1-product-strategy&quot;&gt;Skill 1: Product strategy&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;This is the highest level thinking about the team’s raison d’etre and how they will succeed in 3 months, 1 year, 5 years.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;What is the fundamental problem needing to be solved? Mess this up and you're wasting the company's money.&lt;/p&gt;
+&lt;p&gt;What is the fundamental problem needing to be solved? Mess this up and you’re wasting the company’s money.&lt;/p&gt;
 
 &lt;p&gt;Building a picture of the customer(s). What are their needs, their goals, their limits, and their strengths?&lt;/p&gt;
 
@@ -361,8 +483,7 @@ Keep the emails thoughtful and personalized &amp;lt;&amp;lt;&amp;lt;— importan
 
 &lt;p&gt;How to tell the story of your product: why does it deserve to exist, what matters in the next (or first) version and what can you save for later, what is the long term / magic-wand vision you’re ultimately aiming for? How will you make this simple enough, and sexy enough, to get people to understand your vision and feel excited about it?&lt;/p&gt;
 
-&lt;h2&gt;Skill 2: Product design&lt;/h2&gt;
-
+&lt;h2 id=&quot;skill-2-product-design&quot;&gt;Skill 2: Product design&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;This is solution thinking part 1, what should the solution do, look like, and feel like.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;How to work with user researchers to clarify user needs and broad categories of solutions&lt;/p&gt;
@@ -373,11 +494,10 @@ Keep the emails thoughtful and personalized &amp;lt;&amp;lt;&amp;lt;— importan
 
 &lt;p&gt;How to approach mobile vs. desktop vs. hardware vs. sales-materials/copy&lt;/p&gt;
 
-&lt;h2&gt;Skill 3: Technical knowledge&lt;/h2&gt;
-
+&lt;h2 id=&quot;skill-3-technical-knowledge&quot;&gt;Skill 3: Technical knowledge&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;This is solution thinking part 2, how will we build the designed solution feasibly.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Software architecture: how are your team's engineers proposing to build this product? What are the components and how do they work together?&lt;/p&gt;
+&lt;p&gt;Software architecture: how are your team’s engineers proposing to build this product? What are the components and how do they work together?&lt;/p&gt;
 
 &lt;p&gt;How to work with the engineering manager to align the needs of the product with the strengths and desires of the engineers?&lt;/p&gt;
 
@@ -387,8 +507,7 @@ Keep the emails thoughtful and personalized &amp;lt;&amp;lt;&amp;lt;— importan
 
 &lt;p&gt;Staying on top of new technologies so your product strategy reflects what’s possible today and will be possible soon.&lt;/p&gt;
 
-&lt;h2&gt;Skill 4: Empathy and people management&lt;/h2&gt;
-
+&lt;h2 id=&quot;skill-4-empathy-and-people-management&quot;&gt;Skill 4: Empathy and people management&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Constantly and vitally important, these are the skills for making (all of) the various humans involved in your organization do what needs to get done for your vision to succeed.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;How to manage your own team keeping productivity and morale high, celebrating successes and recovering from failures?&lt;/p&gt;
@@ -397,37 +516,33 @@ Keep the emails thoughtful and personalized &amp;lt;&amp;lt;&amp;lt;— importan
 
 &lt;p&gt;How to manage upwards interacting with your boss and other leaders to show successes and get resources for your team, get their support to prevent future problems with other teams?&lt;/p&gt;
 
-&lt;h2&gt;You superpowers and your defense-zones&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Where do you excel, where do you invest, and what's on hold?&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;you-superpowers-and-your-defense-zones&quot;&gt;You superpowers and your defense-zones&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Where do you excel, where do you invest, and what’s on hold?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Do a really critical self evaluation to understand which of these 4 skill areas is currently your “superpower” that makes you a special PM that kicks ass at a particular scenario.&lt;/p&gt;
 
 &lt;p&gt;You also need to know which areas are your defense-zones. Which areas do you want to strengthen, and which other areas will (consciously!) remain weak while you invest your time in strengthening them? Why are those the right investments for you to be making, based on what you want to do with your career (e.g. someone who wants to make the next iPhone may care more about product design, someone who wants to build the next Stripe may care more about strategy and technical, etc.)?&lt;/p&gt;
 
-&lt;h2&gt;Talent&lt;/h2&gt;
-
-&lt;p&gt;I believe &quot;talent&quot; really just means &quot;a skill I've stumbled into practicing without realizing it&quot;, but this is my closest answer for what &quot;talent&quot; a PM should have.&lt;/p&gt;
+&lt;h2 id=&quot;talent&quot;&gt;Talent&lt;/h2&gt;
+&lt;p&gt;I believe “talent” really just means “a skill I’ve stumbled into practicing without realizing it”, but this is my closest answer for what “talent” a PM should have.&lt;/p&gt;
 
 &lt;p&gt;One of the unique strengths of a PM (stronger in a PM vs. any other role) is ability to take a vague question and distill it into a story that can both clarify AND inspire. A vague question like “tell me about your favorite product” might turn into: who is the audience for this product, what are their needs, where is the product strong, where does it need improvement, what are it’s major competitors or analogues?&lt;/p&gt;
 
 &lt;p&gt;Be prepared to break things down and create structure where there is none.&lt;/p&gt;
 
-&lt;h2&gt;Desire&lt;/h2&gt;
-
+&lt;h2 id=&quot;desire&quot;&gt;Desire&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Even if you’re not the best PM yet, convince me that someday you will be, and that I want you on my team.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;What’s a story you can tell about a situation where doing “PM” work really made you happy and energized? What motivates you and makes PM the right path for you vs. data science vs. design vs. engineering vs. …? (I’m bored of engineering is not a great answer to this, there are a thousand other things you could do that aren’t engineering…why this one?) What projects or research or other outputs have to done that actually showcase this desire?&lt;/p&gt;
 
-&lt;h2&gt;How to prepare&lt;/h2&gt;
-
+&lt;h2 id=&quot;how-to-prepare&quot;&gt;How to prepare&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;To succeed in interviews you will need to have thought through, and excel at explaining how you embody the above concepts, clearly and concisely, to an interviewer.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Make a list of the questions you’re likely to face. Set a target amount of time you have to answer each question (2 minutes? 3?) and hone your answers (not word for word, but know the crux of your responses).&lt;/p&gt;
 
-&lt;p&gt;After feeling comfortable with your answers, actually sit down and say it to someone. For the best feedback, video your &quot;interview&quot; with that persion...your weaknesses will immediately become visible and you can work on them. You talk too fast, you jumble things and the story is hard to follow, you go blank and can’t answer, etc.&lt;/p&gt;
+&lt;p&gt;After feeling comfortable with your answers, actually sit down and say it to someone. For the best feedback, video your “interview” with that persion…your weaknesses will immediately become visible and you can work on them. You talk too fast, you jumble things and the story is hard to follow, you go blank and can’t answer, etc.&lt;/p&gt;
 
-&lt;h1&gt;3. Recommended readings&lt;/h1&gt;
+&lt;h1 id=&quot;3-recommended-readings&quot;&gt;3. Recommended readings&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;The 7 Habits of Highly Effective People&lt;/strong&gt; seems hokey but has some real wisdom in it. You are ultimately responsible for your own successes and failures. Only you can kick your own ass into getting things going the way you want.&lt;/p&gt;
 
@@ -435,388 +550,352 @@ Keep the emails thoughtful and personalized &amp;lt;&amp;lt;&amp;lt;— importan
 
 &lt;p&gt;&lt;strong&gt;Cracking the PM Interview&lt;/strong&gt; is quick cheat sheet for prepping for interviews, common questions asked.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Innovators Dilemma&lt;/strong&gt; shows how businesses do or don't succeed when it comes to evolving their strategies and products. This will inform your perspective of where you add value to a bigger organization.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Innovators Dilemma&lt;/strong&gt; shows how businesses do or don’t succeed when it comes to evolving their strategies and products. This will inform your perspective of where you add value to a bigger organization.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Radical Focus&lt;/strong&gt; is about setting good goals, which &lt;em&gt;is&lt;/em&gt; important and &lt;em&gt;is&lt;/em&gt; difficult to do well.&lt;/p&gt;
 
-&lt;h1&gt;Next up!&lt;/h1&gt;
+&lt;h1 id=&quot;next-up&quot;&gt;Next up!&lt;/h1&gt;
 
 &lt;p&gt;This is a stream of thought while sitting in a Philz in La Jolla. To fill in the gaps and refine this further, I plan to contact some strong PMs I know and hear how they think about this question, and maybe even get their review of my answer.&lt;/p&gt;
 </description>
 				<pubDate>Fri, 16 Nov 2018 07:00:00 -0800</pubDate>
-				<link>/2018/11/16/pm_skills.html</link>
-				<guid isPermaLink="true">/2018/11/16/pm_skills.html</guid>
+				<link>http://localhost:4000/2018/11/16/pm_skills.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/11/16/pm_skills.html</guid>
 			</item>
 		
 			<item>
 				<title>Notes: Music for Tango DJ's Seminar</title>
         <description>&lt;p&gt;This is a dump of the notes I took during a DJ seminar given by a well respected west coast DJ several years ago. I hope to come back and clean them up, but here they are as they were written.&lt;/p&gt;
 
-&lt;h1&gt;Class One - Musical Quality&lt;/h1&gt;
+&lt;h1 id=&quot;class-one---musical-quality&quot;&gt;Class One - Musical Quality&lt;/h1&gt;
 
-&lt;h3&gt;Positioning of the beat Emphasis&lt;/h3&gt;
-
-&lt;p&gt;End (like the bando) vs beginning (piano)
-Emphasis of the beat can be used to build families of tango sounds
+&lt;h3 id=&quot;positioning-of-the-beat-emphasis&quot;&gt;Positioning of the beat Emphasis&lt;/h3&gt;
+&lt;p&gt;End (like the bando) vs beginning (piano) 
+Emphasis of the beat can be used to build families of tango sounds 
 x = energy, y = rythm&lt;/p&gt;
 
 &lt;p&gt;Street band&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Centered emphasis&lt;/li&gt;
-&lt;li&gt;Loose, sweet feeling&lt;/li&gt;
-&lt;li&gt;Canaro, Victor, Lomuto&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;El Adios (Canaro) for example&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Centered emphasis&lt;/li&gt;
+  &lt;li&gt;Loose, sweet feeling&lt;/li&gt;
+  &lt;li&gt;Canaro, Victor, Lomuto&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;El Adios (Canaro) for example&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Driving&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Forward emphasis&lt;/li&gt;
-&lt;li&gt;Feels pushy, tight, angry&lt;/li&gt;
-&lt;li&gt;DArienzo, Biagi, some Troilo&lt;/li&gt;
+  &lt;li&gt;Forward emphasis&lt;/li&gt;
+  &lt;li&gt;Feels pushy, tight, angry&lt;/li&gt;
+  &lt;li&gt;DArienzo, Biagi, some Troilo&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Refined&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Rear emphasis&lt;/li&gt;
-&lt;li&gt;Feels laggy, elegant, and melancholy&lt;/li&gt;
-&lt;li&gt;DAgostino, Di Sarli, Fresedo&lt;/li&gt;
+  &lt;li&gt;Rear emphasis&lt;/li&gt;
+  &lt;li&gt;Feels laggy, elegant, and melancholy&lt;/li&gt;
+  &lt;li&gt;DAgostino, Di Sarli, Fresedo&lt;/li&gt;
 &lt;/ul&gt;
-
 
 &lt;p&gt;Exploratory&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Extremely late emphasis&lt;/li&gt;
-&lt;li&gt;Stretchy, virutosic, angsty&lt;/li&gt;
-&lt;li&gt;De Caro, Pugliese, some Laurenz&lt;/li&gt;
+  &lt;li&gt;Extremely late emphasis&lt;/li&gt;
+  &lt;li&gt;Stretchy, virutosic, angsty&lt;/li&gt;
+  &lt;li&gt;De Caro, Pugliese, some Laurenz&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h4&gt;The Backbone&lt;/h4&gt;
-
-&lt;p&gt;Calo: Refined&lt;br/&gt;
-DiSarli: Centered&lt;br/&gt;
-Troilo: Driving, Exploratory&lt;br/&gt;
-Pugliese: Exploratoy&lt;br/&gt;
-DArienzo: Driving&lt;br/&gt;
+&lt;h4 id=&quot;the-backbone&quot;&gt;The Backbone&lt;/h4&gt;
+&lt;p&gt;Calo: Refined&lt;br /&gt;
+DiSarli: Centered&lt;br /&gt;
+Troilo: Driving, Exploratory&lt;br /&gt;
+Pugliese: Exploratoy&lt;br /&gt;
+DArienzo: Driving&lt;br /&gt;
 Canaro: Street Band&lt;/p&gt;
 
-&lt;h4&gt;Side Players&lt;/h4&gt;
-
-&lt;p&gt;DAgostino&lt;br/&gt;
-De caro&lt;br/&gt;
-Biagi&lt;br/&gt;
-Rodriguez&lt;br/&gt;
-Lomuto&lt;br/&gt;
-Fresedo&lt;br/&gt;
-DAngelis: hard to place, sometimes multiple styles even in same song&lt;br/&gt;
+&lt;h4 id=&quot;side-players&quot;&gt;Side Players&lt;/h4&gt;
+&lt;p&gt;DAgostino&lt;br /&gt;
+De caro&lt;br /&gt;
+Biagi&lt;br /&gt;
+Rodriguez&lt;br /&gt;
+Lomuto&lt;br /&gt;
+Fresedo&lt;br /&gt;
+DAngelis: hard to place, sometimes multiple styles even in same song&lt;br /&gt;
 Demare: Refined, Exploratory&lt;/p&gt;
 
-&lt;h3&gt;Equipment&lt;/h3&gt;
-
-&lt;h4&gt;Speaker positioning&lt;/h4&gt;
-
-&lt;p&gt;Speakers should be above head height &lt;br/&gt;
-Should be along the long end of the floor so sound is distributed&lt;br/&gt;
+&lt;h3 id=&quot;equipment&quot;&gt;Equipment&lt;/h3&gt;
+&lt;h4 id=&quot;speaker-positioning&quot;&gt;Speaker positioning&lt;/h4&gt;
+&lt;p&gt;Speakers should be above head height &lt;br /&gt;
+Should be along the long end of the floor so sound is distributed&lt;br /&gt;
 Pointed slightly in&lt;/p&gt;
 
-&lt;h4&gt;Mixer&lt;/h4&gt;
-
-&lt;p&gt;Keep your sound levels all below 75% (source? Research this)&lt;br/&gt;
+&lt;h4 id=&quot;mixer&quot;&gt;Mixer&lt;/h4&gt;
+&lt;p&gt;Keep your sound levels all below 75% (source? Research this)&lt;br /&gt;
 Make sure bass isn’t turned up&lt;/p&gt;
 
-&lt;h4&gt;Volume&lt;/h4&gt;
-
-&lt;p&gt;Check volume on floor frequently&lt;br/&gt;
-Before you start, check for loud or quiet areas&lt;br/&gt;
+&lt;h4 id=&quot;volume&quot;&gt;Volume&lt;/h4&gt;
+&lt;p&gt;Check volume on floor frequently&lt;br /&gt;
+Before you start, check for loud or quiet areas&lt;br /&gt;
 Watch number of dancers, sound will be muffled if there are a lot of dancers&lt;/p&gt;
 
-&lt;h4&gt;Equalizer&lt;/h4&gt;
-
-&lt;p&gt;Many of the pops and scratches on are on the higher frequencies&lt;br/&gt;
+&lt;h4 id=&quot;equalizer&quot;&gt;Equalizer&lt;/h4&gt;
+&lt;p&gt;Many of the pops and scratches on are on the higher frequencies&lt;br /&gt;
 Most of the song data is in the midranges&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1&gt;Class Two - Music and Space&lt;/h1&gt;
+&lt;h1 id=&quot;class-two---music-and-space&quot;&gt;Class Two - Music and Space&lt;/h1&gt;
 
-&lt;h3&gt;Last week's topics&lt;/h3&gt;
-
+&lt;h3 id=&quot;last-weeks-topics&quot;&gt;Last week’s topics&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;where the emphasis lies on the beat&lt;/li&gt;
-&lt;li&gt;mapping the orchestras&lt;/li&gt;
-&lt;li&gt;talked about emotional content linked to type of sound&lt;/li&gt;
-&lt;li&gt;key instruments
-
-&lt;ul&gt;
-&lt;li&gt;streetband - bass, low tones of violins, focus on keeping the beat&lt;/li&gt;
-&lt;li&gt;exploratory - bando&lt;/li&gt;
-&lt;li&gt;refined - piano&lt;/li&gt;
-&lt;li&gt;driving - bando(?)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+  &lt;li&gt;where the emphasis lies on the beat&lt;/li&gt;
+  &lt;li&gt;mapping the orchestras&lt;/li&gt;
+  &lt;li&gt;talked about emotional content linked to type of sound&lt;/li&gt;
+  &lt;li&gt;key instruments
+    &lt;ul&gt;
+      &lt;li&gt;streetband - bass, low tones of violins, focus on keeping the beat&lt;/li&gt;
+      &lt;li&gt;exploratory - bando&lt;/li&gt;
+      &lt;li&gt;refined - piano&lt;/li&gt;
+      &lt;li&gt;driving - bando(?)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h3&gt;How to put these classifiers to work&lt;/h3&gt;
+&lt;h3 id=&quot;how-to-put-these-classifiers-to-work&quot;&gt;How to put these classifiers to work&lt;/h3&gt;
 
 &lt;p&gt;Group songs with a similar sound so dancers know what they can expect.
 Dancers can pair based on what emotion they want to express given the theme of the tanda.&lt;/p&gt;
 
-&lt;h3&gt;The Role of the DJ&lt;/h3&gt;
+&lt;h3 id=&quot;the-role-of-the-dj&quot;&gt;The Role of the DJ&lt;/h3&gt;
 
-&lt;p&gt;To help the dancers express the music.&lt;br/&gt;
-To have them leave the floor feeling confident.&lt;br/&gt;
-Keeping a balance so that everyone has something to dance to.&lt;br/&gt;
-Sequencing the songs in a way that flows and feels sensible.&lt;br/&gt;
-To bring them through key musical areas so they feel the entire range of &quot;the milonga experience&quot;. &lt;br/&gt;
+&lt;p&gt;To help the dancers express the music.&lt;br /&gt;
+To have them leave the floor feeling confident.&lt;br /&gt;
+Keeping a balance so that everyone has something to dance to.&lt;br /&gt;
+Sequencing the songs in a way that flows and feels sensible.&lt;br /&gt;
+To bring them through key musical areas so they feel the entire range of “the milonga experience”. &lt;br /&gt;
 To keep the early dancers happy even while warming up the dancers who arrive later.&lt;/p&gt;
 
-&lt;h3&gt;Thinking about the tanda&lt;/h3&gt;
+&lt;h3 id=&quot;thinking-about-the-tanda&quot;&gt;Thinking about the tanda&lt;/h3&gt;
 
-&lt;p&gt;A song is the atomic unit.&lt;br/&gt;
-A tanda is the molecule.&lt;br/&gt;
-Each atom has a specific feeling to contribute to the molecule.&lt;br/&gt;
-The tanda should elicit a specific feeling which grows and progresses from song 1 to 4.&lt;br/&gt;
+&lt;p&gt;A song is the atomic unit.&lt;br /&gt;
+A tanda is the molecule.&lt;br /&gt;
+Each atom has a specific feeling to contribute to the molecule.&lt;br /&gt;
+The tanda should elicit a specific feeling which grows and progresses from song 1 to 4.&lt;br /&gt;
 Each tanda needs to fit the flow of the night, blending smoothly from the previous one and into the next.&lt;/p&gt;
 
-&lt;h3&gt;Tanda Skeleton&lt;/h3&gt;
+&lt;h3 id=&quot;tanda-skeleton&quot;&gt;Tanda Skeleton&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Song 1&lt;/strong&gt;&lt;br/&gt;
-Very familiar / well known&lt;br/&gt;
-Draws dancers to the floor&lt;br/&gt;
-&lt;em&gt;El Cencerro&lt;/em&gt;&lt;br/&gt;
-&lt;em&gt;Pensalo Bien&lt;/em&gt;&lt;br/&gt;
-&lt;em&gt;Tristeza Marina&lt;/em&gt;&lt;br/&gt;
-&lt;em&gt;Vamos&lt;/em&gt;&lt;br/&gt;
-&lt;em&gt;Araca La Cana&lt;/em&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Song 1&lt;/strong&gt;&lt;br /&gt;
+Very familiar / well known&lt;br /&gt;
+Draws dancers to the floor&lt;br /&gt;
+&lt;em&gt;El Cencerro&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Pensalo Bien&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Tristeza Marina&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Vamos&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Araca La Cana&lt;/em&gt;&lt;br /&gt;
 &lt;em&gt;Adios Buenos Aires&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Song 2&lt;/strong&gt;&lt;br/&gt;
-Well known, almost on par with song 1&lt;br/&gt;
-Danceable but not appropriate for beginning or ending&lt;br/&gt;
-&lt;em&gt;Gorriones&lt;/em&gt;&lt;br/&gt;
-&lt;em&gt;Caero Al As&lt;/em&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Song 2&lt;/strong&gt;&lt;br /&gt;
+Well known, almost on par with song 1&lt;br /&gt;
+Danceable but not appropriate for beginning or ending&lt;br /&gt;
+&lt;em&gt;Gorriones&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Caero Al As&lt;/em&gt;&lt;br /&gt;
 &lt;em&gt;Sencillo y Compadre&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Song 3&lt;/strong&gt;&lt;br/&gt;
-Less familiar, good place to experiment (slightly)&lt;br/&gt;
-Continues or revises direction&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Song 3&lt;/strong&gt;&lt;br /&gt;
+Less familiar, good place to experiment (slightly)&lt;br /&gt;
+Continues or revises direction&lt;br /&gt;
 Higher energy than song 2&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Song 4&lt;/strong&gt;&lt;br/&gt;
-Also very familiar
-Highest energy&lt;br/&gt;
-Has a strong ending, can feature a varacion or a nice vocal&lt;br/&gt;
-Makes them feel confidence and lets them express their emotion  &lt;br/&gt;
-&lt;em&gt;El Recodo (might be a good opener, but too powerful, nothing could go up from here)&lt;/em&gt;&lt;br/&gt;
-&lt;em&gt;Dime Mi Amor (voice at the end is nice)&lt;/em&gt;&lt;br/&gt;
-&lt;em&gt;La Capilla Blanca (slow down at the end doesn't affect any &quot;next song&quot;)&lt;/em&gt;&lt;br/&gt;
+&lt;p&gt;&lt;strong&gt;Song 4&lt;/strong&gt;&lt;br /&gt;
+Also very familiar 
+Highest energy&lt;br /&gt;
+Has a strong ending, can feature a varacion or a nice vocal&lt;br /&gt;
+Makes them feel confidence and lets them express their emotion  &lt;br /&gt;
+&lt;em&gt;El Recodo (might be a good opener, but too powerful, nothing could go up from here)&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Dime Mi Amor (voice at the end is nice)&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;La Capilla Blanca (slow down at the end doesn’t affect any “next song”)&lt;/em&gt;&lt;br /&gt;
 &lt;em&gt;Patetico (nice variacion)&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3&gt;Things to think about&lt;/h3&gt;
-
+&lt;h3 id=&quot;things-to-think-about&quot;&gt;Things to think about&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;The start and the end are the most important, people remember these
-
-&lt;ul&gt;
-&lt;li&gt;primacy and recency effect in psychology&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Familiarity and variety should be balanced
-
-&lt;ul&gt;
-&lt;li&gt;too many familiar songs is boring and tired&lt;/li&gt;
-&lt;li&gt;too much variety is bothersome, even if all the songs are danceable&lt;/li&gt;
-&lt;li&gt;the middle of the set is a good place to introduce less known music&lt;/li&gt;
-&lt;li&gt;listening to your collection TOO MUCH may throw off your feeling of what is familiar within the community&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Guide the change in energy within the tanda
-
-&lt;ul&gt;
-&lt;li&gt;should travel in a specific direction - the goal of the tanda&lt;/li&gt;
-&lt;li&gt;the intensity of the direction should increase over the tanda, not fall&lt;/li&gt;
-&lt;li&gt;direction can be romance, intensity, virtuosity, etc&lt;/li&gt;
-&lt;li&gt;does not ALL need to be moving upward, but last two should&lt;/li&gt;
-&lt;li&gt;could go down on the second song (forms a checkmark shape)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Don't get in the way of the tanda being danceable just to explore as a DJ&lt;/li&gt;
-&lt;li&gt;Don't leave a slow ending on a song in the middle, it will interfere with the next song's energy&lt;/li&gt;
-&lt;li&gt;Same singer &amp;amp; orchestra is usually best
-
-&lt;ul&gt;
-&lt;li&gt;changing will alert some dancers, taking them out of the moment&lt;/li&gt;
-&lt;li&gt;can change orchestras if there's a very specific reason&lt;/li&gt;
-&lt;li&gt;can mix instrumental / vocal (vocal often has higher intensity)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Varacion usually in Song 4 but can be in others if they feel right&lt;/li&gt;
-&lt;li&gt;Watch out for songs involving soccor in the lyrics, can be distracting to spanish speakers&lt;/li&gt;
+  &lt;li&gt;The start and the end are the most important, people remember these
+    &lt;ul&gt;
+      &lt;li&gt;primacy and recency effect in psychology&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Familiarity and variety should be balanced
+    &lt;ul&gt;
+      &lt;li&gt;too many familiar songs is boring and tired&lt;/li&gt;
+      &lt;li&gt;too much variety is bothersome, even if all the songs are danceable&lt;/li&gt;
+      &lt;li&gt;the middle of the set is a good place to introduce less known music&lt;/li&gt;
+      &lt;li&gt;listening to your collection TOO MUCH may throw off your feeling of what is familiar within the community&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Guide the change in energy within the tanda
+    &lt;ul&gt;
+      &lt;li&gt;should travel in a specific direction - the goal of the tanda&lt;/li&gt;
+      &lt;li&gt;the intensity of the direction should increase over the tanda, not fall&lt;/li&gt;
+      &lt;li&gt;direction can be romance, intensity, virtuosity, etc&lt;/li&gt;
+      &lt;li&gt;does not ALL need to be moving upward, but last two should&lt;/li&gt;
+      &lt;li&gt;could go down on the second song (forms a checkmark shape)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Don’t get in the way of the tanda being danceable just to explore as a DJ&lt;/li&gt;
+  &lt;li&gt;Don’t leave a slow ending on a song in the middle, it will interfere with the next song’s energy&lt;/li&gt;
+  &lt;li&gt;Same singer &amp;amp; orchestra is usually best
+    &lt;ul&gt;
+      &lt;li&gt;changing will alert some dancers, taking them out of the moment&lt;/li&gt;
+      &lt;li&gt;can change orchestras if there’s a very specific reason&lt;/li&gt;
+      &lt;li&gt;can mix instrumental / vocal (vocal often has higher intensity)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Varacion usually in Song 4 but can be in others if they feel right&lt;/li&gt;
+  &lt;li&gt;Watch out for songs involving soccor in the lyrics, can be distracting to spanish speakers&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;h2&gt;The SuperTanda&lt;/h2&gt;
-
-&lt;p&gt;The molecular chain&lt;br/&gt;
+&lt;h2 id=&quot;the-supertanda&quot;&gt;The SuperTanda&lt;/h2&gt;
+&lt;p&gt;The molecular chain&lt;br /&gt;
 TTM or TTV - As a unit, lower energy tango to higher energy tango&lt;/p&gt;
 
-&lt;h2&gt;Space - The Ronda&lt;/h2&gt;
-
-&lt;p&gt;Rectangle provides opportunity for different movement based on side length&lt;br/&gt;
-Square can feel more consistent to some dancers&lt;br/&gt;
+&lt;h2 id=&quot;space---the-ronda&quot;&gt;Space - The Ronda&lt;/h2&gt;
+&lt;p&gt;Rectangle provides opportunity for different movement based on side length&lt;br /&gt;
+Square can feel more consistent to some dancers&lt;br /&gt;
 Permeate tables to allow more entry / exit points&lt;/p&gt;
 
-&lt;h2&gt;How to watch the room&lt;/h2&gt;
-
-&lt;p&gt;Blur your vision and perceive the flow, are there big gaps or concentrations?&lt;br/&gt;
-If people are focused on specific musical elements or movements too much, it suggests they aren't feeling the music and their partner enough.&lt;br/&gt;
-D'Arienzo: forces them to adhere to the beat&lt;br/&gt;
-Pugliese / Podesta: allows them to focus inward and on each other&lt;br/&gt;
-Watch for temperature&lt;br/&gt;
-&lt;em&gt;If the room is hot, don't make them move enough to heat it up more&lt;/em&gt;&lt;br/&gt;
+&lt;h2 id=&quot;how-to-watch-the-room&quot;&gt;How to watch the room&lt;/h2&gt;
+&lt;p&gt;Blur your vision and perceive the flow, are there big gaps or concentrations?&lt;br /&gt;
+If people are focused on specific musical elements or movements too much, it suggests they aren’t feeling the music and their partner enough.&lt;br /&gt;
+D’Arienzo: forces them to adhere to the beat&lt;br /&gt;
+Pugliese / Podesta: allows them to focus inward and on each other&lt;br /&gt;
+Watch for temperature&lt;br /&gt;
+&lt;em&gt;If the room is hot, don’t make them move enough to heat it up more&lt;/em&gt;&lt;br /&gt;
 &lt;em&gt;If the room is cold, make them move around and warm it up&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2&gt;Homework for Class 3&lt;/h2&gt;
-
+&lt;h2 id=&quot;homework-for-class-3&quot;&gt;Homework for Class 3&lt;/h2&gt;
 &lt;p&gt;Choose 3 songs that represent tandas
 Build a SuperTanda and justify it (TTM or TTV)&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1&gt;Class Three - The Supertanda&lt;/h1&gt;
+&lt;h1 id=&quot;class-three---the-supertanda&quot;&gt;Class Three - The Supertanda&lt;/h1&gt;
 
-&lt;p&gt;Example tanda - builds rythmic intensity&lt;br/&gt;
+&lt;p&gt;Example tanda - builds rythmic intensity&lt;br /&gt;
 &lt;em&gt;Dejame Ser Asi - Llorar por una mujer - Danza Maligna - En la buena y la mala&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Example tanda - builds melodic emotional intensity&lt;br/&gt;
+&lt;p&gt;Example tanda - builds melodic emotional intensity&lt;br /&gt;
 &lt;em&gt;Tristeza Marina - Decime que paso - Charlemos - Griseta&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Bad Example tanda - nice songs but doesn't feel like it progresses&lt;br/&gt;
+&lt;p&gt;Bad Example tanda - nice songs but doesn’t feel like it progresses&lt;br /&gt;
 &lt;em&gt;A Quien La Puede Importar - Esta Noche en Buenos Aires - Gorriones - El Yacare&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Bad Example tanda - &quot;wakes up&quot; the dancers&lt;br/&gt;
+&lt;p&gt;Bad Example tanda - “wakes up” the dancers&lt;br /&gt;
 &lt;em&gt;Santa Milonguita - Trago Amargo - Infamia - Dime mi amor&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Switches singer, recodring quality, pianist&lt;/li&gt;
-&lt;li&gt;This is ok to do as long as the voices are similar&lt;/li&gt;
-&lt;li&gt;Tanturri, Troilo, Di Sarli should be left alone&lt;/li&gt;
-&lt;li&gt;Mixing Beron might be dicey&lt;/li&gt;
+  &lt;li&gt;Switches singer, recodring quality, pianist&lt;/li&gt;
+  &lt;li&gt;This is ok to do as long as the voices are similar&lt;/li&gt;
+  &lt;li&gt;Tanturri, Troilo, Di Sarli should be left alone&lt;/li&gt;
+  &lt;li&gt;Mixing Beron might be dicey&lt;/li&gt;
 &lt;/ul&gt;
 
-
-&lt;p&gt;&lt;strong&gt;Listen to the first and last song to check that there's a progression&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Listen to the first and last song to check that there’s a progression&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Listen to the entire song, they might get weird halfway in - A Pan y Agua&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2&gt;Role of the DJ - Revisted&lt;/h2&gt;
+&lt;h2 id=&quot;role-of-the-dj---revisted&quot;&gt;Role of the DJ - Revisted&lt;/h2&gt;
 
-&lt;p&gt;Facilitate the &quot;milonga experience&quot;&lt;br/&gt;
+&lt;p&gt;Facilitate the “milonga experience”&lt;br /&gt;
 Curating the experience through the music&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Drawing dancers to the floor - Grab a sitter and make them dance with you to break the ice&lt;/li&gt;
-&lt;li&gt;Helping the dancers express the music&lt;/li&gt;
-&lt;li&gt;Helping them navigate through the night, including the change in skill level as the night progresses - Easy / danceable early - gooey center - touching the musical corners toward the end&lt;/li&gt;
-&lt;li&gt;Help them feel the music deeply, focusing on an instrument or sound&lt;/li&gt;
+  &lt;li&gt;Drawing dancers to the floor - Grab a sitter and make them dance with you to break the ice&lt;/li&gt;
+  &lt;li&gt;Helping the dancers express the music&lt;/li&gt;
+  &lt;li&gt;Helping them navigate through the night, including the change in skill level as the night progresses - Easy / danceable early - gooey center - touching the musical corners toward the end&lt;/li&gt;
+  &lt;li&gt;Help them feel the music deeply, focusing on an instrument or sound&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;h4 id=&quot;rule-dont-get-in-the-way-of-the-dancers-youre-a-step-ahead-of-them-but-not-controlling-them&quot;&gt;RULE: Don’t get in the way of the dancers, you’re a step ahead of them but not controlling them&lt;/h4&gt;
 
-&lt;h4&gt;RULE: Don't get in the way of the dancers, you're a step ahead of them but not controlling them&lt;/h4&gt;
+&lt;p&gt;Having supertandas built is helpful&lt;br /&gt;
+Example: &lt;em&gt;Di Sarli / Rufino -&amp;gt; Laurenz / Casas&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Having supertandas built is helpful&lt;br/&gt;
-Example: &lt;em&gt;Di Sarli / Rufino -&gt; Laurenz / Casas&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;crafting-the-flow&quot;&gt;Crafting the flow&lt;/h2&gt;
 
-&lt;h2&gt;Crafting the flow&lt;/h2&gt;
-
-&lt;h3&gt;The three flows&lt;/h3&gt;
+&lt;h3 id=&quot;the-three-flows&quot;&gt;The three flows&lt;/h3&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Tanda&lt;/li&gt;
-&lt;li&gt;Supertanda&lt;/li&gt;
-&lt;li&gt;The entire night&lt;/li&gt;
+  &lt;li&gt;Tanda&lt;/li&gt;
+  &lt;li&gt;Supertanda&lt;/li&gt;
+  &lt;li&gt;The entire night&lt;/li&gt;
 &lt;/ol&gt;
 
-
-&lt;h3&gt;Tools&lt;/h3&gt;
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;/h3&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Sequence of songs and orchestras&lt;/li&gt;
-&lt;li&gt;Energy reset&lt;/li&gt;
-&lt;li&gt;Pattern: TTVTTM TTVTM TTTVM
-
-&lt;ul&gt;
-&lt;li&gt;Use these to control partner change frequencies&lt;/li&gt;
-&lt;li&gt;TTVTM will encourage faster rotation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Palate cleanser: chacarrera / salsa / swing
-
-&lt;ul&gt;
-&lt;li&gt;Only a good idea if enough people will actually dance it&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+  &lt;li&gt;Sequence of songs and orchestras&lt;/li&gt;
+  &lt;li&gt;Energy reset&lt;/li&gt;
+  &lt;li&gt;Pattern: TTVTTM TTVTM TTTVM
+    &lt;ul&gt;
+      &lt;li&gt;Use these to control partner change frequencies&lt;/li&gt;
+      &lt;li&gt;TTVTM will encourage faster rotation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Palate cleanser: chacarrera / salsa / swing
+    &lt;ul&gt;
+      &lt;li&gt;Only a good idea if enough people will actually dance it&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;h3 id=&quot;energy-level-flow&quot;&gt;Energy level flow&lt;/h3&gt;
 
-&lt;h3&gt;Energy level flow&lt;/h3&gt;
-
-&lt;p&gt;Compare a sawtooth energy pattern with a sinusoidal one&lt;br/&gt;
-Sawtooth: doesn't allow for pallate cleansers&lt;/p&gt;
+&lt;p&gt;Compare a sawtooth energy pattern with a sinusoidal one&lt;br /&gt;
+Sawtooth: doesn’t allow for pallate cleansers&lt;/p&gt;
 
 &lt;p&gt;T1 T3 V5 T2 T4 M6&lt;/p&gt;
 
-&lt;h4&gt;TT Pairs&lt;/h4&gt;
+&lt;h4 id=&quot;tt-pairs&quot;&gt;TT Pairs&lt;/h4&gt;
+&lt;p&gt;DiSarli/Rufino -&amp;gt; Laurenz/Casas : Increasing strechiness&lt;br /&gt;
+Fresedo -&amp;gt; Troilo : Rythmic playfulness (gentle to more gripping)&lt;/p&gt;
 
-&lt;p&gt;DiSarli/Rufino -&gt; Laurenz/Casas : Increasing strechiness&lt;br/&gt;
-Fresedo -&gt; Troilo : Rythmic playfulness (gentle to more gripping)&lt;/p&gt;
-
-&lt;p&gt;Crossing musical families between sets allows you to differentiate the adjacent sets&lt;br/&gt;
-Avoid repeating musical familes (Canaro -&gt; OTV would be too much)&lt;br/&gt;
+&lt;p&gt;Crossing musical families between sets allows you to differentiate the adjacent sets&lt;br /&gt;
+Avoid repeating musical familes (Canaro -&amp;gt; OTV would be too much)&lt;br /&gt;
 Alternating rythmic melodic within the supertanda covers your dancers tastes better&lt;/p&gt;
 
 &lt;p&gt;Think about the thread between tango 1,2 and 4,5&lt;/p&gt;
 
-&lt;h4&gt;Range of emotions&lt;/h4&gt;
-
-&lt;p&gt;Should be tighter in the beginning for newer dancers or people who just arrived&lt;br/&gt;
+&lt;h4 id=&quot;range-of-emotions&quot;&gt;Range of emotions&lt;/h4&gt;
+&lt;p&gt;Should be tighter in the beginning for newer dancers or people who just arrived&lt;br /&gt;
 Should get wider toward the end to fill more of the milonga experience&lt;/p&gt;
 
-&lt;p&gt;Notes:&lt;br/&gt;
-Canaro doesn't work pre-milonga, not enough build&lt;br/&gt;
-DiSarli/Podesta into a Biagi would be too abrupt&lt;br/&gt;
-No vals after a DiSarli/Podesta - they're too swirly and round (abrupt)&lt;/p&gt;
+&lt;p&gt;Notes:&lt;br /&gt;
+Canaro doesn’t work pre-milonga, not enough build&lt;br /&gt;
+DiSarli/Podesta into a Biagi would be too abrupt&lt;br /&gt;
+No vals after a DiSarli/Podesta - they’re too swirly and round (abrupt)&lt;/p&gt;
 
-&lt;h4&gt;Cortinas&lt;/h4&gt;
-
-&lt;p&gt;They should inspire motion, but in a vague way - Don't suggest swing / salsa&lt;br/&gt;
-Should follow the previous tanda to prevent ruining the embrace-feeling they had&lt;br/&gt;
+&lt;h4 id=&quot;cortinas&quot;&gt;Cortinas&lt;/h4&gt;
+&lt;p&gt;They should inspire motion, but in a vague way - Don’t suggest swing / salsa&lt;br /&gt;
+Should follow the previous tanda to prevent ruining the embrace-feeling they had&lt;br /&gt;
 Length based on how long it will take the floor to clear (20s - 70s)C&lt;/p&gt;
 
-&lt;h4&gt;Changing the pattern&lt;/h4&gt;
-
-&lt;p&gt;Last 30 minutes, or some defining point, she stops playing milongas and valses, just varies the energy levels of tangos&lt;br/&gt;
+&lt;h4 id=&quot;changing-the-pattern&quot;&gt;Changing the pattern&lt;/h4&gt;
+&lt;p&gt;Last 30 minutes, or some defining point, she stops playing milongas and valses, just varies the energy levels of tangos&lt;br /&gt;
 Reduces rotation and enhances flow&lt;/p&gt;
 
-&lt;h2&gt;Ending notes&lt;/h2&gt;
-
-&lt;p&gt;Disabling trackpad-touch-to-click or bringing a mouse&lt;br/&gt;
-Build double the sets you need for the time&lt;br/&gt;
-Mixing - Saca chispas only good decaro milonga, has to be mixed with others&lt;br/&gt;
+&lt;h2 id=&quot;ending-notes&quot;&gt;Ending notes&lt;/h2&gt;
+&lt;p&gt;Disabling trackpad-touch-to-click or bringing a mouse&lt;br /&gt;
+Build double the sets you need for the time&lt;br /&gt;
+Mixing - Saca chispas only good decaro milonga, has to be mixed with others&lt;br /&gt;
 Tanda placards - nice but if you use them make sure you actually use them&lt;/p&gt;
 </description>
 				<pubDate>Thu, 25 Oct 2018 09:00:00 -0700</pubDate>
-				<link>/2018/10/25/music-for-djs.html</link>
-				<guid isPermaLink="true">/2018/10/25/music-for-djs.html</guid>
+				<link>http://localhost:4000/2018/10/25/music-for-djs.html</link>
+				<guid isPermaLink="true">http://localhost:4000/2018/10/25/music-for-djs.html</guid>
 			</item>
 		
 	</channel>
