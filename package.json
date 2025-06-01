@@ -1,0 +1,22 @@
+{
+  "name": "kyle-james-kirwan-blog",
+  "version": "1.0.0",
+  "description": "Kyle James Kirwan's personal website",
+  "private": true,
+  "scripts": {
+    "build": "bundle install && bundle exec jekyll build",
+    "dev": "bundle exec jekyll serve"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylejameskirwan/kylejameskirwan.github.io.git"
+  },
+  "author": "Kyle James Kirwan",
+  "homepage": "https://github.com/kylejameskirwan/kylejameskirwan.github.io#readme"
+}
+
