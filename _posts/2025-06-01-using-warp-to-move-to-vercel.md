@@ -5,37 +5,23 @@ date:   2025-06-01
 categories: 
 ---
 
-I've been hosting this blog on GitHub Pages for several years now, and while it's been reliable, I've been curious about trying out Vercel for a while. The promise of faster builds, better analytics, and more modern deployment options was appealing. But as someone who doesn't write code for a living, the technical aspects of migration have always been a bit daunting.
+I recently transitioned my blog from GitHub Pages to Vercel, seeking improvements like faster builds and enhanced analytics. While I'm not a developer, and the technical aspects of such migrations have been challenging for me in the past, this time I had the assistance of Warp, an AI terminal application.
 
-Enter Warp, the AI-powered terminal that's been making waves recently. I decided to give it a try for this migration project, and I'm still processing how mind-blowing the experience was.
+## Streamlining the Migration
 
-## The Migration Process
+Warp helped automate many of the terminal tasks. This included setting up configuration files, running Jekyll build commands, and handling DNS configurations—all tasks that can typically consume a fair amount of time and effort if done manually. The process became more manageable, as it automated repetitive tasks, and I could focus on achieving the migration without wrestling with every detail.
 
-With Warp's help, I was able to:
+## The Role of Automation
 
-1. Set up the necessary configuration files for Vercel deployment
-2. Configure the build process specifically for Jekyll
-3. Add platform support for Linux to make the deployment work
-4. Set up proper DNS configurations
-5. Deploy the site to Vercel's global CDN
+Warp didn't directly teach me coding skills, but it simplified the execution of essential terminal commands and package installations. This facilitation allowed me to tackle a project I had postponed for some time due to perceived complexity.
 
-What would have normally taken me hours of googling, trial and error, and possibly reaching out to developer friends for help, took less than an hour with Warp guiding me through each step.
+## Completing the Move
 
-## AI Automation: A Non-Engineer's Perspective
+Now, the blog is hosted on Vercel, and the migration mostly proceeded without issues, thanks to Warp's ability to handle the more automated aspects of the work. For non-developers, it's a tool that removes barriers by managing mundane tasks that can easily become obstacles.
 
-As someone who doesn't code professionally, the most remarkable aspect was how Warp bridged the knowledge gap. When I hit roadblocks, the AI would not only suggest solutions but explain the reasoning behind them in terms I could understand.
+---
 
-For example, when we ran into issues with Ruby dependencies, Warp explained:
-
-1. Why the problem was occurring
-2. Multiple approaches to solving it
-3. The pros and cons of each solution
-
-This wasn't just about getting a task done—it was like having a patient mentor walking me through each step, helping me learn along the way.
-
-## Learning Through Failures
-
-Not everything went perfectly smooth. At one point, we ended up with a broken build configuration and needed to roll back to an earlier commit. But even this "failure" was valuable—Warp explained why the approach didn't work and what we could learn from it.
+*This post was written with the assistance of Warp AI, the tool that also facilitated the Vercel migration described above.*
 
 This is what I found most valuable: the AI didn't just give me copy-paste commands to run blindly. It explained the logic behind each decision, helping me build a mental model of how these deployment systems work together.
 
