@@ -2,6 +2,7 @@
 name:               "Kyle James Kirwan"
 
 # URL
+url:                "https://www.kylejameskirwan.com"
 baseurl:            ""
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html

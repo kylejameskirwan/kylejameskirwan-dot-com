@@ -4,11 +4,12 @@
   "description": "Kyle James Kirwan's personal website",
   "private": true,
   "scripts": {
-    "build": "bundle install && bundle exec jekyll build",
+    "build": "bundle install && JEKYLL_ENV=production bundle exec jekyll build",
     "dev": "bundle exec jekyll serve"
   },
   "engines": {
-    "node": ">=14.x"
+    "node": ">=14.x",
+    "ruby": ">=2.7.0"
   },
   "dependencies": {},
   "devDependencies": {},
@@ -17,6 +18,6 @@
     "url": "git+https://github.com/kylejameskirwan/kylejameskirwan.github.io.git"
   },
   "author": "Kyle James Kirwan",
-  "homepage": "https://github.com/kylejameskirwan/kylejameskirwan.github.io#readme"
+  "homepage": "https://www.kylejameskirwan.com"
 }
 
