@@ -15,13 +15,7 @@ Warp helped automate many of the terminal tasks. This included setting up config
 
 Warp didn't directly teach me coding skills, but it simplified the execution of essential terminal commands and package installations. This facilitation allowed me to tackle a project I had postponed for some time due to perceived complexity.
 
-## Completing the Move
-
-Now, the blog is hosted on Vercel, and the migration mostly proceeded without issues, thanks to Warp's ability to handle the more automated aspects of the work. For non-developers, it's a tool that removes barriers by managing mundane tasks that can easily become obstacles.
-
----
-
-*This post was written with the assistance of Warp AI, the tool that also facilitated the Vercel migration described above.*
+*This post was written with the assistance of Warp AI.*
 
 This is what I found most valuable: the AI didn't just give me copy-paste commands to run blindly. It explained the logic behind each decision, helping me build a mental model of how these deployment systems work together.
 
