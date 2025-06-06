@@ -2,26 +2,34 @@
 layout: post
 title:  "Using Warp to move to Vercel"
 date:   2025-06-01
-categories: web-development ai-tools
+categories: 
 ---
 
-I recently transitioned my blog from GitHub Pages to Vercel, achieving significantly faster builds and gaining access to enhanced analytics. While I'm not a developer, and technical migrations have intimidated me in the past, this time I had the assistance of Warp—an AI-powered terminal application that made the entire process surprisingly manageable.
+I moved my blog from GitHub Pages to Vercel a few weeks ago. I'm not a developer, so these kinds of technical projects usually get put on the "someday" list indefinitely. This time I had help from Warp, which is basically an AI that lives in your terminal.
 
-## Streamlining the Migration
+## What actually happened
 
-Warp automated many of the complex terminal tasks that would have otherwise consumed hours of troubleshooting. This included setting up configuration files, running Jekyll build commands, and managing deployment settings. Rather than wrestling with every technical detail, I could focus on the migration goals while Warp handled the repetitive, error-prone tasks.
+Warp automated most of the work I would have struggled with. Instead of me spending hours figuring out configuration files and deployment commands, I just described what I wanted to do and let it handle the details.
 
-## The Role of AI-Assisted Learning
+The AI took care of:
+- Setting up the vercel.json config file
+- Running the right Jekyll build commands  
+- Managing the actual deployment process
+- Walking through the DNS setup
 
-What set Warp apart wasn't just command automation—it was the educational aspect. The AI didn't simply provide copy-paste commands to run blindly. Instead, it explained the reasoning behind each decision, helping me understand how modern deployment systems work together. This approach built my confidence and gave me a mental framework for similar tasks in the future.
+What I liked most: I could supervise what it was doing at each step. It would show me what it was about to do, explain why, then execute. If something looked wrong, I could stop and ask questions. Much better than blindly copy-pasting commands from Stack Overflow.
 
-For instance, when configuring build settings, Warp explained why certain environment variables were needed and how Vercel's build process differs from GitHub Pages. This contextual learning proved invaluable and turned what could have been a frustrating technical exercise into an educational experience.
+## The results
 
-## The End Result
+**Better builds:** Vercel builds are much faster and more reliable.
 
-The site you're reading right now is hosted on Vercel! Build times improved from several minutes to under 30 seconds, and I now have access to detailed analytics about site performance and visitor behavior. Beyond the technical improvements, I've gained confidence in tackling similar projects and a better understanding of modern web deployment practices.
+**Analytics:** GitHub Pages gives you basically nothing. Vercel shows me which posts people actually read, where they're coming from, page load speeds, etc.
 
-For anyone hesitant about using AI tools for technical tasks that seem intimidating, I highly recommend giving it a try. It's not just about completing tasks faster—it's about making technical knowledge more accessible and building skills for future challenges.
+**Actually got it done:** This project had been on my list for months. Having automated help made it something I could tackle in an afternoon instead of putting off forever.
+
+## Worth trying
+
+If you've been putting off some technical project because it seems too complicated, AI tools like this are genuinely helpful. They can do the tedious work while you focus on the decisions that matter.
 
 ---
 
