@@ -441,7 +441,7 @@ tbody tr:nth-child(odd) th {
   bottom: 24px;
   right: 24px;
   background: none;
-  border: 1px solid #ccc;
+  border: 1px solid #666;
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -452,15 +452,16 @@ tbody tr:nth-child(odd) th {
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #333;
   
   &:hover {
     background-color: rgba(0, 0, 0, 0.05);
-    border-color: #999;
+    border-color: #333;
   }
   
   .theme-toggle-icon {
     filter: grayscale(100%);
-    opacity: 0.7;
+    opacity: 0.8;
   }
 }
 
@@ -470,15 +471,16 @@ tbody tr:nth-child(odd) th {
   color: #e6edf3;
   
   .theme-toggle {
-    border-color: #30363d;
+    border-color: #8b949e;
+    color: #e6edf3;
     
     &:hover {
       background-color: rgba(255, 255, 255, 0.08);
-      border-color: #484f58;
+      border-color: #f0f6fc;
     }
     
     .theme-toggle-icon {
-      opacity: 0.8;
+      opacity: 0.9;
     }
   }
   
