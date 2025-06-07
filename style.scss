@@ -507,6 +507,15 @@ tbody tr:nth-child(odd) th {
   }
 }
 
+// System theme indicator
+.system-theme .theme-toggle {
+  border-style: dashed;
+}
+
+.dark-theme.system-theme .theme-toggle {
+  border-style: dashed;
+}
+
 // Dark theme styles
 .dark-theme {
   background-color: #0d1117;

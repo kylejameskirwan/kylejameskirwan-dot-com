@@ -10,8 +10,8 @@
   </head>
 <body>
   <div class="container">
-    <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">
-      <span class="theme-toggle-icon">◐</span>
+    <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme mode">
+      <span class="theme-toggle-icon">◒</span>
     </button>
     {{ content }}
   </div>
@@ -20,28 +20,66 @@
     function toggleTheme() {
       const body = document.body;
       const icon = document.querySelector('.theme-toggle-icon');
+      const currentTheme = localStorage.getItem('theme') || 'system';
       
-      if (body.classList.contains('dark-theme')) {
+      // Cycle through: system → light → dark → system
+      if (currentTheme === 'system') {
+        // Switch to light mode
         body.classList.remove('dark-theme');
+        body.classList.remove('system-theme');
         icon.textContent = '◐';
         localStorage.setItem('theme', 'light');
-      } else {
+      } else if (currentTheme === 'light') {
+        // Switch to dark mode
         body.classList.add('dark-theme');
+        body.classList.remove('system-theme');
         icon.textContent = '◑';
         localStorage.setItem('theme', 'dark');
+      } else {
+        // Switch to system mode
+        body.classList.remove('dark-theme');
+        body.classList.add('system-theme');
+        icon.textContent = '◒';
+        localStorage.setItem('theme', 'system');
+        applySystemTheme();
+      }
+    }
+    
+    function applySystemTheme() {
+      const body = document.body;
+      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        body.classList.add('dark-theme');
+      } else {
+        body.classList.remove('dark-theme');
       }
     }
     
     // Apply saved theme on page load
     document.addEventListener('DOMContentLoaded', function() {
-      const savedTheme = localStorage.getItem('theme');
+      const savedTheme = localStorage.getItem('theme') || 'system';
       const icon = document.querySelector('.theme-toggle-icon');
+      const body = document.body;
       
-      if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-        document.body.classList.add('dark-theme');
+      if (savedTheme === 'dark') {
+        body.classList.add('dark-theme');
+        body.classList.remove('system-theme');
         icon.textContent = '◑';
-      } else {
+      } else if (savedTheme === 'light') {
+        body.classList.remove('dark-theme');
+        body.classList.remove('system-theme');
         icon.textContent = '◐';
+      } else {
+        // system mode
+        body.classList.add('system-theme');
+        icon.textContent = '◒';
+        applySystemTheme();
+        
+        // Listen for system theme changes
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function() {
+          if (localStorage.getItem('theme') === 'system') {
+            applySystemTheme();
+          }
+        });
       }
     });
   </script>
