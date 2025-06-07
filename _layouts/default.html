@@ -10,7 +10,7 @@
 <body>
   <div class="container">
     <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">
-      <span class="theme-toggle-icon">🌙</span>
+      <span class="theme-toggle-icon">◐</span>
     </button>
     {{ content }}
   </div>
@@ -22,11 +22,11 @@
       
       if (body.classList.contains('dark-theme')) {
         body.classList.remove('dark-theme');
-        icon.textContent = '🌙';
+        icon.textContent = '◐';
         localStorage.setItem('theme', 'light');
       } else {
         body.classList.add('dark-theme');
-        icon.textContent = '☀️';
+        icon.textContent = '◑';
         localStorage.setItem('theme', 'dark');
       }
     }
@@ -38,9 +38,9 @@
       
       if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
         document.body.classList.add('dark-theme');
-        icon.textContent = '☀️';
+        icon.textContent = '◑';
       } else {
-        icon.textContent = '🌙';
+        icon.textContent = '◐';
       }
     });
   </script>
