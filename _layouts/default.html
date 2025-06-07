@@ -9,7 +9,40 @@
   </head>
 <body>
   <div class="container">
+    <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">
+      <span class="theme-toggle-icon">🌙</span>
+    </button>
     {{ content }}
   </div>
+  
+  <script>
+    function toggleTheme() {
+      const body = document.body;
+      const icon = document.querySelector('.theme-toggle-icon');
+      
+      if (body.classList.contains('dark-theme')) {
+        body.classList.remove('dark-theme');
+        icon.textContent = '🌙';
+        localStorage.setItem('theme', 'light');
+      } else {
+        body.classList.add('dark-theme');
+        icon.textContent = '☀️';
+        localStorage.setItem('theme', 'dark');
+      }
+    }
+    
+    // Apply saved theme on page load
+    document.addEventListener('DOMContentLoaded', function() {
+      const savedTheme = localStorage.getItem('theme');
+      const icon = document.querySelector('.theme-toggle-icon');
+      
+      if (savedTheme === 'dark' || (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.body.classList.add('dark-theme');
+        icon.textContent = '☀️';
+      } else {
+        icon.textContent = '🌙';
+      }
+    });
+  </script>
 </body>
 </html>
