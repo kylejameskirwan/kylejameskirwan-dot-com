@@ -16,14 +16,14 @@ layout: default
   <h2>No post found</h2>
 {% else %}
 {% for post in site.posts %}
-  <div class="list-item">
+  <a href="{{ site.baseurl }}{{ post.url }}" class="list-item">
     <div class="list-post-date">
       <time>{{ post.date | date_to_string }}</time>
     </div>
     <div class="list-post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      {{ post.title }}
     </div>
-  </div>
+  </a>
 {% endfor %}
 {% endif %}
 </div>

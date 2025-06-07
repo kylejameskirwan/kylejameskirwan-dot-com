@@ -357,7 +357,7 @@ tbody tr:nth-child(odd) th {
   &-item {
     display: flex;
     align-items: baseline;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.75rem;
     gap: 2rem;
     padding: 0.5rem 0;
     margin-left: -1rem;
@@ -366,9 +366,18 @@ tbody tr:nth-child(odd) th {
     padding-right: 1rem;
     border-radius: 6px;
     transition: background-color 0.15s ease;
+    text-decoration: none;
+    color: inherit;
     
     &:hover {
       background-color: rgba(0, 0, 0, 0.03);
+      text-decoration: none;
+    }
+    
+    &:focus {
+      outline: 2px solid #268bd2;
+      outline-offset: 2px;
+      text-decoration: none;
     }
     
     @media (max-width: 38rem) {
@@ -393,19 +402,10 @@ tbody tr:nth-child(odd) th {
   
   &-post-title {
     flex: 1;
-    
-    a {
-      color: #333;
-      font-size: 1.1rem;
-      font-weight: 500;
-      text-decoration: none;
-      line-height: 1.3;
-      
-      &:hover,
-      &:focus {
-        text-decoration: none;
-      }
-    }
+    color: #333;
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1.3;
   }
 }
 
@@ -619,6 +619,10 @@ tbody tr:nth-child(odd) th {
       &:hover {
         background-color: rgba(255, 255, 255, 0.05);
       }
+      
+      &:focus {
+        outline-color: #58a6ff;
+      }
     }
     
     &-post-date {
@@ -626,9 +630,7 @@ tbody tr:nth-child(odd) th {
     }
     
     &-post-title {
-      a {
-        color: #f0f6fc;
-      }
+      color: #f0f6fc;
     }
   }
   
