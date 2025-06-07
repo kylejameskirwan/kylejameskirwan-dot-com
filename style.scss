@@ -313,9 +313,11 @@ tbody tr:nth-child(odd) th {
     margin-bottom: 2rem;
     
     a {
-      color: #aaa;
+      color: #999;
       font-weight: 400;
-      text-transform: lowercase;
+      font-size: .75rem;
+      text-transform: uppercase;
+      text-decoration: none;
       -webkit-transition: all .2s ease;
          -moz-transition: all .2s ease;
               transition: all .2s ease;
@@ -357,6 +359,17 @@ tbody tr:nth-child(odd) th {
     align-items: baseline;
     margin-bottom: 1.5rem;
     gap: 2rem;
+    padding: 0.5rem 0;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 6px;
+    transition: background-color 0.15s ease;
+    
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.03);
+    }
     
     @media (max-width: 38rem) {
       flex-direction: column;
@@ -390,7 +403,7 @@ tbody tr:nth-child(odd) th {
       
       &:hover,
       &:focus {
-        text-decoration: underline;
+        text-decoration: none;
       }
     }
   }
@@ -591,7 +604,7 @@ tbody tr:nth-child(odd) th {
     
     .masthead-nav {
       a {
-        color: #8b949e;
+        color: #6e7681;
         
         &:hover,
         &:focus {
@@ -602,6 +615,12 @@ tbody tr:nth-child(odd) th {
   }
   
   .list {
+    &-item {
+      &:hover {
+        background-color: rgba(255, 255, 255, 0.05);
+      }
+    }
+    
     &-post-date {
       color: #6e7681;
     }
