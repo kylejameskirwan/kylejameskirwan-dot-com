@@ -352,22 +352,47 @@ tbody tr:nth-child(odd) th {
 }
 
 .list {
+  &-item {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 1.5rem;
+    gap: 2rem;
+    
+    @media (max-width: 38rem) {
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+  }
+  
+  &-post-date {
+    flex-shrink: 0;
+    width: 120px;
+    font-size: .75rem;
+    text-transform: uppercase;
+    color: #999;
+    font-weight: 400;
+    
+    @media (max-width: 38rem) {
+      width: auto;
+      margin-bottom: 0.25rem;
+    }
+  }
+  
   &-post-title {
-    margin-bottom: .25rem;
+    flex: 1;
     
     a {
       color: #333;
+      font-size: 1.1rem;
+      font-weight: 500;
+      text-decoration: none;
+      line-height: 1.3;
       
       &:hover,
       &:focus {
-        text-decoration: none;
+        text-decoration: underline;
       }
     }
-  }
-  &-post-date {
-    margin-bottom: 1rem;
-    font-size: .75rem;
-    text-transform: uppercase;
   }
 }
 
@@ -577,6 +602,10 @@ tbody tr:nth-child(odd) th {
   }
   
   .list {
+    &-post-date {
+      color: #6e7681;
+    }
+    
     &-post-title {
       a {
         color: #f0f6fc;
