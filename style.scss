@@ -14,10 +14,14 @@ body {
 }
 
 html {
-  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1.6;
+  
+  @supports (font-variation-settings: normal) {
+    font-family: 'Inter var', sans-serif;
+  }
   
   @media (min-width: 38em) {
     font-size: 20px;
@@ -45,10 +49,10 @@ a {
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: .5rem;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.1;
   color: #333;
-  letter-spacing: -.025rem;
+  letter-spacing: -.01rem;
 }
 
 h1 {
@@ -272,7 +276,7 @@ tbody tr:nth-child(odd) th {
 .masthead {
 
   &-title {
-    font-weight: 300;
+    font-weight: 400;
     
     a {
       color: #333;
@@ -310,7 +314,7 @@ tbody tr:nth-child(odd) th {
     
     a {
       color: #aaa;
-      font-weight: 300;
+      font-weight: 400;
       text-transform: lowercase;
       -webkit-transition: all .2s ease;
          -moz-transition: all .2s ease;
